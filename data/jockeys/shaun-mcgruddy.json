@@ -1,0 +1,170 @@
+{
+  "name": "Shaun McGruddy",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "ODINAKA",
+      "trainerName": "Steve Wolfe",
+      "sp": "$4.60",
+      "weight": "59kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 2:53PM SPUD SHED KALGOORLIE HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "UNDER INFLUENCE",
+      "trainerName": "Daniel & Ben Pearce",
+      "sp": "$21",
+      "weight": "56kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 3:34PM YARRADALE STUD RON SAYERS SPRINT (1100 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "RED CAN MAN",
+      "trainerName": "Steve Wolfe",
+      "sp": "$51",
+      "weight": "58.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 4:09PM THE DEVELOP GOLDEN SADDLE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "CURRIMUNDI",
+      "trainerName": "Steve Wolfe",
+      "sp": "$12",
+      "weight": "57kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 8 - 4:45PM SWAN DRAUGHT-KALGOORLIE CUP (2300 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "CABLE BOY",
+      "trainerName": "Steve Wolfe",
+      "sp": "$31",
+      "weight": "58.5kg",
+      "finishingPosition": 13,
+      "raceTitle": "Race 4 - 1:55PM TABTOUCH - WESTSPEED PLATINUM HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "ROSTISLAV",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$17",
+      "weight": "56kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 8 - 4:30PM UNITE RESOURCING - MAX SIMMONDS STAKES (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "BRAVE DRAGON",
+      "trainerName": "Steve Wolfe",
+      "sp": "$41",
+      "weight": "57kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:31PM THANK YOU NORTHAM RACE CLUB PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "TROPICCONI",
+      "trainerName": "Karen Kersley",
+      "sp": "$3.80F",
+      "weight": "58kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 3 - 2:55PM THANK YOU BUNBURY TURF CLUB HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "BRAVE SPIRIT",
+      "trainerName": "Steve Wolfe",
+      "sp": "$3.70F",
+      "weight": "56kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 8 - 5:42PM ASCOT OPENING DAY 11TH OF OCTOBER HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "BRAVE DRAGON",
+      "trainerName": "Steve Wolfe",
+      "sp": "$9.50",
+      "weight": "56kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 1:49PM PERTH RACING NOW HIRING CARNIVAL STAFF HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "TOSCANO",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$15",
+      "weight": "58kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 2:24PM MORLEY GROWERS MARKET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "SAULOK",
+      "trainerName": "Steve Wolfe",
+      "sp": "$5.50",
+      "weight": "59.5kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 5 - 4:15PM MCA POLYTRACK HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "FIERY SPARK",
+      "trainerName": "Steve Wolfe",
+      "sp": "$16",
+      "weight": "58kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 1 - 1:29PM LAWN PRIDE AUSTRALIA PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "CURRIMUNDI",
+      "trainerName": "Steve Wolfe",
+      "sp": "$51",
+      "weight": "61kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 5 - 3:55PM TABTOUCH STAKES (1650 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "GAGE ROADS",
+      "trainerName": "Steve Wolfe",
+      "sp": "$21",
+      "weight": "59kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:35PM BUDGET CAR AND TRUCK RENTAL HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "ODINAKA",
+      "trainerName": "Steve Wolfe",
+      "sp": "$8.50",
+      "weight": "58.5kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 7 - 5:10PM THE PETER SCOTT 50-YEARS TRIBUTE HANDICAP (1650 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

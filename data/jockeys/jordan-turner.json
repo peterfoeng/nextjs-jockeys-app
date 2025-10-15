@@ -1,0 +1,130 @@
+{
+  "name": "Jordan Turner",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "FAYOLA BABY",
+      "trainerName": "Colin Webster",
+      "sp": "$11",
+      "weight": "57kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 3 - 3:00PM WA COUNTRY BUILDERS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "NATIVE FLOWER",
+      "trainerName": "Colin Webster",
+      "sp": "$3.80",
+      "weight": "59.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 3:37PM TABTOUCH HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "SESH",
+      "trainerName": "Rhys Radford",
+      "sp": "$4.80",
+      "weight": "60kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 5 - 4:10PM TABTOUCH PAST THE POST PAYOUTS HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "KING ADVISO",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$31",
+      "weight": "58.5kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 7 - 4:09PM THE DEVELOP GOLDEN SADDLE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "FALSE STATEMENT",
+      "trainerName": "Felicity Forbes-Ives",
+      "sp": "$26",
+      "weight": "56kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 9 - 5:22PM STATEWIDE OIL HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "HELL’S CITI",
+      "trainerName": "Graeme Ballantyne",
+      "sp": "$31",
+      "weight": "58kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 3 - 2:57PM BUNBURY VOLKSWAGEN MAIDEN (1685 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "SESH",
+      "trainerName": "Rhys Radford",
+      "sp": "$16",
+      "weight": "59.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 2:59PM DRUMMOND GOLF HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "BONNIE LAD",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 10,
+      "raceTitle": "Race 7 - 5:30PM SCHWEPPES HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "NATIVE FLOWER",
+      "trainerName": "Colin Webster",
+      "sp": "$3.50F",
+      "weight": "59.5kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:37PM EYES ON YOU SECURITY HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 02 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "ROKANORI",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$11",
+      "weight": "56.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 4:50PM TABTOUCH HANNANS HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "THE SESSIONE",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$21",
+      "weight": "55.5kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 3 - 2:35PM JOIN THE CLUB - BECOME A MEMBER MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "RESONATOR",
+      "trainerName": "Chris & Michael Gangemi",
+      "sp": "$61",
+      "weight": "55.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 3:20PM WA RACEHORSE OWNERS' ASSOCIATION TROPHY (1000 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

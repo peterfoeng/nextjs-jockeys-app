@@ -1,0 +1,140 @@
+{
+  "name": "Damien Boutet",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "LEAD CINGA",
+      "trainerName": "Carey Martin",
+      "sp": "$51",
+      "weight": "56kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 2:20PM JORDAN OGLESBY MAIDEN (1403 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "WHO BE WHATEE",
+      "trainerName": "Garry Delane",
+      "sp": "$151",
+      "weight": "54kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 6 - 4:55PM GREAT WESTERN INSURANCE BROKERS LADIES DAY SPRINT (1203 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "ELECTRIC BEC (NZ)",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$15",
+      "weight": "56kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 5 - 4:13PM SADDLERY WHOLESALERS HANDICAP (1920 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "THE CHIEF JUSTICE",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$11",
+      "weight": "59kg",
+      "finishingPosition": 11,
+      "raceTitle": "Race 6 - 4:53PM AVON VALLEY POOLS HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "SNIPPAGENT",
+      "trainerName": "Steven Ryan",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 11,
+      "raceTitle": "Race 1 - 1:44PM TABTOUCH PLACE A SAME RACE MULTI MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "SPELLBORN",
+      "trainerName": "Stefan Vahala",
+      "sp": "$17",
+      "weight": "57kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 2:19PM TABTOUCH SCAN MY BET MAIDEN (1300 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "LEAD CINGA",
+      "trainerName": "Carey Martin",
+      "sp": "$91",
+      "weight": "56kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 2 - 1:29PM WESTERN RACEPIX MAIDEN (1413 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "TRUEVINSKY",
+      "trainerName": "Jayce Buckley",
+      "sp": "$26",
+      "weight": "60kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 5 - 4:21PM MOORA TOYOTA MOORA CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "POKHARA",
+      "trainerName": "Bruce Hyde",
+      "sp": "$201",
+      "weight": "57kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 1 - 1:31PM THANK YOU NORTHAM RACE CLUB PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "LEAD CINGA",
+      "trainerName": "Carey Martin",
+      "sp": "$12",
+      "weight": "56kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH - BETTER YOUR BET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "MAGIC OF ZEUS",
+      "trainerName": "Jackie Scott",
+      "sp": "$91",
+      "weight": "55kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 6 - 4:50PM AUSTIN METALS MOUNT MAGNET CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "ELECTRIC BEC (NZ)",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 11,
+      "raceTitle": "Race 5 - 3:48PM BUNBURY VOLKSWAGEN MAIDEN (1695 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "WARRALEA DIAMOND",
+      "trainerName": "Diane Reed",
+      "sp": "$91",
+      "weight": "54kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 7 - 5:00PM TABTOUCH - HAVE YOU GOT THE TOUCH HANDICAP (2025 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

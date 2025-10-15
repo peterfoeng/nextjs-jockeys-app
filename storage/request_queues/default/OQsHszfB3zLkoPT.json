@@ -1,0 +1,9 @@
+{
+	"id": "OQsHszfB3zLkoPT",
+	"json": "{\"id\":\"OQsHszfB3zLkoPT\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct08,WA,Northam\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct08,WA,Northam\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct08%2CWA%2CNortham\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-14T11:35:56.927Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct08%2CWA%2CNortham",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct08,WA,Northam"
+}

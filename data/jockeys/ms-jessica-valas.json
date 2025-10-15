@@ -1,0 +1,140 @@
+{
+  "name": "Ms Jessica Valas",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "I’LL TELL AL",
+      "trainerName": "Sky Ballinger",
+      "sp": "$21",
+      "weight": "56kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 2:26PM HARVEST ROAD GROUP MAIDEN (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "KARLSTAD (NZ)",
+      "trainerName": "Gerard Anthony",
+      "sp": "$8.50",
+      "weight": "55kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 3 - 3:09PM PERTH FOOTBALL CLUB 2 DADS HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "PORTRAIT LAO",
+      "trainerName": "John Townley",
+      "sp": "$151",
+      "weight": "55kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 4 - 3:46PM TABTOUCH LIFE MEMBERS SPRINT (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "TOMMY TO JACK",
+      "trainerName": "John Townley",
+      "sp": "$51",
+      "weight": "55kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "ON CUE",
+      "trainerName": "Bob McPherson",
+      "sp": "$61",
+      "weight": "57kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 1 - 1:31PM THANK YOU NORTHAM RACE CLUB PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "BELLONA GIRL",
+      "trainerName": "Simon Barrass",
+      "sp": "$51",
+      "weight": "56kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:57PM BUNBURY VOLKSWAGEN MAIDEN (1685 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "STORM LORD",
+      "trainerName": "Tina Glasson",
+      "sp": "",
+      "weight": "54kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 7 - 5:30PM SCHWEPPES HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "I’M EUGENE",
+      "trainerName": "Richard Williams",
+      "sp": "$26",
+      "weight": "54kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:16PM EMERALD FARMS WA HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "MAXIMUM IMPACT",
+      "trainerName": "Bruno Monteleone",
+      "sp": "$17",
+      "weight": "58kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "SHE’S DA VAL",
+      "trainerName": "Summer Dickson",
+      "sp": "$21",
+      "weight": "53.5kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 2 - 1:55PM PUD WORTHINGTON MEMORIAL MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "KAIKALI",
+      "trainerName": "Richard Williams",
+      "sp": "$91",
+      "weight": "57kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 2 - 2:04PM WITTENS IRRIGATION & DESIGN MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "LADIES BEST",
+      "trainerName": "Simon Barrass",
+      "sp": "$201",
+      "weight": "53.5kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 3 - 2:39PM QUAYCLEAN MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "SAVVY RULER",
+      "trainerName": "Summer Dickson",
+      "sp": "$101",
+      "weight": "56kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 5 - 3:52PM DRUMMOND GOLF MAIDEN (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

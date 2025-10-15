@@ -1,0 +1,210 @@
+{
+  "name": "Austin Galati",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BIG BOPPER",
+      "trainerName": "Julia Martin",
+      "sp": "$18",
+      "weight": "58kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 2 - 2:50PM MARK HOUSTON MAIDEN (1203 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "THEHORSEMAN",
+      "trainerName": "Allan Hughes",
+      "sp": "$2.05F",
+      "weight": "58kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 5 - 4:21PM TONYA MORRISON HANDICAP (1203 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "COLLECTIVE",
+      "trainerName": "Albert Bowtell",
+      "sp": "$5.50",
+      "weight": "60.5kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:55PM GREAT WESTERN INSURANCE BROKERS LADIES DAY SPRINT (1203 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "NAVY SUN",
+      "trainerName": "Ron Cowl (Jnr)",
+      "sp": "$17",
+      "weight": "59.5kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:28PM THE BIG FREEZE IN THE VALLEY HANDICAP (1403 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "ALBITON",
+      "trainerName": "Sue Naylor",
+      "sp": "$4.20F",
+      "weight": "60kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:53PM AVON VALLEY POOLS HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "SIDE SHOW",
+      "trainerName": "Dylan Bairstow",
+      "sp": "$10",
+      "weight": "58.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:29PM WITTENS IRRIGATION & DESIGN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "BARTIME",
+      "trainerName": "Brett Pope",
+      "sp": "$21",
+      "weight": "57kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 1:55PM TABTOUCH - WESTSPEED PLATINUM HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BIG BOPPER",
+      "trainerName": "Julia Martin",
+      "sp": "$4.60",
+      "weight": "58kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 12:54PM TABTOUCH MAIDEN (1113 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "TWELVEUNDER",
+      "trainerName": "Allan Hughes",
+      "sp": "$2.80F",
+      "weight": "58kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 4 - 2:39PM VALE NOEL BURTON HANDICAP (1213 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "THEHORSEMAN",
+      "trainerName": "Allan Hughes",
+      "sp": "$16",
+      "weight": "62kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 7 - 4:27PM LADIES DAY SUNDAY 12TH OCTOBER HANDICAP (1113 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "MAMA TEMBU",
+      "trainerName": "Summer Dickson",
+      "sp": "$7",
+      "weight": "58kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 2 - 2:11PM THANK YOU PINJARRA RACE CLUB HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 27 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "BIRD’S THE WORD",
+      "trainerName": "Charlotte Skerritt",
+      "sp": "$26",
+      "weight": "57.5kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:12PM TABTOUCH - WESTSPEED PLATINUM SPRING SERIES FINAL (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "FIRST BEACH",
+      "trainerName": "Michael Grantham",
+      "sp": "$1.85F",
+      "weight": "57.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 4 - 3:37PM GREAT SOUTHERN FUELS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "PLAYING AROUND",
+      "trainerName": "Michael Grantham",
+      "sp": "$3.80",
+      "weight": "57kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 5 - 4:15PM MOUNT MAGNET IGA EXPRESS HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "LONG GENES",
+      "trainerName": "Michael Grantham",
+      "sp": "$1.90F",
+      "weight": "60kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:50PM AUSTIN METALS MOUNT MAGNET CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "THE LUCKY CHIP",
+      "trainerName": "Brett Pope",
+      "sp": "$20",
+      "weight": "57.5kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 4 - 3:37PM TABTOUCH - HAVE YOU GOT THE TOUCH HANDICAP (1650 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "ZERA BLUE",
+      "trainerName": "Mack Hall",
+      "sp": "$7.50",
+      "weight": "58kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 1 - 1:02PM ROHAN JEWELLERS HANDICAP (1850 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "HESKET",
+      "trainerName": "Dylan Bairstow",
+      "sp": "$4.60",
+      "weight": "62kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:10PM LEYLAND ENGINEERING SERVICES HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "CANGGU",
+      "trainerName": "Rob Gulberti",
+      "sp": "$3.80",
+      "weight": "59kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "CAPE DOCTOR",
+      "trainerName": "Indianna Weinert",
+      "sp": "$13",
+      "weight": "57kg",
+      "finishingPosition": 11,
+      "raceTitle": "Race 8 - 5:36PM JOIN THE CLUB - CORPORATE MEMBERSHIP HANDICAP (1200 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

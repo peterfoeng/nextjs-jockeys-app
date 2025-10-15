@@ -1,0 +1,150 @@
+{
+  "name": "Miss Samantha Jones",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "FLYING FOREVER",
+      "trainerName": "Jessica Bain",
+      "sp": "$5",
+      "weight": "70kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CITY INVASION",
+      "trainerName": "Julie Walsh",
+      "sp": "$2F",
+      "weight": "74kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MAGIC OF ZEUS",
+      "trainerName": "Jackie Scott",
+      "sp": "$5",
+      "weight": "75kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SOCIAL IMPACT",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "75kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SOCIAL IMPACT",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "75kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 1 - 12:35PM THE POWER FAMILY PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "FLYING FOREVER",
+      "trainerName": "Jessica Bain",
+      "sp": "$2.50",
+      "weight": "71kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 2 - 1:10PM PERCY FAMILY H.M. RUTTER PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MAGIC OF ZEUS",
+      "trainerName": "Jackie Scott",
+      "sp": "$4",
+      "weight": "75kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 3 - 1:45PM AMANDA MACLEOD ELDERS REAL ESTATE MT CLERE PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALREADY RICH",
+      "trainerName": "Jessica Bain",
+      "sp": "$4",
+      "weight": "71kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 4 - 2:45PM DALGETY DOWNS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SLY AS A FOX",
+      "trainerName": "Jessica Bain",
+      "sp": "$2.50",
+      "weight": "75kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 3:45PM THE LEONIE MACLEOD ELDERS LANDOR CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CITY INVASION",
+      "trainerName": "Julie Walsh",
+      "sp": "$1.50F",
+      "weight": "75kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 7 - 5:05PM DSY ENGINEERING A.E. POTTS PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "FLYING FOREVER",
+      "trainerName": "Jessica Bain",
+      "sp": "$5",
+      "weight": "70kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CITY INVASION",
+      "trainerName": "Julie Walsh",
+      "sp": "$2F",
+      "weight": "74kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MAGIC OF ZEUS",
+      "trainerName": "Jackie Scott",
+      "sp": "$5",
+      "weight": "75kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SOCIAL IMPACT",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "75kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Miss"
+}

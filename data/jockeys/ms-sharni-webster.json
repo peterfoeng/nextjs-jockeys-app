@@ -1,0 +1,290 @@
+{
+  "name": "Ms Sharni Webster",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Sunday, 05 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "DEW TELL",
+      "trainerName": "Annaya Pateman",
+      "sp": "$91",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 9,
+      "raceTitle": "Race 1 - 1:35PM TABTOUCH SHARE MY BET MAIDEN (1100 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "IFFUBLUSH (NZ)",
+      "trainerName": "Ryan Hill",
+      "sp": "$31",
+      "weight": "54.5kg (cd 51.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH MAIDEN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "PRETTY DEVINE",
+      "trainerName": "Mack Hall",
+      "sp": "$8.50",
+      "weight": "61.5kg (cd 58.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 3:00PM WA COUNTRY BUILDERS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "OBSCENTINO",
+      "trainerName": "Keri D'Orsogna",
+      "sp": "$16",
+      "weight": "57.5kg (cd 54.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 4:13PM SADDLERY WHOLESALERS HANDICAP (1920 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "ADRETT",
+      "trainerName": "Glenn Webster",
+      "sp": "$6.50",
+      "weight": "61.5kg (cd 58.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 6 - 4:53PM AVON VALLEY POOLS HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "BATTLE COMMANDER",
+      "trainerName": "Paul Jordan",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 14,
+      "raceTitle": "Race 7 - 5:29PM WITTENS IRRIGATION & DESIGN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "BONNY ROCK",
+      "trainerName": "Mack Hall",
+      "sp": "$12",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 5 - 4:10PM TABTOUCH PAST THE POST PAYOUTS HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BLACK CILLA",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$101",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 12:54PM TABTOUCH MAIDEN (1113 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BLOWIN’ SMOKE",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$41",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:29PM WESTERN RACEPIX MAIDEN (1413 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "HOOCHIE GUCCI",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$61",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 4 - 2:39PM VALE NOEL BURTON HANDICAP (1213 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "PULL THE TRIGGER",
+      "trainerName": "Peter Moses",
+      "sp": "$11",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 3:14PM COURTNEY KEEFFE ELDERS REAL ESTATE HANDICAP (1413 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "OUR KIWI PRINCESS (NZ)",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$41",
+      "weight": "55.5kg (cd 52.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 6 - 3:52PM THANK YOU WITTEN’S IRRIGATION & DESIGN HANDICAP (1113 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "WESTERN IMPACT",
+      "trainerName": "Ray Malpass",
+      "sp": "$7",
+      "weight": "56.5kg (cd 54.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 3:09PM PERTH FOOTBALL CLUB 2 DADS HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "WISE WORDS",
+      "trainerName": "Ray Malpass",
+      "sp": "$6.50",
+      "weight": "59kg (cd 57kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "BLOWIN’ SMOKE",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$31",
+      "weight": "58kg (cd 56kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH - BETTER YOUR BET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "OUR LITTLE GEM",
+      "trainerName": "Meg Forrester",
+      "sp": "$19",
+      "weight": "55kg (cd 53kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 2 - 2:27PM BIG YELLOW HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "MAIDMY WAY",
+      "trainerName": "Jodie Liakousis",
+      "sp": "$8",
+      "weight": "55.5kg (cd 53.5kg)",
+      "finishingPosition": 10,
+      "raceTitle": "Race 5 - 4:15PM MOUNT MAGNET IGA EXPRESS HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "EBONY’S ACE",
+      "trainerName": "Meg Forrester",
+      "sp": "$12",
+      "weight": "55kg (cd 53kg)",
+      "finishingPosition": 9,
+      "raceTitle": "Race 6 - 4:50PM AUSTIN METALS MOUNT MAGNET CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "ELSA’S PRIDE",
+      "trainerName": "Mack Hall",
+      "sp": "$6",
+      "weight": "59kg (cd 56kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 2 - 1:37PM EYES ON YOU SECURITY HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "MAGNACHINE",
+      "trainerName": "Neville Parnham",
+      "sp": "$3.90",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 3 - 2:16PM EMERALD FARMS WA HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "BOUGHT AT THE BAR",
+      "trainerName": "Mack Hall",
+      "sp": "$101",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 5 - 3:35PM NOBLE FALLS TAVERN MAIDEN HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "SALARY MAN",
+      "trainerName": "Mack Hall",
+      "sp": "$8.50",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 4:45PM TABTOUCH TOODYAY CUP (1850 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "QUEEN’S SACRIFICE",
+      "trainerName": "Mack Hall",
+      "sp": "$5.50",
+      "weight": "61kg (cd 58kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "SALARY MAN",
+      "trainerName": "Mack Hall",
+      "sp": "$8.50",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:40PM WITTENS IRRIGATION AND DESIGN HANDICAP (2200 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "OBSCENTINO",
+      "trainerName": "Keri D'Orsogna",
+      "sp": "$26",
+      "weight": "59kg (cd 56kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 2:15PM TABTOUCH SCAN YOUR BET HANDICAP (2200 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "WAR COLOURS",
+      "trainerName": "Neville Parnham",
+      "sp": "$21",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 11,
+      "raceTitle": "Race 5 - 3:55PM DEBORTOLI FAMILY WINEMAKERS MAIDEN (1300 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "OBSCENTINO",
+      "trainerName": "Keri D'Orsogna",
+      "sp": "$21",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 1 - 1:29PM MCA POLYTRACK MAIDEN (2100 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "ADRETT",
+      "trainerName": "Glenn Webster",
+      "sp": "$71",
+      "weight": "55kg (cd 52kg)",
+      "finishingPosition": 11,
+      "raceTitle": "Race 7 - 5:07PM WORK AMONGST THE RACEDAY ACTION - PERTH RACING RECRUITING NOW HANDICAP (1200 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

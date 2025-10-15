@@ -1,0 +1,160 @@
+{
+  "name": "Bailey Webster",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "HOOCHIE GUCCI",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$4.40",
+      "weight": "55kg (cd 52kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:32PM TABTOUCH BETTER YOUR BET HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "ZED HOT EXPRESS",
+      "trainerName": "David Smith",
+      "sp": "$6",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 2 - 2:12PM SHIRE OF LEONORA MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "URBAN WARRIOR",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$5",
+      "weight": "57kg (cd 54kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 2:52PM MTM & DESERT SANDS HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "OUR KIWI PRINCESS (NZ)",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$6.50",
+      "weight": "60kg (cd 57kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 3:30PM LAMBRON CONTRACTING LEONORA SPRINT (1200 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "LOVA SESSION",
+      "trainerName": "Adam Durrant",
+      "sp": "$13",
+      "weight": "61kg (cd 58kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 4:55PM GREAT WESTERN INSURANCE BROKERS LADIES DAY SPRINT (1203 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BATTLE ON BATTLER",
+      "trainerName": "Sean Rains",
+      "sp": "$5.50",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 7 - 5:28PM THE BIG FREEZE IN THE VALLEY HANDICAP (1403 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "DONTPLAYWIVMATCHES",
+      "trainerName": "Monique Campbell",
+      "sp": "$151",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH MAIDEN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "NICE BY NATURE",
+      "trainerName": "Monique Campbell",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 15,
+      "raceTitle": "Race 2 - 2:22PM DARRY’S PLUMBING & GAS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "BATTLE ON BATTLER",
+      "trainerName": "Sean Rains",
+      "sp": "$31",
+      "weight": "57.5kg (cd 54.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 2:04PM CONGRATULATIONS BRIGADES, GNFL PREMIERS 2025 HANDICAP (1413 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 01 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "COZZIES CHOICE",
+      "trainerName": "Adam Durrant",
+      "sp": "$21",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 10,
+      "raceTitle": "Race 7 - 4:27PM LADIES DAY SUNDAY 12TH OCTOBER HANDICAP (1113 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "FIRST CONTACT",
+      "trainerName": "Sean Rains",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 9,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "SNIPPAGENT",
+      "trainerName": "Steven Ryan",
+      "sp": "$26",
+      "weight": "54kg (cd 51kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 2 - 1:37PM EYES ON YOU SECURITY HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "NICE BY NATURE",
+      "trainerName": "Monique Campbell",
+      "sp": "$71",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 9,
+      "raceTitle": "Race 4 - 2:51PM SJ SHEARING MAIDEN HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "DONTPLAYWIVMATCHES",
+      "trainerName": "Monique Campbell",
+      "sp": "$61",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 5 - 3:35PM NOBLE FALLS TAVERN MAIDEN HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "DIESEL ’N’ DIRT",
+      "trainerName": "Monique Campbell",
+      "sp": "$41",
+      "weight": "57kg (cd 54kg)",
+      "finishingPosition": 9,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

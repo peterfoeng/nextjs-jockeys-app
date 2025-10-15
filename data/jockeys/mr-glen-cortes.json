@@ -1,0 +1,200 @@
+{
+  "name": "Mr Glen Cortes",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "DANCIN’ DEVIL",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "70kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WATTO’S REVENGE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "IMPENDING FEATURE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$2.50F",
+      "weight": "68kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MINING LEGEND",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "73kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALLEGIANCE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3EF",
+      "weight": "73kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIZZLE TOP",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "70kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "DANCIN’ DEVIL",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$2.5",
+      "weight": "70kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 12:35PM THE POWER FAMILY PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SUPER BON",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$1.50F",
+      "weight": "73kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:10PM PERCY FAMILY H.M. RUTTER PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SLAVICA",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3.5",
+      "weight": "71kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 3 - 1:45PM AMANDA MACLEOD ELDERS REAL ESTATE MT CLERE PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "COPPER ROSE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$5",
+      "weight": "68kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 4 - 2:45PM DALGETY DOWNS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIZZLE TOP",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "70kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 5 - 3:45PM THE LEONIE MACLEOD ELDERS LANDOR CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "IMPENDING FEATURE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:30PM COOLINA HOLDING YARDS D.S. FARRAR PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WATTO’S REVENGE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$2",
+      "weight": "72kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:05PM DSY ENGINEERING A.E. POTTS PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "DANCIN’ DEVIL",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "70kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WATTO’S REVENGE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "IMPENDING FEATURE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$2.50F",
+      "weight": "68kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MINING LEGEND",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "73kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALLEGIANCE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3EF",
+      "weight": "73kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIZZLE TOP",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "70kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": "Mr"
+}

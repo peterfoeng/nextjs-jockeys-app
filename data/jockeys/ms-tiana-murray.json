@@ -1,0 +1,120 @@
+{
+  "name": "Ms Tiana Murray",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "JIMMY SEVEN",
+      "trainerName": "Phil Bland",
+      "sp": "$12",
+      "weight": "60kg (cd 56kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:32PM TABTOUCH BETTER YOUR BET HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "ORANTORIO ROSE",
+      "trainerName": "John Reynolds",
+      "sp": "$31",
+      "weight": "56kg (cd 52kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 2 - 2:12PM SHIRE OF LEONORA MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "LONG KNIFE BROTHER",
+      "trainerName": "Ken Nightingale",
+      "sp": "$17",
+      "weight": "56kg (cd 52kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 5 - 4:16PM FREO GROUP HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "MAGNIFICENT MIA",
+      "trainerName": "George Murray",
+      "sp": "$12",
+      "weight": "56kg (cd 52kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:54PM FARMCO MAIDEN (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "JIMMY SEVEN",
+      "trainerName": "Phil Bland",
+      "sp": "$16",
+      "weight": "58kg (cd 54kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 2 - 2:26PM HARVEST ROAD GROUP MAIDEN (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "GET OUT MICK",
+      "trainerName": "Yannick Valenti",
+      "sp": "$4.80",
+      "weight": "55kg (cd 51kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 4 - 3:46PM TABTOUCH LIFE MEMBERS SPRINT (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "HOBELAR",
+      "trainerName": "Daniel Morton",
+      "sp": "$5.50",
+      "weight": "58.5kg (cd 54.5kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "JIMMY SEVEN",
+      "trainerName": "Phil Bland",
+      "sp": "$41",
+      "weight": "58kg (cd 54kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH - BETTER YOUR BET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "DEAL OBTAINED",
+      "trainerName": "Catherine Godden",
+      "sp": "$5.50",
+      "weight": "55kg (cd 51kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 2 - 2:27PM BIG YELLOW HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "GET OUT MICK",
+      "trainerName": "Yannick Valenti",
+      "sp": "$8.50",
+      "weight": "55kg (cd 51kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 4 - 3:37PM GREAT SOUTHERN FUELS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "RULESQUE",
+      "trainerName": "Jody Mclaughlin",
+      "sp": "$10",
+      "weight": "56.5kg (cd 52.5kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 5 - 4:15PM MOUNT MAGNET IGA EXPRESS HANDICAP (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

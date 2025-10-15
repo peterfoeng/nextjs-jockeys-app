@@ -1,0 +1,20 @@
+{
+  "name": "Craig Staples",
+  "rank": "",
+  "location": "WA",
+  "age": "",
+  "gender": "Male",
+  "salutation": "",
+  "stats": [
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "EL ALAMEIN",
+      "trainerName": "Paul Jordan",
+      "sp": "$3.40",
+      "weight": "57kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 2:22PM DARRY’S PLUMBING & GAS HANDICAP (1200 METRES)"
+    }
+  ]
+}

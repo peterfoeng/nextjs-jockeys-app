@@ -1,0 +1,340 @@
+{
+  "name": "Ms Natika Riordan",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "ELSUENO",
+      "trainerName": "Brett Drury",
+      "sp": "$1.90F",
+      "weight": "58.5kg (cd 56.5kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 1:32PM TABTOUCH BETTER YOUR BET HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "ILLMATIC",
+      "trainerName": "Phil Bland",
+      "sp": "$31",
+      "weight": "56kg (cd 54kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 3 - 2:52PM MTM & DESERT SANDS HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "FORTUNE’S LUCK",
+      "trainerName": "Peter Bamford",
+      "sp": "$3.20F",
+      "weight": "60kg (cd 58kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 4:16PM FREO GROUP HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "GOT LUCKY",
+      "trainerName": "Patrick Bermingham",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 7,
+      "raceTitle": "Race 6 - 4:48PM GENESIS MINERALS LEONORA CUP (1600 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "WEST RIVER JEWEL",
+      "trainerName": "Jackie Scott",
+      "sp": "$31",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 1 - 2:20PM JORDAN OGLESBY MAIDEN (1403 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "PLAYFUL STAR",
+      "trainerName": "Neville Parnham",
+      "sp": "$8.50",
+      "weight": "54.5kg (cd 51.5kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 4 - 3:51PM KELLY ANN HENDERSON HANDICAP (1103 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "OPAL NERO",
+      "trainerName": "Tania Burns",
+      "sp": "$21",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH MAIDEN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "GREY REVOLUTION",
+      "trainerName": "Charlotte Skerritt",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 14,
+      "raceTitle": "Race 2 - 2:22PM DARRY’S PLUMBING & GAS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "WORK HOME FRONT",
+      "trainerName": "Donna Riordan",
+      "sp": "$5.50",
+      "weight": "58.5kg (cd 55.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 3 - 3:00PM WA COUNTRY BUILDERS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "QUICK AS SILVER",
+      "trainerName": "Fenella Martin",
+      "sp": "$13",
+      "weight": "61kg (cd 58kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:37PM TABTOUCH HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "HIGH PRECISION",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$5.50",
+      "weight": "58.5kg (cd 55.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 4:13PM SADDLERY WHOLESALERS HANDICAP (1920 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "WHO SAZ YES",
+      "trainerName": "Donna Riordan",
+      "sp": "$5.50",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:53PM AVON VALLEY POOLS HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "HARBIN",
+      "trainerName": "Donna Riordan",
+      "sp": "$15",
+      "weight": "57.5kg (cd 54.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:50PM TABTOUCH HAVE YOU GOT THE TOUCH HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "MAKWELL SMART",
+      "trainerName": "Sean & Jake Casey",
+      "sp": "$1.35F",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 1 - 1:54PM FARMCO MAIDEN (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "MY MONSTER",
+      "trainerName": "Cooper Casey",
+      "sp": "$4.20",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 2:26PM HARVEST ROAD GROUP MAIDEN (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "ILLMATIC",
+      "trainerName": "Phil Bland",
+      "sp": "$51",
+      "weight": "55kg (cd 52kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 3 - 3:09PM PERTH FOOTBALL CLUB 2 DADS HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "CAPRICORN MAN",
+      "trainerName": "Sean & Jake Casey",
+      "sp": "$6",
+      "weight": "61.5kg (cd 58.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 4 - 3:46PM TABTOUCH LIFE MEMBERS SPRINT (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "DIVINE MERCY",
+      "trainerName": "Darryn Pateman",
+      "sp": "$5.50",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 5 - 4:21PM MOORA TOYOTA MOORA CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "BERRY BERRY GOOD",
+      "trainerName": "Peter Bamford",
+      "sp": "$9",
+      "weight": "57kg (cd 54kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "IMPENDING FEATURE",
+      "trainerName": "Glen Cortes",
+      "sp": "$2.70F",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH - BETTER YOUR BET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "ILLMATIC",
+      "trainerName": "Phil Bland",
+      "sp": "$61",
+      "weight": "55kg (cd 52kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 2:27PM BIG YELLOW HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "DOLCE DIVA",
+      "trainerName": "Carey Martin",
+      "sp": "$7",
+      "weight": "59kg (cd 56kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 3 - 3:02PM TABTOUCH STREAM RACING LIVE HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "BORN TO TALK",
+      "trainerName": "Phil Bland",
+      "sp": "$61",
+      "weight": "58.5kg (cd 55.5kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 4 - 3:37PM GREAT SOUTHERN FUELS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "UNO ME",
+      "trainerName": "Carey Martin",
+      "sp": "$19",
+      "weight": "55.5kg (cd 52.5kg)",
+      "finishingPosition": 11,
+      "raceTitle": "Race 5 - 4:15PM MOUNT MAGNET IGA EXPRESS HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "URBAN WARRIOR",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$11",
+      "weight": "55kg (cd 52kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 6 - 4:50PM AUSTIN METALS MOUNT MAGNET CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "ONE PUNCH",
+      "trainerName": "Steven Burton",
+      "sp": "$6",
+      "weight": "61.5kg (cd 58.5kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 7 - 5:25PM MELBOURNE CUP ON SALE @ BUNBURY HANDICAP (1685 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "PLAYFUL STAR",
+      "trainerName": "Neville Parnham",
+      "sp": "$4.80",
+      "weight": "57kg (cd 54kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 1:37PM EYES ON YOU SECURITY HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "OPAL NERO",
+      "trainerName": "Tania Burns",
+      "sp": "$31",
+      "weight": "57kg (cd 54kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "ACOUSTIC BUBBLES",
+      "trainerName": "Jason Miller",
+      "sp": "",
+      "weight": "",
+      "finishingPosition": 10,
+      "raceTitle": "Race 6 - 4:30PM AFGRI EQUIPMENT MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 21 September 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "HIGH PRECISION",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$6.50",
+      "weight": "54kg (cd 51.5kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:20PM ROCKTECH HANDICAP (1760 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 02 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "SCIENCE DEGREE",
+      "trainerName": "Brett Drury",
+      "sp": "$3.80EF",
+      "weight": "58.5kg (cd 55.5kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 5 - 3:40PM 7 WEST MEDIA HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 02 October 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "MISTRESS OF EXCESS",
+      "trainerName": "Brett Drury",
+      "sp": "$71",
+      "weight": "54kg (cd 51.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 8 - 5:25PM SPUDSHED KALGOORLIE HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "LINE OF THOUGHT",
+      "trainerName": "Neville Parnham",
+      "sp": "$31",
+      "weight": "56kg (cd 53kg)",
+      "finishingPosition": 10,
+      "raceTitle": "Race 8 - 5:41PM SWAN DRAUGHT HANDICAP (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

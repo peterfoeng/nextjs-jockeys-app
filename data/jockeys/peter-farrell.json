@@ -1,0 +1,100 @@
+{
+  "name": "Peter Farrell",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "SOLARIS GLOW",
+      "trainerName": "John Reynolds",
+      "sp": "$7.50",
+      "weight": "56kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 2:12PM SHIRE OF LEONORA MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "FRIES WITH THAT",
+      "trainerName": "Catherine Godden",
+      "sp": "$3.90F",
+      "weight": "56.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 2:52PM MTM & DESERT SANDS HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "STEPCHILD",
+      "trainerName": "Justin Robins",
+      "sp": "$11",
+      "weight": "56kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 4 - 3:30PM LAMBRON CONTRACTING LEONORA SPRINT (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "DEAL OBTAINED",
+      "trainerName": "Catherine Godden",
+      "sp": "$20",
+      "weight": "56kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 5 - 4:16PM FREO GROUP HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "MONEY FOR OLD ROPE",
+      "trainerName": "John Reynolds",
+      "sp": "$20",
+      "weight": "56.5kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 6 - 4:48PM GENESIS MINERALS LEONORA CUP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "HARD TO TOP",
+      "trainerName": "Kayla Farrell",
+      "sp": "$7",
+      "weight": "56kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH - BETTER YOUR BET MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "MAGNASONIC",
+      "trainerName": "Kayla Farrell",
+      "sp": "$14",
+      "weight": "58.5kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:37PM GREAT SOUTHERN FUELS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "MAGNABURMA",
+      "trainerName": "Kayla Farrell",
+      "sp": "$8.50",
+      "weight": "60.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 4:15PM MOUNT MAGNET IGA EXPRESS HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Mount Magnet: Mount Magnet Race Club",
+      "horse": "GOT LUCKY",
+      "trainerName": "Patrick Bermingham",
+      "sp": "$26",
+      "weight": "58kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:50PM AUSTIN METALS MOUNT MAGNET CUP (1800 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

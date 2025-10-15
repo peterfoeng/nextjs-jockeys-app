@@ -1,0 +1,170 @@
+{
+  "name": "Miss Meg Forrester",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "KINKY BOOTS",
+      "trainerName": "Craig Wendt",
+      "sp": "$2.50F",
+      "weight": "68kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OUR LITTLE GEM",
+      "trainerName": "Meg Forrester",
+      "sp": "$4",
+      "weight": "71kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MONACO CALLING",
+      "trainerName": "Meg Forrester",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "EBONY’S ACE",
+      "trainerName": "Meg Forrester",
+      "sp": "$3",
+      "weight": "74kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SLY AS A FOX",
+      "trainerName": "Jessica Bain",
+      "sp": "$2.50EF",
+      "weight": "75kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIME TO THUNDER",
+      "trainerName": "Meg Forrester",
+      "sp": "$3EF",
+      "weight": "75kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SAMBUCA ROSE",
+      "trainerName": "Craig Wendt",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 12:35PM THE POWER FAMILY PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIME TO THUNDER",
+      "trainerName": "Meg Forrester",
+      "sp": "$2EF",
+      "weight": "75kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 1:45PM AMANDA MACLEOD ELDERS REAL ESTATE MT CLERE PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MONACO CALLING",
+      "trainerName": "Meg Forrester",
+      "sp": "$5",
+      "weight": "68kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 4 - 2:45PM DALGETY DOWNS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OUR LITTLE GEM",
+      "trainerName": "Meg Forrester",
+      "sp": "$2EF",
+      "weight": "71kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:30PM COOLINA HOLDING YARDS D.S. FARRAR PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "KINKY BOOTS",
+      "trainerName": "Craig Wendt",
+      "sp": "$2.50F",
+      "weight": "68kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OUR LITTLE GEM",
+      "trainerName": "Meg Forrester",
+      "sp": "$4",
+      "weight": "71kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MONACO CALLING",
+      "trainerName": "Meg Forrester",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "EBONY’S ACE",
+      "trainerName": "Meg Forrester",
+      "sp": "$3",
+      "weight": "74kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SLY AS A FOX",
+      "trainerName": "Jessica Bain",
+      "sp": "$2.50EF",
+      "weight": "75kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TIME TO THUNDER",
+      "trainerName": "Meg Forrester",
+      "sp": "$3EF",
+      "weight": "75kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Miss"
+}

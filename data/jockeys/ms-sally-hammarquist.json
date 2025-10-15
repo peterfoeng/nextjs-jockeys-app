@@ -1,0 +1,60 @@
+{
+  "name": "Ms Sally Hammarquist",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SUPER BON",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TOWNSVILLE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$5",
+      "weight": "75kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TOWNSVILLE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "75kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 3:45PM THE LEONIE MACLEOD ELDERS LANDOR CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SUPER BON",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "TOWNSVILLE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$5",
+      "weight": "75kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

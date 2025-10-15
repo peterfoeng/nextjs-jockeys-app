@@ -1,0 +1,100 @@
+{
+  "name": "Ms Chloe Azzopardi",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Sunday, 05 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "GODSEND LADY",
+      "trainerName": "David Harrison",
+      "sp": "$31",
+      "weight": "55kg",
+      "finishingPosition": 11,
+      "raceTitle": "Race 2 - 2:10PM PURSLOWE TINETTI FUNERALS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 05 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "STORM COMMANDER",
+      "trainerName": "Jonathon Jachmann",
+      "sp": "$18",
+      "weight": "56.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 5:05PM DEBORTOLI FAMILY WINEMAKERS HANDICAP (1100 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "MISS VEUVE",
+      "trainerName": "David Catarino",
+      "sp": "$2.80F",
+      "weight": "56kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 2:55PM TABTOUCH YOU’VE GOT THE TOUCH MAIDEN (1600 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 08 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "DELICATE WARRIOR",
+      "trainerName": "David Harrison",
+      "sp": "$21",
+      "weight": "58kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 4 - 3:35PM TABTOUCH SHARE MY BET MAIDEN (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "ARTIE’S ECLIPSE",
+      "trainerName": "David Catarino",
+      "sp": "$201",
+      "weight": "53kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 8 - 4:30PM UNITE RESOURCING - MAX SIMMONDS STAKES (1000 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "I’M A SOULMAN",
+      "trainerName": "Brian Kersley",
+      "sp": "$13",
+      "weight": "57kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 2:50PM AVONWEST TRANSPORT AND LOGISTICS HUB MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "DANDY’S GEM",
+      "trainerName": "Embroja-Lee Altieri",
+      "sp": "$8",
+      "weight": "54kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 7 - 5:00PM TABTOUCH - HAVE YOU GOT THE TOUCH HANDICAP (2025 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "MISS VEUVE",
+      "trainerName": "David Catarino",
+      "sp": "$51",
+      "weight": "56kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 5 - 3:52PM DRUMMOND GOLF MAIDEN (1400 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "GERONIMO MAGIC",
+      "trainerName": "Jade Tangaroa",
+      "sp": "$21",
+      "weight": "58.5kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 6 - 4:30PM SCHWEPPES HANDICAP (1200 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

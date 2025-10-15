@@ -1,0 +1,40 @@
+{
+  "name": "Taj Dyson",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Sunday, 05 October 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "SAFARI BOY",
+      "trainerName": "George Dupre",
+      "sp": "$41",
+      "weight": "58kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:20PM NORTHAM CUP PACKAGES AVAILABLE THROUGH TRYBOOKING MAIDEN (1300 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "SCARED ME TOO",
+      "trainerName": "George Dupre",
+      "sp": "$101",
+      "weight": "59kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 2 - 2:22PM DARRY’S PLUMBING & GAS HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "ROCKING IN VEGAS",
+      "trainerName": "Kirsten Melis",
+      "sp": "$11",
+      "weight": "58kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:55PM PUD WORTHINGTON MEMORIAL MAIDEN (1000 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Ms Amy Jo Hayes",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "DISCO KICKS",
+      "trainerName": "Glen Sparkes",
+      "sp": "$10",
+      "weight": "60.5kg (cd 58.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 6 - 4:53PM AVON VALLEY POOLS HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "ANTIQUE STAR",
+      "trainerName": "Michael Grantham",
+      "sp": "$5.50",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 3 - 1:15PM QUAYCLEAN HANDICAP (2200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "PHAROAH SHOW",
+      "trainerName": "Michael Grantham",
+      "sp": "$16",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 3:50PM A1 ENGINEERING HANDICAP (1800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Ascot: Western Australian Turf Club",
+      "horse": "SONOFTHEBOSS",
+      "trainerName": "Jim Taylor",
+      "sp": "$8.50",
+      "weight": "59.5kg (cd 56.5kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 10 - 5:47PM RELIABLE ASSET MAINTENANCE HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "VICTORY SWEEP",
+      "trainerName": "Bruce Kay",
+      "sp": "$7.50",
+      "weight": "58kg (cd 56kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:54PM FARMCO MAIDEN (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "ALL FIRED UP",
+      "trainerName": "Bruce Kay",
+      "sp": "$1.55F",
+      "weight": "58kg (cd 56kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 2:26PM HARVEST ROAD GROUP MAIDEN (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "SUPER SUNNY",
+      "trainerName": "Bruce Kay",
+      "sp": "$3.30F",
+      "weight": "56.5kg (cd 54.5kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 3 - 3:09PM PERTH FOOTBALL CLUB 2 DADS HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "SEND IT SON",
+      "trainerName": "Bruce Kay",
+      "sp": "$21",
+      "weight": "55kg (cd 53kg)",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 3:46PM TABTOUCH LIFE MEMBERS SPRINT (1190 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "ROCK DEE JAY",
+      "trainerName": "Bruce Kay",
+      "sp": "$17",
+      "weight": "55kg (cd 53kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 5 - 4:21PM MOORA TOYOTA MOORA CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "TWIGGER",
+      "trainerName": "Bruce Kay",
+      "sp": "$9.50",
+      "weight": "55.5kg (cd 53.5kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "ROSENTREA",
+      "trainerName": "Takahide Ikenushi",
+      "sp": "$26",
+      "weight": "56kg (cd 54kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 4 - 3:32PM YOU’VE GOT THE TABTOUCH MAIDEN (1100 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "LUCKY HEART",
+      "trainerName": "Tracey Diederich",
+      "sp": "$81",
+      "weight": "54kg (cd 52.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 6 - 4:47PM NIXON ELECTRICAL HANDICAP (1400 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 18 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "PHAROAH SHOW",
+      "trainerName": "Michael Grantham",
+      "sp": "$7",
+      "weight": "58.5kg (cd 56.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:25PM MELBOURNE CUP ON SALE @ BUNBURY HANDICAP (1685 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "STARTLING STAR",
+      "trainerName": "Michael Grantham",
+      "sp": "$2.50F",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 4 - 3:37PM TABTOUCH - HAVE YOU GOT THE TOUCH HANDICAP (1650 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "WILLYABRUP",
+      "trainerName": "Bruno Monteleone",
+      "sp": "$21",
+      "weight": "58kg (cd 56kg)",
+      "finishingPosition": 10,
+      "raceTitle": "Race 5 - 3:35PM NOBLE FALLS TAVERN MAIDEN HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "DISCO KICKS",
+      "trainerName": "Glen Sparkes",
+      "sp": "$12",
+      "weight": "60kg (cd 58kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "WICKED COOL",
+      "trainerName": "Jayden Lyall",
+      "sp": "$8.50",
+      "weight": "60.5kg (cd 58.5kg)",
+      "finishingPosition": 5,
+      "raceTitle": "Race 1 - 1:40PM WITTENS IRRIGATION AND DESIGN HANDICAP (2200 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "KARLSTAD (NZ)",
+      "trainerName": "Gerard Anthony",
+      "sp": "$91",
+      "weight": "54.5kg (cd 52.5kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 4 - 3:25PM MORRIS PEST AND WEED CONTROL HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "POKHARA",
+      "trainerName": "Bruce Hyde",
+      "sp": "$101",
+      "weight": "55.5kg (cd 53.5kg)",
+      "finishingPosition": 12,
+      "raceTitle": "Race 5 - 3:55PM DEBORTOLI FAMILY WINEMAKERS MAIDEN (1300 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 14 September 2025",
+      "raceVenue": "Northam: Northam Race Club",
+      "horse": "NICCY’S AFFAIR",
+      "trainerName": "Roy Rogers",
+      "sp": "$20",
+      "weight": "54kg (cd 52.5kg)",
+      "finishingPosition": 8,
+      "raceTitle": "Race 7 - 5:00PM ZAX AND CO HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "EFFORTLESSLY",
+      "trainerName": "Michael Grantham",
+      "sp": "$8.50",
+      "weight": "55kg (cd 53kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 1 - 1:20PM COUNTRY COMFORT PERTH - RACY WEEKEND GETAWAY MAIDEN (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 29 September 2025",
+      "raceVenue": "Bunbury: Bunbury Turf Club",
+      "horse": "PHAROAH SHOW",
+      "trainerName": "Michael Grantham",
+      "sp": "$2.30F",
+      "weight": "61kg (cd 59kg)",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:24PM SWAN DRAUGHT HANDICAP (1695 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "ANTIQUE STAR",
+      "trainerName": "Michael Grantham",
+      "sp": "$6.50",
+      "weight": "56.5kg (cd 53.5kg)",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:10PM THE PETER SCOTT 50-YEARS TRIBUTE HANDICAP (1650 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 20 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "DESERT NYMPH",
+      "trainerName": "Michelle Hagley",
+      "sp": "$31",
+      "weight": "62kg (cd 59kg)",
+      "finishingPosition": 6,
+      "raceTitle": "Race 8 - 5:42PM MORLEY GROWERS MARKET HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "SUPER SUNNY",
+      "trainerName": "Bruce Kay",
+      "sp": "$41",
+      "weight": "58kg (cd 55kg)",
+      "finishingPosition": 4,
+      "raceTitle": "Race 6 - 4:30PM SCHWEPPES HANDICAP (1200 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

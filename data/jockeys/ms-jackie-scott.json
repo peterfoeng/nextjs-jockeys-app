@@ -1,0 +1,100 @@
+{
+  "name": "Ms Jackie Scott",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WESTRIVER DYNIQUE",
+      "trainerName": "Jackie Scott",
+      "sp": "$4",
+      "weight": "68kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "GINGER JIVE",
+      "trainerName": "Jackie Scott",
+      "sp": "$2.50F",
+      "weight": "71kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "RUN TEDDY RUN",
+      "trainerName": "Jackie Scott",
+      "sp": "$5",
+      "weight": "73kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "GINGER JIVE",
+      "trainerName": "Jackie Scott",
+      "sp": "$3",
+      "weight": "71kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 4 - 2:45PM DALGETY DOWNS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "RUN TEDDY RUN",
+      "trainerName": "Jackie Scott",
+      "sp": "$2EF",
+      "weight": "73kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:30PM COOLINA HOLDING YARDS D.S. FARRAR PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WESTRIVER DYNIQUE",
+      "trainerName": "Jackie Scott",
+      "sp": "$4",
+      "weight": "68kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 7 - 5:05PM DSY ENGINEERING A.E. POTTS PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "WESTRIVER DYNIQUE",
+      "trainerName": "Jackie Scott",
+      "sp": "$4",
+      "weight": "68kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "GINGER JIVE",
+      "trainerName": "Jackie Scott",
+      "sp": "$2.50F",
+      "weight": "71kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "RUN TEDDY RUN",
+      "trainerName": "Jackie Scott",
+      "sp": "$5",
+      "weight": "73kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

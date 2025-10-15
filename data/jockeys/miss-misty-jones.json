@@ -1,0 +1,130 @@
+{
+  "name": "Miss Misty Jones",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CAPTAIN CALICO",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$6",
+      "weight": "70kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "GIGI’S CAPACHINO",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OLD TIMES",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MISS RONA",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "73kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CAPTAIN CALICO",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "70kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 2 - 1:10PM PERCY FAMILY H.M. RUTTER PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALLEGIANCE",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$5",
+      "weight": "73kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 1:45PM AMANDA MACLEOD ELDERS REAL ESTATE MT CLERE PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MISS RONA",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "73kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 5 - 3:45PM THE LEONIE MACLEOD ELDERS LANDOR CUP (1800 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OLD TIMES",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "72kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 7 - 5:05PM DSY ENGINEERING A.E. POTTS PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CAPTAIN CALICO",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$6",
+      "weight": "70kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "GIGI’S CAPACHINO",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "OLD TIMES",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "72kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "MISS RONA",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$3",
+      "weight": "73kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Miss"
+}

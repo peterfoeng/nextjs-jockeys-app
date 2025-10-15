@@ -1,0 +1,60 @@
+{
+  "name": "Ms Rosie Mahony",
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "BLOWIN’ SMOKE",
+      "trainerName": "Malcolm Mackenzie",
+      "sp": "$5",
+      "weight": "58kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 2 - 2:12PM SHIRE OF LEONORA MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "DUBLIN RED",
+      "trainerName": "Paul Tapper",
+      "sp": "$6",
+      "weight": "56kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 4 - 3:30PM LAMBRON CONTRACTING LEONORA SPRINT (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "RULING DAME",
+      "trainerName": "Paul Tapper",
+      "sp": "$6",
+      "weight": "56kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 5 - 4:16PM FREO GROUP HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 12 October 2025",
+      "raceVenue": "Geraldton: Geraldton Turf Club",
+      "horse": "SAFE HUSTLE",
+      "trainerName": "Julia Martin",
+      "sp": "$21",
+      "weight": "55kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 6 - 4:55PM GREAT WESTERN INSURANCE BROKERS LADIES DAY SPRINT (1203 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "KING CARTEL",
+      "trainerName": "Mitchell Pateman",
+      "sp": "$11",
+      "weight": "63kg (cd 60kg)",
+      "finishingPosition": 7,
+      "raceTitle": "Race 5 - 4:15PM MCA POLYTRACK HANDICAP (1300 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

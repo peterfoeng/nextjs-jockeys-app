@@ -1,0 +1,190 @@
+{
+  "name": "Miss Bree Nash",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SPEAKING SWAHILI",
+      "trainerName": "Quentin Fowler",
+      "sp": "$4",
+      "weight": "70kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CINNAMON TWIST",
+      "trainerName": "Craig Wendt",
+      "sp": "$5",
+      "weight": "68kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALREADY RICH",
+      "trainerName": "Jessica Bain",
+      "sp": "$4",
+      "weight": "71kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CASH FLOW",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "73kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SHOCK RESULT",
+      "trainerName": "Julie Walsh",
+      "sp": "$2.50EF",
+      "weight": "73kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "LET’S SEA (NZ)",
+      "trainerName": "Jackie Scott",
+      "sp": "$3EF",
+      "weight": "77kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Tuesday, 07 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "EXALTED ROCKSTAR",
+      "trainerName": "Julie Walsh",
+      "sp": "$2.50F",
+      "weight": "71kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CINNAMON TWIST",
+      "trainerName": "Craig Wendt",
+      "sp": "$3",
+      "weight": "68kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 1:10PM PERCY FAMILY H.M. RUTTER PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "LET’S SEA (NZ)",
+      "trainerName": "Jackie Scott",
+      "sp": "$2EF",
+      "weight": "77kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 3 - 1:45PM AMANDA MACLEOD ELDERS REAL ESTATE MT CLERE PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CASH FLOW",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$2.50",
+      "weight": "73kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 4 - 2:45PM DALGETY DOWNS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Monday, 06 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SPEAKING SWAHILI",
+      "trainerName": "Quentin Fowler",
+      "sp": "$5",
+      "weight": "70kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 5:05PM DSY ENGINEERING A.E. POTTS PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SPEAKING SWAHILI",
+      "trainerName": "Quentin Fowler",
+      "sp": "$4",
+      "weight": "70kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 1 - 1:20PM STARICK TRANSPORT MT AUGUSTUS MAIDEN (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CINNAMON TWIST",
+      "trainerName": "Craig Wendt",
+      "sp": "$5",
+      "weight": "68kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 2 - 1:55PM MRS MACS SHED EXMOUTH WOODLANDS PLATE (1000 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "ALREADY RICH",
+      "trainerName": "Jessica Bain",
+      "sp": "$4",
+      "weight": "71kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 3 - 2:30PM GREEN COLLAR BEN WILSON PLATE (800 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "CASH FLOW",
+      "trainerName": "Beth Hammarquist",
+      "sp": "$4",
+      "weight": "73kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 4 - 3:05PM SANDHURST SECURITY F.T STEADMAN PLATE (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "SHOCK RESULT",
+      "trainerName": "Julie Walsh",
+      "sp": "$2.50EF",
+      "weight": "73kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 5 - 3:50PM WITHNELL STOCKYARDS LADIES BRACELET (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "LET’S SEA (NZ)",
+      "trainerName": "Jackie Scott",
+      "sp": "$3EF",
+      "weight": "77kg",
+      "finishingPosition": 1,
+      "raceTitle": "Race 6 - 4:30PM TOPP DOGG BERINGARRA PLATE (1400 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Landor: Eastern Gascoyne Racing Club",
+      "horse": "EXALTED ROCKSTAR",
+      "trainerName": "Julie Walsh",
+      "sp": "$2.50F",
+      "weight": "71kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 7 - 5:10PM ROAD TRAINS OF AUSTRALIA YARLARWEELOR PLATE (1400 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Miss"
+}

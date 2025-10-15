@@ -1,0 +1,60 @@
+{
+  "name": "Ms Mollie Clark",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "CASINO ROYALE",
+      "trainerName": "Kylie Craig",
+      "sp": "$2.90F",
+      "weight": "58kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 2 - 2:12PM SHIRE OF LEONORA MAIDEN (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "ZERA BLUE",
+      "trainerName": "Kylie Craig",
+      "sp": "$7.50",
+      "weight": "56kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 3 - 2:52PM MTM & DESERT SANDS HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "LE TROY",
+      "trainerName": "Kylie Craig",
+      "sp": "$9",
+      "weight": "56kg",
+      "finishingPosition": 7,
+      "raceTitle": "Race 4 - 3:30PM LAMBRON CONTRACTING LEONORA SPRINT (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "KING MOYA",
+      "trainerName": "Justin Robins",
+      "sp": "$5.50",
+      "weight": "59.5kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 5 - 4:16PM FREO GROUP HANDICAP (1200 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 11 October 2025",
+      "raceVenue": "Leonora: Leonora Racing Club",
+      "horse": "WHO’S YOUR MAMA",
+      "trainerName": "Kylie Craig",
+      "sp": "$8.50",
+      "weight": "60kg",
+      "finishingPosition": 3,
+      "raceTitle": "Race 6 - 4:48PM GENESIS MINERALS LEONORA CUP (1600 METRES)"
+    }
+  ],
+  "gender": "Female",
+  "salutation": "Ms"
+}

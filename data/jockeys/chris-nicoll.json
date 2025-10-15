@@ -1,0 +1,90 @@
+{
+  "name": "Chris Nicoll",
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "MY KRYPTONITE",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$12",
+      "weight": "59kg",
+      "finishingPosition": 9,
+      "raceTitle": "Race 1 - 1:47PM TABTOUCH MAIDEN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Thursday, 09 October 2025",
+      "raceVenue": "York: York Racing Inc.",
+      "horse": "MONTY ZOOMER",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$26",
+      "weight": "57.5kg",
+      "finishingPosition": 4,
+      "raceTitle": "Race 7 - 5:29PM WITTENS IRRIGATION & DESIGN HANDICAP (1500 METRES)"
+    },
+    {
+      "raceDate": "Saturday, 04 October 2025",
+      "raceVenue": "Moora: Moora Racing Club",
+      "horse": "STAR POWER",
+      "trainerName": "Tom Pike",
+      "sp": "$3.70F",
+      "weight": "57.5kg",
+      "finishingPosition": 2,
+      "raceTitle": "Race 6 - 4:55PM YOUR LOCAL NUTRIEN AG HANDICAP (1000 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 17 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "STRICTLY CASH",
+      "trainerName": "Steven Ryan",
+      "sp": "$12",
+      "weight": "55kg",
+      "finishingPosition": 8,
+      "raceTitle": "Race 5 - 4:15PM MCA POLYTRACK HANDICAP (1300 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 28 September 2025",
+      "raceVenue": "Toodyay: Toodyay Race Club",
+      "horse": "MONTY ZOOMER",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$9",
+      "weight": "60.5kg",
+      "finishingPosition": 5,
+      "raceTitle": "Race 8 - 5:20PM GGD CONTRACTING HANDICAP (1350 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 21 September 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "VILLEINS",
+      "trainerName": "Helen Harding",
+      "sp": "$151",
+      "weight": "54kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 6 - 4:20PM BLUE SPEC DRILLING BOULDER CUP (2100 METRES)"
+    },
+    {
+      "raceDate": "Sunday, 21 September 2025",
+      "raceVenue": "Kalgoorlie: Kalgoorlie-Boulder Racing Club",
+      "horse": "ROYALE MUCK UP",
+      "trainerName": "Brian Allen",
+      "sp": "$51",
+      "weight": "56.5kg",
+      "finishingPosition": 6,
+      "raceTitle": "Race 7 - 4:55PM HIGHGRADE PERSONNEL HANDICAP (1600 METRES)"
+    },
+    {
+      "raceDate": "Wednesday, 24 September 2025",
+      "raceVenue": "Belmont: Western Australian Turf Club",
+      "horse": "MY KRYPTONITE",
+      "trainerName": "Brock Lewthwaite",
+      "sp": "$101",
+      "weight": "58kg",
+      "finishingPosition": 10,
+      "raceTitle": "Race 4 - 3:14PM TABTOUCH - HAVE YOU GOT THE TOUCH MAIDEN (1200 METRES)"
+    }
+  ],
+  "gender": "Male",
+  "salutation": ""
+}
