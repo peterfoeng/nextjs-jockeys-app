@@ -1,0 +1,43 @@
+{
+  "name": "Harry Coffey",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Manhari Alinghi Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1100,
+      "horse": "SOFT LOVE",
+      "trainerName": "Matt Laurie",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 10,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

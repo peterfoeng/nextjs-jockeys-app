@@ -1,0 +1,64 @@
+{
+  "name": "Patrick Moloney",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Sportsbet Classic",
+      "raceVenue": "Caulfield",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "MCWOODY",
+      "trainerName": "Mark Walker",
+      "spValue": 20,
+      "spString": "$20",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 6,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Schweppes Ethereal Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "GRAND OMAHA",
+      "trainerName": "Matt Laurie",
+      "spValue": 11,
+      "spString": "$11",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 4,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5-X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Alysha Collett",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ASAHI SUPER DRY ANGST STAKES",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "ABERLOUR (NZ)",
+      "trainerName": "Joseph Pride",
+      "spValue": 21,
+      "spString": "$21",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 13,
+      "barrier": 7,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

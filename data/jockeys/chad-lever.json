@@ -1,0 +1,43 @@
+{
+  "name": "Chad Lever",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CABAC F&M MAIDEN HANDICAP",
+      "raceVenue": "Newcastle",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Fillies and Mares, Apprentices can claim.",
+      "distance": 1250,
+      "horse": "FRANKELY SUBLIME",
+      "trainerName": "Chris Waller",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 4,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 15,
+      "scratchedHorses": 9
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

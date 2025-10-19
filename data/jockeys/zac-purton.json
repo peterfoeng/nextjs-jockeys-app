@@ -1,0 +1,43 @@
+{
+  "name": "Zac Purton",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THE KOSCIUSZKO",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "BANDI’S BOY",
+      "trainerName": "Danny Williams",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 12,
+      "barrier": 7,
+      "fieldSize": 14,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

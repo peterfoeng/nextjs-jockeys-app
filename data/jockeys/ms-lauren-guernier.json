@@ -1,0 +1,43 @@
+{
+  "name": "Ms Lauren Guernier",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BROTHERS LEAGUE CLUB QTIS Maiden Plate",
+      "raceVenue": "Innisfail",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "FALKLAND",
+      "trainerName": "Ricky Ludwig",
+      "spValue": 4,
+      "spString": "$4",
+      "weight": 57.5,
+      "claimedWeight": 2,
+      "finishingPosition": 7,
+      "barrier": 6,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

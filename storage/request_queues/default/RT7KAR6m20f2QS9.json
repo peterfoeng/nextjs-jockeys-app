@@ -1,0 +1,9 @@
+{
+	"id": "RT7KAR6m20f2QS9",
+	"json": "{\"id\":\"RT7KAR6m20f2QS9\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CPicklebet%20Park%20Wodonga\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CPicklebet%20Park%20Wodonga\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CPicklebet+Park+Wodonga\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:32.132Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CPicklebet+Park+Wodonga",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CPicklebet%20Park%20Wodonga"
+}

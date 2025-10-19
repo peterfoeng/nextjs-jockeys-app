@@ -1,0 +1,43 @@
+{
+  "name": "Ms Molly Bourke",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ASAHI SUPER DRY ANGST STAKES",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "ASGARDA",
+      "trainerName": "John Sargent",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": null,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 10,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

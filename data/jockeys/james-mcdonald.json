@@ -1,0 +1,64 @@
+{
+  "name": "James McDonald",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BISLEY WORKWEAR REGINALD ALLEN QUALITY",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "CHATTERLEY",
+      "trainerName": "Chris Waller",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 3,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "DELTA BUILDING AUTOMATION ST LEGER STAKES",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 2600,
+      "horse": "SAM HAWKENS (IRE)",
+      "trainerName": "William Haggas",
+      "spValue": 2.3,
+      "spString": "$2.30F",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 5,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 11,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "3-7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

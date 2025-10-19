@@ -1,0 +1,64 @@
+{
+  "name": "Shaun Guymer",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "TRIPLE M RIVERINA BENCHMARK 66 HANDICAP- HEAT OF WAGGA STAYERS SERIES",
+      "raceVenue": "Wagga Riverside",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 66, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2400,
+      "horse": "BURNING AMBITION",
+      "trainerName": "James Ponsonby",
+      "spValue": 4,
+      "spString": "$4",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 3,
+      "fieldSize": 8,
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "originalFieldSize": 8,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WAGGA WAGGA CITY COUNCIL MAIDEN HANDICAP",
+      "raceVenue": "Wagga Riverside",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 57kg, Weight Raised 2kg, Apprentices can claim.",
+      "distance": 1675,
+      "horse": "LUMBER DREAM",
+      "trainerName": "Rodger Waters",
+      "spValue": 31,
+      "spString": "$31",
+      "weight": 61.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 6,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "2-4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

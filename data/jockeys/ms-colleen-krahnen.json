@@ -1,0 +1,43 @@
+{
+  "name": "Ms Colleen Krahnen",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "MJ CLEANERS / MCEVOY FAMILY RATINGS BAND 0 - 50 Handicap",
+      "raceVenue": "Stanthorpe",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "KOGA NINJA",
+      "trainerName": "Steven Thomas",
+      "spValue": 4,
+      "spString": "$4",
+      "weight": 58.5,
+      "claimedWeight": 2,
+      "finishingPosition": 2,
+      "barrier": 4,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Firm 2",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Caitlyn Munro",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Winning Edge Presentations Handicap",
+      "raceVenue": "Morphettville",
+      "raceNumber": 2,
+      "raceGrade": "Class 2, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "KALASEC",
+      "trainerName": "Richard & Chantelle Jolly",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 55.5,
+      "claimedWeight": 3,
+      "finishingPosition": 4,
+      "barrier": 3,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

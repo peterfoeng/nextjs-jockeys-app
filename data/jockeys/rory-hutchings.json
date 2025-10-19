@@ -1,0 +1,64 @@
+{
+  "name": "Rory Hutchings",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CANADIAN CLUB BENCHMARK 78 Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 78, Handicap, Minimum Weight 52.5kg, Apprentices can claim.",
+      "distance": 2206,
+      "horse": "PUNJABI LANDING",
+      "trainerName": "Paul Shailer",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 2,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BECOME A BRC MEMBER QTIS Three-Year-Old Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 2,
+      "raceGrade": "Handicap, Minimum Weight 55.5kg, Three-Years-Old, Apprentices can claim.",
+      "distance": 1810,
+      "horse": "SEVILO (NZ)",
+      "trainerName": "Paul Shailer",
+      "spValue": 4.4,
+      "spString": "$4.40",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 5,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

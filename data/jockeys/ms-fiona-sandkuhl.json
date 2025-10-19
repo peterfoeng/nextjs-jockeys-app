@@ -1,0 +1,43 @@
+{
+  "name": "Ms Fiona Sandkuhl",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "MJ CLEANERS / MCEVOY FAMILY RATINGS BAND 0 - 50 Handicap",
+      "raceVenue": "Stanthorpe",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "CHERRY LIPS",
+      "trainerName": "Ron Drysdale",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 57.5,
+      "claimedWeight": 1.5,
+      "finishingPosition": 9,
+      "barrier": 8,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Firm 2",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Amy O'Driscoll",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "TRIPLE M RIVERINA BENCHMARK 66 HANDICAP- HEAT OF WAGGA STAYERS SERIES",
+      "raceVenue": "Wagga Riverside",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 66, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2400,
+      "horse": "REEF ROAD",
+      "trainerName": "Kerry Weir",
+      "spValue": 9.5,
+      "spString": "$9.50",
+      "weight": 55,
+      "claimedWeight": 2,
+      "finishingPosition": 5,
+      "barrier": 4,
+      "fieldSize": 8,
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "originalFieldSize": 8,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

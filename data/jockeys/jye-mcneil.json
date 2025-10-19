@@ -1,0 +1,43 @@
+{
+  "name": "Jye McNeil",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Manhari Alinghi Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1100,
+      "horse": "AKAYSHA",
+      "trainerName": "Peter Snowden",
+      "spValue": 4.2,
+      "spString": "$4.20F",
+      "weight": 54,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 1,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "dateGenerated": "2025-10-18T04:21:41.911Z",
+  "jockeyCount": 291,
+  "averages": {
+    "winRate": 0.11,
+    "placeRate": 0.34
+  },
+  "topInFormJockeys": [
+    {
+      "name": "Ashley Butler",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "3-2"
+    },
+    {
+      "name": "Ben Moffat",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-3"
+    },
+    {
+      "name": "Blaike McDougall",
+      "winRate": 0.5,
+      "placeRate": 1,
+      "recentForm": "3-1"
+    },
+    {
+      "name": "Chad Lever",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    },
+    {
+      "name": "Chris McIver",
+      "winRate": 0.5,
+      "placeRate": 1,
+      "recentForm": "3-1"
+    },
+    {
+      "name": "Clayton Gallagher",
+      "winRate": 1,
+      "placeRate": 1,
+      "recentForm": "1"
+    },
+    {
+      "name": "Cobi Vitler",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "3"
+    },
+    {
+      "name": "Dylan Turner",
+      "winRate": 0.5,
+      "placeRate": 1,
+      "recentForm": "1-3"
+    },
+    {
+      "name": "Grady Spokes",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-3"
+    },
+    {
+      "name": "Harry Coffey",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    }
+  ],
+  "dueForWinJockeys": []
+}

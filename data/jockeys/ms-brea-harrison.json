@@ -1,0 +1,43 @@
+{
+  "name": "Ms Brea Harrison",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WESTERN QLD EARTHMOVING BENCHMARK 55 Handicap",
+      "raceVenue": "Mitchell",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 55, Handicap, Minimum Weight 57kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "HOFFMAN",
+      "trainerName": "Melissa Birt",
+      "spValue": 6,
+      "spString": "$6",
+      "weight": 57.5,
+      "claimedWeight": 4,
+      "finishingPosition": 1,
+      "barrier": 4,
+      "fieldSize": 8,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 12,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

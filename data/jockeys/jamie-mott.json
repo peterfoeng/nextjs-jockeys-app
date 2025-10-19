@@ -1,0 +1,64 @@
+{
+  "name": "Jamie Mott",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Sportsbet Classic",
+      "raceVenue": "Caulfield",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "FABULOUS FIANO",
+      "trainerName": "Gavin Bedggood",
+      "spValue": 81,
+      "spString": "$81",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 5,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Schweppes Ethereal Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "YUM",
+      "trainerName": "John McArdle",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 11,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8-9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

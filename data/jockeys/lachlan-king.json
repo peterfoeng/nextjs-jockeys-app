@@ -1,0 +1,43 @@
+{
+  "name": "Lachlan King",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Roll the Dice Racing Maiden Plate",
+      "raceVenue": "Bendigo",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2400,
+      "horse": "LAST CARD LOUIE (NZ)",
+      "trainerName": "Denis Pagan",
+      "spValue": 9,
+      "spString": "$9",
+      "weight": 59.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 1,
+      "fieldSize": 5,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 6,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

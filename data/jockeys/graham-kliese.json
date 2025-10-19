@@ -1,0 +1,43 @@
+{
+  "name": "Graham Kliese",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BROTHERS LEAGUE CLUB QTIS Maiden Plate",
+      "raceVenue": "Innisfail",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "GEE UP",
+      "trainerName": "Janel Ryan",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 59.5,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Bradley Vale",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "JCB AUSTRALIA MAIDEN HANDICAP",
+      "raceVenue": "Deniliquin",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "REDNECK WOMAN",
+      "trainerName": "Nathan Hobson",
+      "spValue": 13,
+      "spString": "$13",
+      "weight": 56.5,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 8,
+      "fieldSize": 11,
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "originalFieldSize": 15,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WHITE LION HOTEL BENCHMARK 50 HANDICAP",
+      "raceVenue": "Deniliquin",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "LADY EMILIA",
+      "trainerName": "Paul McVicar",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 5,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 7
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

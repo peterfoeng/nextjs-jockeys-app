@@ -1,0 +1,64 @@
+{
+  "name": "Ashley Butler",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "GREAT NORTHERN Class 6 Plate",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 1,
+      "raceGrade": "Class 6, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "CAPO STRADA",
+      "trainerName": "Ricky Vale",
+      "spValue": 4.4,
+      "spString": "$4.40",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 3,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "TAB BENCHMARK 60 Handicap",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 60, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "distance": null,
+      "horse": "MELO MELO KAVA",
+      "trainerName": "Tracy Simmons",
+      "spValue": 12,
+      "spString": "$12",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 4,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3-2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

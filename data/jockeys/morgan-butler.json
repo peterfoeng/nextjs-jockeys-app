@@ -1,0 +1,43 @@
+{
+  "name": "Morgan Butler",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ACROSS COUNTRY REAL ESTATE BURNETT TO THE BEACH SERIES - HEAT - BENCHMARK 50 Handicap",
+      "raceVenue": "Wondai",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "SMACKEROONY",
+      "trainerName": "Beau Gorman",
+      "spValue": 2.5,
+      "spString": "$2.50F",
+      "weight": 62,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 2,
+      "fieldSize": 7,
+      "trackType": "Sand",
+      "trackCondition": "Good",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

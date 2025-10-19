@@ -1,0 +1,43 @@
+{
+  "name": "Ms Emily Farr",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "COLT PROSSER RACING BENCHMARK 50 HANDICAP",
+      "raceVenue": "Wauchope",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "SWEDEN",
+      "trainerName": "Annette Lee",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 54,
+      "claimedWeight": 2,
+      "finishingPosition": 7,
+      "barrier": 5,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 8,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

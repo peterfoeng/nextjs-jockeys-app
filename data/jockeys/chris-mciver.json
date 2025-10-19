@@ -1,0 +1,64 @@
+{
+  "name": "Chris McIver",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "FRENCHVILLE SPORTS CLUB OPEN Handicap",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 3,
+      "raceGrade": "Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1300,
+      "horse": "FOR VALOUR",
+      "trainerName": "Tim Cook",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 3,
+      "fieldSize": 4,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 9,
+      "scratchedHorses": 5
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "QUEST APARTMENTS ROCKHAMPTON BENCHMARK 60 Handicap",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "RED BEAUTY",
+      "trainerName": "Tom Smith",
+      "spValue": 14,
+      "spString": "$14",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 4,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 2,
+    "winRate": 0.5,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "3-1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

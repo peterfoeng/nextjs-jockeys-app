@@ -1,0 +1,43 @@
+{
+  "name": "Jett Stanley",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Adroit insurance 3YO Maiden Plate",
+      "raceVenue": "Bendigo",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "VALDA WARRIOR",
+      "trainerName": "Rod Symons",
+      "spValue": null,
+      "spString": "",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 13,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

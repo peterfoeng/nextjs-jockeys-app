@@ -1,9 +1,0 @@
-{
-	"id": "wWrmT9sKlHTQllt",
-	"json": "{\"id\":\"wWrmT9sKlHTQllt\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep21,WA,Kalgoorlie\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep21,WA,Kalgoorlie\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep21%2CWA%2CKalgoorlie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-14T11:35:58.584Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep21%2CWA%2CKalgoorlie",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep21,WA,Kalgoorlie"
-}

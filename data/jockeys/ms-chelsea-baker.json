@@ -1,0 +1,43 @@
+{
+  "name": "Ms Chelsea Baker",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "REVELSTONE STUD Maiden Handicap",
+      "raceVenue": "Aquis Park Gold Coast",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1800,
+      "horse": "EFFIE’S JOY",
+      "trainerName": "Danny Bougoure",
+      "spValue": 4.4,
+      "spString": "$4.40",
+      "weight": 54.5,
+      "claimedWeight": 1.5,
+      "finishingPosition": 3,
+      "barrier": 6,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

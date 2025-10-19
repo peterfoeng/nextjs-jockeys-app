@@ -1,0 +1,43 @@
+{
+  "name": "Ms Lacey Morrison",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BROTHERS LEAGUE CLUB QTIS Maiden Plate",
+      "raceVenue": "Innisfail",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "MISTER DOOBEE",
+      "trainerName": "Krystin Allender",
+      "spValue": 3.6,
+      "spString": "$3.60F",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 7,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

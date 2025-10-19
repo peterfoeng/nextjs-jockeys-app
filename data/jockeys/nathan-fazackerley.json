@@ -1,0 +1,43 @@
+{
+  "name": "Nathan Fazackerley",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "MJ CLEANERS / MCEVOY FAMILY RATINGS BAND 0 - 50 Handicap",
+      "raceVenue": "Stanthorpe",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "PRESS YES",
+      "trainerName": "Rob Bowen",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 5,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Firm 2",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

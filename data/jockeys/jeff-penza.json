@@ -1,0 +1,64 @@
+{
+  "name": "Jeff Penza",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CABAC F&M MAIDEN HANDICAP",
+      "raceVenue": "Newcastle",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Fillies and Mares, Apprentices can claim.",
+      "distance": 1250,
+      "horse": "ERNAUX",
+      "trainerName": "Chris Waller",
+      "spValue": 1.8,
+      "spString": "$1.80F",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 2,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 15,
+      "scratchedHorses": 9
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ELECTRA CABLES SUPER MAIDEN PLATE",
+      "raceVenue": "Newcastle",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "RED ROCKS BEACH",
+      "trainerName": "Con Karakatsanis",
+      "spValue": 151,
+      "spString": "$151",
+      "weight": 56.5,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 6,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4-X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

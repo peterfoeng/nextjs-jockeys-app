@@ -1,0 +1,43 @@
+{
+  "name": "Chris Meehan",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BROTHERS LEAGUE CLUB QTIS Maiden Plate",
+      "raceVenue": "Innisfail",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "THIRD MASTER",
+      "trainerName": "Alex Malliff",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 59.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 4,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Zac Spain",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Lamaro's Hotel Plate",
+      "raceVenue": "Caulfield",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "AMPING LASS",
+      "trainerName": "Peter G Moody & Katherine Coleman",
+      "spValue": 19,
+      "spString": "$19",
+      "weight": 54,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Stow Storage Gothic Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "SHEZA ALIBI",
+      "trainerName": "Peter G Moody & Katherine Coleman",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 2,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "5-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

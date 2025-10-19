@@ -1,0 +1,43 @@
+{
+  "name": "Ms Olivia Kendal",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "RICHARD ATTWOOD 80TH QTIS Three-Year-Old & Four-Year-Old BENCHMARK 65 Handicap",
+      "raceVenue": "Aquis Park Gold Coast",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 65, Handicap, Minimum Weight 54kg, Three-Years-Old and Four-Years-Old, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "MISHANI MOET",
+      "trainerName": "Donna Stanbridge",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 52.5,
+      "claimedWeight": 1.5,
+      "finishingPosition": 6,
+      "barrier": 4,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

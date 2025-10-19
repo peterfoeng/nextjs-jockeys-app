@@ -1,0 +1,43 @@
+{
+  "name": "Ms Kacie Adams",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ELECTRA CABLES SUPER MAIDEN PLATE",
+      "raceVenue": "Newcastle",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "LOVE YOU ANYWAY",
+      "trainerName": "Barry Lawrence",
+      "spValue": 201,
+      "spString": "$201",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 1,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Maddison Morris",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "The Barlow Alter Bolt Open Trophy Race Handicap",
+      "raceVenue": "Yea",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "DONATION",
+      "trainerName": "Barry Goodwin",
+      "spValue": null,
+      "spString": "",
+      "weight": 71,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

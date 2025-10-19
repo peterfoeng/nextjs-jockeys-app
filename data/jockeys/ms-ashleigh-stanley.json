@@ -1,0 +1,43 @@
+{
+  "name": "Ms Ashleigh Stanley",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THREE RIVERS MACHINERY MAIDEN PLATE",
+      "raceVenue": "Narromine",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "BOLD ROSIE",
+      "trainerName": "Gayna Williams",
+      "spValue": 3.9,
+      "spString": "$3.90",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 6,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

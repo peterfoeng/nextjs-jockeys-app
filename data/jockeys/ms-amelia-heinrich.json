@@ -1,0 +1,43 @@
+{
+  "name": "Ms Amelia Heinrich",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WESTERN QLD EARTHMOVING BENCHMARK 55 Handicap",
+      "raceVenue": "Mitchell",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 55, Handicap, Minimum Weight 57kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "WOLFGANG",
+      "trainerName": "Rodney Hay",
+      "spValue": 4.2,
+      "spString": "$4.20",
+      "weight": 62.5,
+      "claimedWeight": 4,
+      "finishingPosition": 3,
+      "barrier": 8,
+      "fieldSize": 8,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 12,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

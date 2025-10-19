@@ -1,0 +1,43 @@
+{
+  "name": "Liam Blanch",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "PORT CITY GLASS MAIDEN PLATE",
+      "raceVenue": "Wauchope",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "THE MICHAEL",
+      "trainerName": "Colt Prosser",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 56.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 3,
+      "fieldSize": 5,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 5,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

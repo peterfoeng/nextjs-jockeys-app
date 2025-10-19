@@ -1,0 +1,43 @@
+{
+  "name": "Ms Carleen Hefel",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Manhari Alinghi Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1100,
+      "horse": "NEW YORK LUSTRE",
+      "trainerName": "Enver Jusufovic",
+      "spValue": 8.5,
+      "spString": "$8.50",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 9,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

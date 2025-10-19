@@ -1,0 +1,43 @@
+{
+  "name": "Clayton Gallagher",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THREE RIVERS MACHINERY MAIDEN PLATE",
+      "raceVenue": "Narromine",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "ELDERBERRY WINE",
+      "trainerName": "Alison Smith",
+      "spValue": 2.35,
+      "spString": "$2.35F",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 4,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

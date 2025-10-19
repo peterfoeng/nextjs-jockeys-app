@@ -1,0 +1,43 @@
+{
+  "name": "Jaden Lloyd",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Lamaro's Hotel Plate",
+      "raceVenue": "Caulfield",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "CALL DA VINCI",
+      "trainerName": "Bevan Laming",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 2,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

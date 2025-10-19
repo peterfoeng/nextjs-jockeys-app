@@ -1,0 +1,43 @@
+{
+  "name": "Benjamin Osmond",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BIG DANCE WILD CARD",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 3,
+      "raceGrade": "Handicap, Minimum Weight 52kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "LOCH EAGLE",
+      "trainerName": "Kris Lees",
+      "spValue": 71,
+      "spString": "$71",
+      "weight": 60,
+      "claimedWeight": 2,
+      "finishingPosition": 13,
+      "barrier": 10,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

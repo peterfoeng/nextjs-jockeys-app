@@ -1,0 +1,43 @@
+{
+  "name": "Ms Kath Bell-Pitomac",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THREE RIVERS MACHINERY MAIDEN PLATE",
+      "raceVenue": "Narromine",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "SHOGA",
+      "trainerName": "Troy McCarney",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

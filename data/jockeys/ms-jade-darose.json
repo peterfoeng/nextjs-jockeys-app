@@ -1,0 +1,64 @@
+{
+  "name": "Ms Jade Darose",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "JCB AUSTRALIA MAIDEN HANDICAP",
+      "raceVenue": "Deniliquin",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "DON’T TELL SHERIFF",
+      "trainerName": "Nathan Hobson",
+      "spValue": 9,
+      "spString": "$9",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 11,
+      "barrier": 2,
+      "fieldSize": 11,
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "originalFieldSize": 15,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WHITE LION HOTEL BENCHMARK 50 HANDICAP",
+      "raceVenue": "Deniliquin",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "ELITE GATHERING",
+      "trainerName": "Rhys Archard",
+      "spValue": 4.2,
+      "spString": "$4.20",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 8,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 7
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

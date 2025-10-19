@@ -1,0 +1,43 @@
+{
+  "name": "Kyle Wilson-Taylor",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BECOME A BRC MEMBER QTIS Three-Year-Old Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 2,
+      "raceGrade": "Handicap, Minimum Weight 55.5kg, Three-Years-Old, Apprentices can claim.",
+      "distance": 1810,
+      "horse": "CASTELLO GRANDE",
+      "trainerName": "Robert Heathcote",
+      "spValue": 9,
+      "spString": "$9",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 9,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

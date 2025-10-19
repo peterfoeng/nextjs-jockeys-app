@@ -1,0 +1,43 @@
+{
+  "name": "Ms Yvette Lewis",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THOMAS DAVIS BROWN BENCHMARK 50 HANDICAP",
+      "raceVenue": "Inverell",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "FAST DA",
+      "trainerName": "Scott Cover",
+      "spValue": 4.2,
+      "spString": "$4.20",
+      "weight": 61.5,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 3,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 11,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

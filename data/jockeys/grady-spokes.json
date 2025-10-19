@@ -1,0 +1,64 @@
+{
+  "name": "Grady Spokes",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "LISZTOMANIA MAIDEN PLATE",
+      "raceVenue": "Inverell",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "CASSINI",
+      "trainerName": "Lisa Sheppard",
+      "spValue": 1.6,
+      "spString": "$1.60F",
+      "weight": 56,
+      "claimedWeight": 3,
+      "finishingPosition": 2,
+      "barrier": 2,
+      "fieldSize": 4,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 4,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THOMAS DAVIS BROWN BENCHMARK 50 HANDICAP",
+      "raceVenue": "Inverell",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "LESGO DON",
+      "trainerName": "Ridge Wilson",
+      "spValue": 2.8,
+      "spString": "$2.80F",
+      "weight": 57.5,
+      "claimedWeight": 3,
+      "finishingPosition": 3,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 11,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

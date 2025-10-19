@@ -1,0 +1,43 @@
+{
+  "name": "Kenji Yoshida",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "MJ CLEANERS / MCEVOY FAMILY RATINGS BAND 0 - 50 Handicap",
+      "raceVenue": "Stanthorpe",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "BASIL’S GIFT",
+      "trainerName": "Cameron Byrne",
+      "spValue": 21,
+      "spString": "$21",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 10,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Firm 2",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

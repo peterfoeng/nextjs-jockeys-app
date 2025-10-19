@@ -1,0 +1,43 @@
+{
+  "name": "Ms Minonette Kennedy",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "WESTERN QLD EARTHMOVING BENCHMARK 55 Handicap",
+      "raceVenue": "Mitchell",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 55, Handicap, Minimum Weight 57kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "BEST SIDE",
+      "trainerName": "Raymond Frazer",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 61.5,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 1,
+      "fieldSize": 8,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 12,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

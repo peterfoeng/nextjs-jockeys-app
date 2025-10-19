@@ -1,0 +1,43 @@
+{
+  "name": "Tom Orr",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "QUEST APARTMENTS ROCKHAMPTON BENCHMARK 60 Handicap",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "OUTBACK RINGER",
+      "trainerName": "Alan Jones",
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 59,
+      "claimedWeight": 3,
+      "finishingPosition": 7,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

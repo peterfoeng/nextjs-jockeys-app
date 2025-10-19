@@ -1,0 +1,43 @@
+{
+  "name": "Tyler Schiller",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THE KOSCIUSZKO",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "CLEAR THINKING (GB)",
+      "trainerName": "Paul Messara & Leah Gavranich",
+      "spValue": 3.7,
+      "spString": "$3.70F",
+      "weight": 53.5,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 13,
+      "fieldSize": 14,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

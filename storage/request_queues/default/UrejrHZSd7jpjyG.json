@@ -1,0 +1,9 @@
+{
+	"id": "UrejrHZSd7jpjyG",
+	"json": "{\"id\":\"UrejrHZSd7jpjyG\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CNSW%2CDeniliquin\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CNSW%2CDeniliquin\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CNSW%2CDeniliquin\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:31.405Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CNSW%2CDeniliquin",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CNSW%2CDeniliquin"
+}

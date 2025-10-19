@@ -1,0 +1,64 @@
+{
+  "name": "Billy Cray",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "LISZTOMANIA MAIDEN PLATE",
+      "raceVenue": "Inverell",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "CRIMINAL ART",
+      "trainerName": "Nikki Pollock",
+      "spValue": 2.1,
+      "spString": "$2.10",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 3,
+      "fieldSize": 4,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 4,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THOMAS DAVIS BROWN BENCHMARK 50 HANDICAP",
+      "raceVenue": "Inverell",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "MARALAGO",
+      "trainerName": "Nikki Pollock",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 62,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 4,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 11,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 1,
+    "recentForm": "1-7",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Anna Roper",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ASAHI SUPER DRY ANGST STAKES",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "SHOHISHA",
+      "trainerName": "David Payne",
+      "spValue": 21,
+      "spString": "$21",
+      "weight": null,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 11,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

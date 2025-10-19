@@ -1,0 +1,43 @@
+{
+  "name": "Chris Whiteley",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "MJ CLEANERS / MCEVOY FAMILY RATINGS BAND 0 - 50 Handicap",
+      "raceVenue": "Stanthorpe",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "PARTY PROPHET",
+      "trainerName": "John Hubbard",
+      "spValue": 4,
+      "spString": "$4",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 2,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Firm 2",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

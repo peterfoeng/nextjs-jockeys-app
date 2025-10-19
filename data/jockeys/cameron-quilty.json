@@ -1,0 +1,43 @@
+{
+  "name": "Cameron Quilty",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "JCB AUSTRALIA MAIDEN HANDICAP",
+      "raceVenue": "Deniliquin",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "ISLAND ROCK",
+      "trainerName": "Austy Coffey",
+      "spValue": 4,
+      "spString": "$4",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 6,
+      "fieldSize": 11,
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "originalFieldSize": 15,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

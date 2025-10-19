@@ -1,0 +1,64 @@
+{
+  "name": "Raymond Douglas",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Anthony ‘The Hunt Is Over’ Trophy Race",
+      "raceVenue": "Yea",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": null,
+      "horse": "HELL BE COMING",
+      "trainerName": "Christine Boyd",
+      "spValue": 4.4,
+      "spString": "$4.40",
+      "weight": 69.5,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 4,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "The Barlow Alter Bolt Open Trophy Race Handicap",
+      "raceVenue": "Yea",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "POPEYE THE SAILOR",
+      "trainerName": "Christine Boyd",
+      "spValue": null,
+      "spString": "",
+      "weight": 64.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 3,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 1,
+    "recentForm": "1-7",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

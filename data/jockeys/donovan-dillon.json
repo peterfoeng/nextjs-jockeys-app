@@ -1,0 +1,43 @@
+{
+  "name": "Donovan Dillon",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ELECTRA CABLES SUPER MAIDEN PLATE",
+      "raceVenue": "Newcastle",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "OVER THE RAINBOW",
+      "trainerName": "Paul Perry",
+      "spValue": 31,
+      "spString": "$31",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 10,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

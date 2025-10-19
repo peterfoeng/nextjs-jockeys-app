@@ -1,0 +1,64 @@
+{
+  "name": "Aaron Bullock",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "APS INDUSTRIAL CG&E MAIDEN HANDICAP",
+      "raceVenue": "Newcastle",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Colts, Geldings and Entires, Apprentices can claim.",
+      "distance": 1250,
+      "horse": "MARIKO",
+      "trainerName": "Mark Minervini",
+      "spValue": 6.5,
+      "spString": "$6.50",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 6,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "ELECTRA CABLES SUPER MAIDEN PLATE",
+      "raceVenue": "Newcastle",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 900,
+      "horse": "OAKFIELD MARS",
+      "trainerName": "Damien Lane",
+      "spValue": 7.5,
+      "spString": "$7.50",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 11,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5-8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

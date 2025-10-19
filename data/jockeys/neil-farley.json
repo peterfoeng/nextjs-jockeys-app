@@ -1,0 +1,43 @@
+{
+  "name": "Neil Farley",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Isla Vodka Happy 21st Paddy 3YO Mdn Plte",
+      "raceVenue": "Avoca",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "CINNAMON KISS",
+      "trainerName": "Tom Dabernig",
+      "spValue": 4.6,
+      "spString": "$4.60",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 8,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

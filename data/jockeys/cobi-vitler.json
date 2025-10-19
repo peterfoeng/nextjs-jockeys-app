@@ -1,0 +1,43 @@
+{
+  "name": "Cobi Vitler",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CANADIAN CLUB BENCHMARK 78 Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 78, Handicap, Minimum Weight 52.5kg, Apprentices can claim.",
+      "distance": 2206,
+      "horse": "KIRKEBY",
+      "trainerName": "Chris Waller",
+      "spValue": 6.5,
+      "spString": "$6.50",
+      "weight": 57,
+      "claimedWeight": 3,
+      "finishingPosition": 3,
+      "barrier": 3,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

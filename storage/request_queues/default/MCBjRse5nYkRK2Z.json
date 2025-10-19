@@ -1,0 +1,9 @@
+{
+	"id": "MCBjRse5nYkRK2Z",
+	"json": "{\"id\":\"MCBjRse5nYkRK2Z\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CWondai\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CWondai\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CWondai\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:33.115Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CWondai",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CWondai"
+}

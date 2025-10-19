@@ -1,0 +1,64 @@
+{
+  "name": "Ms Linda Meech",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Vatmen Group 2YO Maiden Plate",
+      "raceVenue": "Bendigo",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Two-Years-Old, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "KNURL",
+      "trainerName": "Tony & Calvin McEvoy",
+      "spValue": 1.4,
+      "spString": "$1.40F",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 1,
+      "fieldSize": 2,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 5,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Adroit insurance 3YO Maiden Plate",
+      "raceVenue": "Bendigo",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "BABUSHKA’S PRIDE",
+      "trainerName": "Danny O'Brien",
+      "spValue": null,
+      "spString": "",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 4,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 1,
+    "recentForm": "1-7",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

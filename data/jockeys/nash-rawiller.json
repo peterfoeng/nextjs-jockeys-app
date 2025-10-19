@@ -1,0 +1,43 @@
+{
+  "name": "Nash Rawiller",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Schweppes Ethereal Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "SPICY LU",
+      "trainerName": "Nick Olive",
+      "spValue": 6,
+      "spString": "$6",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 12,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ms Courtney Bellamy",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "REVELSTONE STUD Maiden Handicap",
+      "raceVenue": "Aquis Park Gold Coast",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1800,
+      "horse": "WEEKEND ARTIST",
+      "trainerName": "Lynlea Small",
+      "spValue": 13,
+      "spString": "$13",
+      "weight": 53,
+      "claimedWeight": 3,
+      "finishingPosition": 2,
+      "barrier": 4,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

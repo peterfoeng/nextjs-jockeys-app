@@ -1,0 +1,43 @@
+{
+  "name": "Heavelon Van Der Hoven",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "XXXX Class 3 Plate",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 3,
+      "raceGrade": "Class 3, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1810,
+      "horse": "VICTORY FLAME",
+      "trainerName": "Annabel & Rob Archibald",
+      "spValue": 4.6,
+      "spString": "$4.60",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 2,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

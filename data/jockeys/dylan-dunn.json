@@ -1,0 +1,64 @@
+{
+  "name": "Dylan Dunn",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Hewitt & Whitty Avoca Maiden Plate",
+      "raceVenue": "Avoca",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1860,
+      "horse": "PRESTIGE GEOFFREY",
+      "trainerName": "Matt Laurie",
+      "spValue": 3.7,
+      "spString": "$3.70",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 2,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Isla Vodka Happy 21st Paddy 3YO Mdn Plte",
+      "raceVenue": "Avoca",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "ARTIES A STAR",
+      "trainerName": "Ciaron Maher",
+      "spValue": 21,
+      "spString": "$21",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 1,
+    "recentForm": "1-6",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

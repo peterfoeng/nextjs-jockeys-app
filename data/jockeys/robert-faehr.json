@@ -1,0 +1,43 @@
+{
+  "name": "Robert Faehr",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CLARENDEN CATTLE CO. Maiden Plate",
+      "raceVenue": "Blackall",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "REIGNING CAPTAIN",
+      "trainerName": "Bevan Johnson",
+      "spValue": 1.7,
+      "spString": "$1.70F",
+      "weight": 60.5,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 3,
+      "fieldSize": 6,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 7,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

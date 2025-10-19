@@ -1,0 +1,43 @@
+{
+  "name": "Ms Mikaela Lawrence",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Peards Nursery Wodonga Maiden Plate",
+      "raceVenue": "Picklebet Park Wodonga",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "THESANDMANCAN",
+      "trainerName": "Craig Widdison",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 8,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

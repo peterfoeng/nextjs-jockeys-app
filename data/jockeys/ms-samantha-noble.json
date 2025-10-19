@@ -1,0 +1,43 @@
+{
+  "name": "Ms Samantha Noble",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Kelsey Watts Memorial Maiden Plate",
+      "raceVenue": "Picklebet Park Wodonga",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "UPINTHECITY",
+      "trainerName": "Steven Noble",
+      "spValue": 51,
+      "spString": "$51",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 10,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

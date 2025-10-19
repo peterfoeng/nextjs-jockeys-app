@@ -1,30 +1,43 @@
 {
   "name": "Ms Ava Catarino",
+  "isFemale": false,
   "rank": "Apprentice",
   "location": "",
   "age": "",
   "stats": [
     {
-      "raceDate": "Saturday, 11 October 2025",
-      "raceVenue": "Leonora: Leonora Racing Club",
-      "horse": "FAST JOHN",
+      "raceDate": "2025-10-17",
+      "raceTitle": "Race 3 - 10:27AM DDH1 WA DRILLING HANDICAP (1400 METRES)",
+      "raceVenue": "Leinster",
+      "raceNumber": 3,
+      "raceGrade": "Class B, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "LENNOX LASS",
       "trainerName": "Peter Bamford",
-      "sp": "$4.20",
-      "weight": "59.5kg (cd 57.5kg)",
-      "finishingPosition": 1,
-      "raceTitle": "Race 1 - 1:32PM TABTOUCH BETTER YOUR BET HANDICAP (1400 METRES)"
-    },
-    {
-      "raceDate": "Saturday, 11 October 2025",
-      "raceVenue": "Leonora: Leonora Racing Club",
-      "horse": "DANCING JACK",
-      "trainerName": "Pamela Oram",
-      "sp": "$9.50",
-      "weight": "55.5kg (cd 53.5kg)",
-      "finishingPosition": 2,
-      "raceTitle": "Race 6 - 4:48PM GENESIS MINERALS LEONORA CUP (1600 METRES)"
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 53,
+      "claimedWeight": 2,
+      "finishingPosition": 4,
+      "barrier": 1,
+      "fieldSize": 4,
+      "trackType": "Dirt",
+      "trackCondition": "Fast",
+      "originalFieldSize": 5,
+      "scratchedHorses": 1
     }
   ],
-  "gender": "Female",
-  "salutation": "Ms"
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "name": "Christian Reith",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "THE KOSCIUSZKO",
+      "raceVenue": "Royal Randwick",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "MELODY AGAIN",
+      "trainerName": "Scott Singleton",
+      "spValue": 26,
+      "spString": "$26",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 8,
+      "fieldSize": 14,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

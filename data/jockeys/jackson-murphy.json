@@ -1,0 +1,64 @@
+{
+  "name": "Jackson Murphy",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "GREAT NORTHERN Class 6 Plate",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 1,
+      "raceGrade": "Class 6, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "DEPTH CHARGE",
+      "trainerName": "Mark Currie",
+      "spValue": 13,
+      "spString": "$13",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 5,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "QUEST APARTMENTS ROCKHAMPTON BENCHMARK 60 Handicap",
+      "raceVenue": "Rockhampton",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "QUARTERSHARE",
+      "trainerName": "Tony Potter",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 5,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "7-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

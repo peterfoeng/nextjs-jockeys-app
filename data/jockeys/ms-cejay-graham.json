@@ -1,0 +1,64 @@
+{
+  "name": "Ms Cejay Graham",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "CANADIAN CLUB BENCHMARK 78 Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 1,
+      "raceGrade": "BenchMark 78, Handicap, Minimum Weight 52.5kg, Apprentices can claim.",
+      "distance": 2206,
+      "horse": "OLD SONG",
+      "trainerName": "Scott Morrisey",
+      "spValue": 6.5,
+      "spString": "$6.50",
+      "weight": 52.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 6,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "BECOME A BRC MEMBER QTIS Three-Year-Old Handicap",
+      "raceVenue": "Eagle Farm",
+      "raceNumber": 2,
+      "raceGrade": "Handicap, Minimum Weight 55.5kg, Three-Years-Old, Apprentices can claim.",
+      "distance": 1810,
+      "horse": "AUTOFICTION",
+      "trainerName": "William Kropp",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7-9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

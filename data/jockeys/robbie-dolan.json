@@ -1,0 +1,43 @@
+{
+  "name": "Robbie Dolan",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Schweppes Ethereal Stakes",
+      "raceVenue": "Caulfield",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": 2000,
+      "horse": "MOTHERDUCK",
+      "trainerName": "Trent Busuttin & Natalie Young",
+      "spValue": 151,
+      "spString": "$151",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 13,
+      "barrier": 6,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

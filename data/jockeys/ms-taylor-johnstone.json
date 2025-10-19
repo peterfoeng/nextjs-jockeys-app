@@ -1,0 +1,64 @@
+{
+  "name": "Ms Taylor Johnstone",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Thomas Farms Maiden Plate",
+      "raceVenue": "Morphettville",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Four-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "LUDO (NZ)",
+      "trainerName": "Dean Saxon",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 56,
+      "claimedWeight": 2,
+      "finishingPosition": 12,
+      "barrier": 7,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "SkyCity Handicap",
+      "raceVenue": "Morphettville",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": null,
+      "horse": "MURPH",
+      "trainerName": "Paul Carey",
+      "spValue": 2.7,
+      "spString": "$2.70F",
+      "weight": 56,
+      "claimedWeight": 2,
+      "finishingPosition": 1,
+      "barrier": 2,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 1,
+    "recentForm": "X-1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}
