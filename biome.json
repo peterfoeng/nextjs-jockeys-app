@@ -7,7 +7,14 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!node_modules", "!.next", "!dist", "!build"]
+    "includes": [
+      "app/**/*",
+      "lib/**/*",
+      "next.config.ts",
+      "package.json",
+      "tsconfig.json",
+      "biome.json"
+    ]
   },
   "formatter": {
     "enabled": true,
