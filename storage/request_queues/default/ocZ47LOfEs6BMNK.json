@@ -1,9 +1,0 @@
-{
-	"id": "ocZ47LOfEs6BMNK",
-	"json": "{\"id\":\"ocZ47LOfEs6BMNK\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CAquis%20Park%20Gold%20Coast\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CAquis%20Park%20Gold%20Coast\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CAquis+Park+Gold+Coast\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:31.943Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CAquis+Park+Gold+Coast",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CAquis%20Park%20Gold%20Coast"
-}

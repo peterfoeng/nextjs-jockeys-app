@@ -1,0 +1,9 @@
+{
+	"id": "qAHeTDXibx9e4GE",
+	"json": "{\"id\":\"qAHeTDXibx9e4GE\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CBeaumont%20Newcastle&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CBeaumont%20Newcastle&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CBeaumont+Newcastle&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:48:00.065Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CBeaumont+Newcastle&recentForm=Y",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CBeaumont%20Newcastle&recentForm=Y"
+}

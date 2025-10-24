@@ -1,0 +1,372 @@
+{
+  "venueInfo": {
+    "name": "Mudgee",
+    "location": "",
+    "clubName": "Mudgee",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CMudgee&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "MUDGEE SOLDIERS CLUB BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 2000,
+      "runners": [
+        {
+          "horse": "SHADOW SHOT",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "4",
+          "weight": "64.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DOUTELLE",
+          "jockey": "Ms Jessica Brookes",
+          "claimedWeight": 2,
+          "trainer": "Fabio Martino",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZARTAMAY",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Dale Wagstaff",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHYLOCK",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Kathryn Cahill",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BEG ME",
+          "jockey": "James Rogers",
+          "claimedWeight": 0,
+          "trainer": "Kieren Hazelton",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "MUDGEE GOLF CLUB MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CONVERSATIONS",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "David J Smith",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FEELEN CORNY",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Damien Smith",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPIRIT OF SAINTLY",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Kylie Kennedy",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "UNDER ACHIEVER (NZ)",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "Bob Howe",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLING EMPIRE (NZ)",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Bob Howe",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "VAREKOVA (NZ)",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Melissa Harrison",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "KELLY'S IRISH PUB MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "CROWN ESTATE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "I’M DONE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Rodney Ollerton",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "ADELLINA",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Ben Lees",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "DODGY FRECKLE",
+          "jockey": "Ms Poppie Gorton",
+          "claimedWeight": 4,
+          "trainer": "Brad Widdup",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "EFFIETRINKET (NZ)",
+          "jockey": "Ms Tilly McCarroll",
+          "claimedWeight": 3,
+          "trainer": "Sally Torrens",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUST BREATHE",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Joseph Craig",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "LONG TIME LOVERS",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "David J Smith",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR GAUNTLET",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Toby Pracey",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "XXXX PINK UP MUDGEE REGION BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "SIMPLY BETTER",
+          "jockey": "Nicholas Hyde",
+          "claimedWeight": 4,
+          "trainer": "David J Smith",
+          "barrier": "3",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "ON HER WORD",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Rebecca Dunn",
+          "barrier": "1",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "BREA EX",
+          "jockey": "Billy Cray",
+          "claimedWeight": 0,
+          "trainer": "Nikki Pollock",
+          "barrier": "6",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOLD SMILES",
+          "jockey": "Ms Tilly McCarroll",
+          "claimedWeight": 3,
+          "trainer": "Sally Torrens",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "BARCOO RIVER",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "Bob Howe",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MIHRIMAH",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Dar Lunn",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "WHITE LIAR",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Kieren Hazelton",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "2025 XXXX MUDGEE MUG BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "JADE DIVISION",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "1",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "NO MORE ROMANCE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Wes Boyd",
+          "barrier": "7",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUST ONE LOOK",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "John Cooper",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "OUT WRAPPED",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Darryll Kell",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRIMINAL ART",
+          "jockey": "Billy Cray",
+          "claimedWeight": 0,
+          "trainer": "Nikki Pollock",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZEPHYR WINGS",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Terry J Fahey",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAPOLI",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Kylie Kennedy",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "VIA ROSE",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "Sally Torrens",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "venueInfo": {
+    "name": "Charleville",
+    "location": "",
+    "clubName": "Charleville",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CCharleville&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "PRESIDENT & COMMITTEE CWRC BENCHMARK 45 Handicap",
+      "grade": "BenchMark 45, Handicap, Minimum Weight 59.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1050,
+      "runners": [
+        {
+          "horse": "SIR OCCY",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "Wayne Baker",
+          "barrier": "4",
+          "weight": "64kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISTER",
+          "jockey": "Ross Tilley",
+          "claimedWeight": 0,
+          "trainer": "Garry Bignell",
+          "barrier": "8",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOSMIAN",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Ben Waldron",
+          "barrier": "3",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOUPHISTICATE",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Monique Gavin",
+          "barrier": "7",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY DUTTON",
+          "jockey": "Todd Banks",
+          "claimedWeight": 0,
+          "trainer": "Garry Bignell",
+          "barrier": "6",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS RAPIDE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Wayne Baker",
+          "barrier": "2",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAKERS",
+          "jockey": "Darren Evans",
+          "claimedWeight": 0,
+          "trainer": "Vivian Jones",
+          "barrier": "1",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "HINOKI WOOD",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Scott Rodgers",
+          "barrier": "5",
+          "weight": "59.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "TONY FACEY MEMORIAL QTIS Class 3 Handicap",
+      "grade": "Class 3, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "MY SYMBOL",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Jon Taylor",
+          "barrier": "7",
+          "weight": "63.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUCKY FORCE",
+          "jockey": "Todd Banks",
+          "claimedWeight": 0,
+          "trainer": "Garry Bignell",
+          "barrier": "6",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "KOBE ASCOT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Wayne Baker",
+          "barrier": "4",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MALARINA",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "Monique Gavin",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "IL TORO D’ORO",
+          "jockey": "Darren Evans",
+          "claimedWeight": 0,
+          "trainer": "Vivian Jones",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUNESSA",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Rebecca Kerwin",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOWLER",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Monique Gavin",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "MELBOURNE CUP CALCUTTA 3RD NOVEMBER BENCHMARK 55 Handicap",
+      "grade": "BenchMark 55, Handicap, Minimum Weight 58kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "UCHI",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Ben Waldron",
+          "barrier": "1",
+          "weight": "65.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOUCHASE",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Monique Gavin",
+          "barrier": "2",
+          "weight": "64kg",
+          "sp": 0
+        },
+        {
+          "horse": "RED TOFFEE",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "Monique Gavin",
+          "barrier": "5",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOUGH JUDGE",
+          "jockey": "Darren Evans",
+          "claimedWeight": 0,
+          "trainer": "Vivian Jones",
+          "barrier": "3",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WORTHY MOVES",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Scott Rodgers",
+          "barrier": "4",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BONTOBEWILD",
+          "jockey": "Todd Banks",
+          "claimedWeight": null,
+          "trainer": "Wayne Baker",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "THE CATTLE CAMP HOTEL BENCHMARK 65 Handicap",
+      "grade": "BenchMark 65, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1625,
+      "runners": [
+        {
+          "horse": "ARDEN GREEN",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Bevan Johnson",
+          "barrier": "5",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "KARIACTION",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Ben Waldron",
+          "barrier": "8",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LIP SIP SUK",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Jon Taylor",
+          "barrier": "3",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHEZAVIXEN",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "Wayne Baker",
+          "barrier": "7",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "AMARANTZ",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Wayne Baker",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIME TO TESTIFY",
+          "jockey": "Todd Banks",
+          "claimedWeight": null,
+          "trainer": "Wayne Baker",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VOLDEMORT",
+          "jockey": "Ross Tilley",
+          "claimedWeight": 0,
+          "trainer": "Royce Connolly",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "MARVIA MISS",
+          "jockey": "Darren Evans",
+          "claimedWeight": 0,
+          "trainer": "Tim Higgins",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "CHARLEVILLE CUP 4TH NOVEMBER OPEN Plate",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CAFFREY (IRE)",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Bevan Johnson",
+          "barrier": "3",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KA BLING",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Ben Waldron",
+          "barrier": "1",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLANK SPEED",
+          "jockey": "Darren Evans",
+          "claimedWeight": null,
+          "trainer": "Wayne Baker",
+          "barrier": "2",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KAZZA’S JET",
+          "jockey": "Todd Banks",
+          "claimedWeight": 0,
+          "trainer": "Leslie Baker",
+          "barrier": "5",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DECIDUOUS",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Leslie Baker",
+          "barrier": "8",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LEGISLATE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Wayne Baker",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "AL ASH LAD",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "Monique Gavin",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "PERFECT ENCOUNTER",
+          "jockey": "Ross Tilley",
+          "claimedWeight": 0,
+          "trainer": "William Pugsley",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "BOORINGA CUP OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ROLL UP",
+          "jockey": "Darren Evans",
+          "claimedWeight": 0,
+          "trainer": "William Pugsley",
+          "barrier": "8",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PESHWA",
+          "jockey": "Scott Sweedman",
+          "claimedWeight": 0,
+          "trainer": "Ben Waldron",
+          "barrier": "1",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "WARRAH FLASH",
+          "jockey": "Todd Banks",
+          "claimedWeight": 0,
+          "trainer": "Garry Bignell",
+          "barrier": "4",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISTREY EMPEROR",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 4,
+          "trainer": "William Pugsley",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRANSCELTIC",
+          "jockey": "Ross Tilley",
+          "claimedWeight": 0,
+          "trainer": "William Pugsley",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KAT CHINNA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Wayne Baker",
+          "barrier": "3",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "TURNSTAR",
+          "jockey": "Ms Sarah Robbins",
+          "claimedWeight": 1.5,
+          "trainer": "Leslie Baker",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "UPTURN",
+          "jockey": "Brendon Newport",
+          "claimedWeight": 0,
+          "trainer": "Leslie Baker",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    }
+  ]
+}

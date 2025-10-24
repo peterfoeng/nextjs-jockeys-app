@@ -1,0 +1,455 @@
+{
+  "venueInfo": {
+    "name": "Ladbrokes Pioneer Park",
+    "location": "",
+    "clubName": "Ladbrokes Pioneer Park",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes%20Pioneer%20Park&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Race 1 - 11:40AM Lasseters Handicap (1200 METRES)",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "EXPERT WITNESS",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "1",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALTAR BOY",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "6",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOY BIG",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Greg Connor",
+          "barrier": "5",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXCUSES EXCUSES",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "James Carroll",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "OUR COUVER",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE MEN WENT HOME",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "JJ's Waste and Recycling Handicap",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "MATRON SAMSING",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "QUANAH",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KING BLING",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOSS SHELBY",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "4",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOOMERCONI",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Dick Leech",
+          "barrier": "11",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEETWILLHEBE",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "7",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "APOLAKI",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DENUTO",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "BEEP TEST",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Ray Viney",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "RIBTICKLER (NZ)",
+          "jockey": "Ms Dakota Gillett",
+          "claimedWeight": null,
+          "trainer": "Peter Stennett",
+          "barrier": "10",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "NO NAME NIGEL (NZ)",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "James Carroll",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "Ladbrokes Same Race Multi Handicap",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "O’TYCOON",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Lisa Whittle",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "DELAGO LAD",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "BAHAMA BAY",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE GIRL’S BOY (NZ)",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "KICKATORP",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "THROW AT DA STUMPS",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Young Guns Nov 1st Handicap",
+      "grade": "BenchMark 54, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "ONLY THE BEST",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "1",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STANDING BEAR",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "TANGO STEPZ",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPLISH SPLASH",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Carrol Hunter",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "GAME COVE",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "6",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOOM SMASH OPERA",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Dick Leech",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Derby Day Nov 1st Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "VALLEY PRINCE",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TITANIUM PRINCE",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SILENTDEEL",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHEER REWARD",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Barry Cooke",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "INCIVILITY",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Lisa Whittle",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "DR VENKMAN",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Centreline Saddlery & Country Outfitters Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "MIRACOLI",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Dick Leech",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VITESSE BREEZE",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MURRAJONG ROAD (NZ)",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Barry Cooke",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE BIG FREEZE",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Carrol Hunter",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "BECQUEREL",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "FAITHFUL CHAMPION (NZ)",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "NASHA",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Barry Cooke",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    }
+  ]
+}

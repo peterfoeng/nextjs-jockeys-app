@@ -1,0 +1,781 @@
+{
+  "venueInfo": {
+    "name": "Port Macquarie",
+    "location": "",
+    "clubName": "Port Macquarie",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort%20Macquarie&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "LAKE CATHIE FOOTBALL CLUB CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1006,
+      "runners": [
+        {
+          "horse": "SNATCHREILLY",
+          "jockey": "Serg Lisnyy",
+          "claimedWeight": 0,
+          "trainer": "Wayne Brown",
+          "barrier": "8",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SCULPTOR",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Todd Howlett",
+          "barrier": "4",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CALEDONIAN",
+          "jockey": "Ms Madeline Owen",
+          "claimedWeight": 0,
+          "trainer": "Karen Owen",
+          "barrier": "3",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRAZY MIKKI",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Tony Ball",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAVVYROCKER",
+          "jockey": "Liam Blanch",
+          "claimedWeight": 0,
+          "trainer": "Neil Godbolt",
+          "barrier": "6",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGNOLIA JEWEL",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Tracey Bartley",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHE’S A BAD GIRL",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Damien Lane",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DON’T TELL JACK",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Shaun Harvey",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MONSOON MAGIC",
+          "jockey": "Jeff Kehoe",
+          "claimedWeight": 0,
+          "trainer": "Nick Mitchell",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "JOHN OXLEY MOTORS COUNTRY BOOSTED MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1006,
+      "runners": [
+        {
+          "horse": "IMMORTAL STORM",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Scott Henley",
+          "barrier": "12",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "KOOKY (NZ)",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Cassandra Schmidt",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BIRDY GIRL",
+          "jockey": "Matthew McGuren",
+          "claimedWeight": 0,
+          "trainer": "Grant Prosser",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BUZZ SAW",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Colt Prosser",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHARMED STAR",
+          "jockey": "Ms Kacie Adams",
+          "claimedWeight": 0,
+          "trainer": "Tom Higgins",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "CITY OF TEARS",
+          "jockey": "Danny Peisley",
+          "claimedWeight": 0,
+          "trainer": "David Matts",
+          "barrier": "10",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "CUGAT QUEEN",
+          "jockey": "Peter Graham",
+          "claimedWeight": 0,
+          "trainer": "Rocky Simonetta",
+          "barrier": "8",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "DAM IMPACT",
+          "jockey": "Ms Teighan Worsnop",
+          "claimedWeight": 0,
+          "trainer": "Glen Milligan",
+          "barrier": "3",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "FOXY PRAGUE",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "John Sprague",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HILLBILLY HIPPIE",
+          "jockey": "Ms Leanne Boyd",
+          "claimedWeight": 3,
+          "trainer": "Colt Prosser",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE SIMPLE LIFE (NZ)",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Neil Godbolt",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "LAKE CATHIE NETBALL CLUB CLASS 1 & MAIDEN PLATE",
+      "grade": "Class 1, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1812,
+      "runners": [
+        {
+          "horse": "HARDASH",
+          "jockey": "Peter Graham",
+          "claimedWeight": 0,
+          "trainer": "Peter Cheers",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SIR ZINO (NZ)",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Vanessa McLennan",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BACKWARD GLANCE",
+          "jockey": "William Stanley",
+          "claimedWeight": 0,
+          "trainer": "Paul Perry",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HEART OF PLATINUM",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Neil Godbolt",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HIGHLAND HUSTLE",
+          "jockey": "Jon Grisedale",
+          "claimedWeight": 0,
+          "trainer": "John Higgins",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ULTIMATE REIGN",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Annette Lee",
+          "barrier": "9",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "EINSTEIN’S THEORY",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Grant Prosser",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PURPLE KITTY",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "Peter Cheers",
+          "barrier": "10",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEVOTED TO YOU",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Glen Milligan",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "VENTATA",
+          "jockey": "Ms Madeline Owen",
+          "claimedWeight": 0,
+          "trainer": "Karen Owen",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "CARLTON DRY MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1509,
+      "runners": [
+        {
+          "horse": "CHELSEA",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Glen Milligan",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "CLEVER ILLUSION",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "Peter Cheers",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRASHMYPLAYA",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Colt Prosser",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLAME OF FIRE",
+          "jockey": "Ms Kacie Adams",
+          "claimedWeight": 0,
+          "trainer": "Brett Lazzarini",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "GALLANT RUSH",
+          "jockey": "Jeff Kehoe",
+          "claimedWeight": 0,
+          "trainer": "Peter Cheers",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR SQUARE PANTS",
+          "jockey": "Liam Blanch",
+          "claimedWeight": 0,
+          "trainer": "Colt Prosser",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE BIG TICKET",
+          "jockey": "Ms Leanne Boyd",
+          "claimedWeight": 3,
+          "trainer": "Tom Higgins",
+          "barrier": "11",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "EPIC STATEMENT",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Todd Howlett",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRUDO (NZ)",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "O’BRITZELLE",
+          "jockey": "William Stanley",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPIRITUAL MYSTERY",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Kris Lees",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "LAKE CATHIE TAVERN – LAKE CATHIE CUP COUNTRY BOOSTED BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1509,
+      "runners": [
+        {
+          "horse": "OENOLOGY",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Wayne Brown",
+          "barrier": "3",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BARCELONA EXPRESS",
+          "jockey": "Danny Peisley",
+          "claimedWeight": 0,
+          "trainer": "David Matts",
+          "barrier": "1",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "LITTLE PROPHET",
+          "jockey": "Ms Leanne Boyd",
+          "claimedWeight": 3,
+          "trainer": "Colt Prosser",
+          "barrier": "5",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SECRET KEEPER",
+          "jockey": "Matthew McGuren",
+          "claimedWeight": 0,
+          "trainer": "Aiden St Vincent",
+          "barrier": "2",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WILDERNESS STAR",
+          "jockey": "Ms Kacie Adams",
+          "claimedWeight": 0,
+          "trainer": "Annette Lee",
+          "barrier": "7",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "CALAMITY FOX",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Colt Prosser",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAJOR MAKEOVER (NZ)",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Craig Clegg",
+          "barrier": "13",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WING NUT",
+          "jockey": "Ms Teighan Worsnop",
+          "claimedWeight": 0,
+          "trainer": "Glen Milligan",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "KHANT FAIL (NZ)",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Neil Godbolt",
+          "barrier": "11",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROCK ARE STEINER",
+          "jockey": "Peter Graham",
+          "claimedWeight": 0,
+          "trainer": "Peter Graham",
+          "barrier": "10",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGGIE ROSE",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Rocky Simonetta",
+          "barrier": "12",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MYSTIC WAY",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "John Sprague",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR OF YAMBA",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Tom Higgins",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "LAKE CATHIE RAIDERS RLFC CLASS 2 HANDICAP",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1206,
+      "runners": [
+        {
+          "horse": "FLYING ARGYLE",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Paul Perry",
+          "barrier": "3",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXTERNUS",
+          "jockey": "Matthew McGuren",
+          "claimedWeight": 0,
+          "trainer": "Jake Hull",
+          "barrier": "5",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR PREDICTION",
+          "jockey": "Ms Shae Wilkes",
+          "claimedWeight": 1.5,
+          "trainer": "Tony Ball",
+          "barrier": "12",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LAST DRUID",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tracey Bartley",
+          "barrier": "11",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "EDGE OF MIDNIGHT",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Paul Perry",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "NIPPER BEE",
+          "jockey": "Serg Lisnyy",
+          "claimedWeight": 0,
+          "trainer": "Wayne Brown",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LAST BID LIAM",
+          "jockey": "Ms Kacie Adams",
+          "claimedWeight": 0,
+          "trainer": "Darren Treacy",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEND A TELEGRAM",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "John Sprague",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "AQUAFIRE",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Sara Ryan",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "WELCOME BACK",
+          "jockey": "Ms Leanne Boyd",
+          "claimedWeight": 3,
+          "trainer": "Tom Higgins",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEDEN",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Annette Lee",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "CELLARBRATIONS – LAKE CATHIE BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1106,
+      "runners": [
+        {
+          "horse": "BUCK PHAROAH",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Neil Godbolt",
+          "barrier": "12",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "SO COUNTRY (NZ)",
+          "jockey": "Serg Lisnyy",
+          "claimedWeight": 0,
+          "trainer": "Wayne Brown",
+          "barrier": "11",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "SENSHI",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Paul Perry",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "CANNY PROSPECT",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Todd Howlett",
+          "barrier": "7",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPARKINGLY",
+          "jockey": "Matthew McGuren",
+          "claimedWeight": 0,
+          "trainer": "Jake Hull",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOLDEN HONOUR",
+          "jockey": "Ms Emily Farr",
+          "claimedWeight": 2,
+          "trainer": "Glen Milligan",
+          "barrier": "3",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "TELEGRAPH",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Tony Ball",
+          "barrier": "10",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GET SOME FUN",
+          "jockey": "Ms Madeline Owen",
+          "claimedWeight": 0,
+          "trainer": "Karen Owen",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHARMED DESTINY (IRE)",
+          "jockey": "Ms Teighan Worsnop",
+          "claimedWeight": 0,
+          "trainer": "John Sprague",
+          "barrier": "9",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WHERE’S THE FIRE",
+          "jockey": "Ms Kacie Adams",
+          "claimedWeight": 0,
+          "trainer": "Tony Ball",
+          "barrier": "5",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LORD AKOMEED",
+          "jockey": "Liam Blanch",
+          "claimedWeight": 0,
+          "trainer": "Neil Godbolt",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAZARE’S IMPACT",
+          "jockey": "William Stanley",
+          "claimedWeight": 0,
+          "trainer": "Paul Perry",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qdc3pq17Vqku8cl",
+	"json": "{\"id\":\"qdc3pq17Vqku8cl\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CRichmond\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CRichmond\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CRichmond\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:53.970Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CRichmond",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CRichmond"
+}

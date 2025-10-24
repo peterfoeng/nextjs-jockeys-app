@@ -1,0 +1,9 @@
+{
+	"id": "XaLtLpnZJcXCcEH",
+	"json": "{\"id\":\"XaLtLpnZJcXCcEH\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort%20Macquarie\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort%20Macquarie\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort+Macquarie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:54.815Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort+Macquarie",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CPort%20Macquarie"
+}

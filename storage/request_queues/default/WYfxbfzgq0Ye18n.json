@@ -1,0 +1,9 @@
+{
+	"id": "WYfxbfzgq0Ye18n",
+	"json": "{\"id\":\"WYfxbfzgq0Ye18n\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CDoomben\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CDoomben\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CDoomben\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:54.517Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CDoomben",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CDoomben"
+}

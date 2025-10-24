@@ -1,0 +1,552 @@
+{
+  "venueInfo": {
+    "name": "Clifton",
+    "location": "",
+    "clubName": "Clifton",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CClifton&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "PB AGRIFOOD Maiden Plate",
+      "grade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "PRIVET (NZ)",
+          "jockey": "Ms Paige Fergusson-Smith",
+          "claimedWeight": 3,
+          "trainer": "Stephanie Sixtus",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VIZSTAR",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": 3,
+          "trainer": "Jayden Sims",
+          "barrier": "15",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BELTONE",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": 1.5,
+          "trainer": "Donald Baker",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FANCI FLEUR",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Brooke Ainsworth",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FANCY HILTON",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 2,
+          "trainer": "Scott Hilton",
+          "barrier": "12",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MEET THE ROSE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Glenn Richardson",
+          "barrier": "14",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RUPEEZY",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Anthony Freeman",
+          "barrier": "9",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GLUTTONY",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Tom Dougall",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SYMPHONION",
+          "jockey": "Jake Molloy",
+          "claimedWeight": 0,
+          "trainer": "Jayden Sims",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "VALOUR VICTORIOUS",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 0,
+          "trainer": "Diane Murphy",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DOWNTOWN EVIE",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Jeff Dunn",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "OVERDOIT",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": 2,
+          "trainer": "Cameron H Richardson",
+          "barrier": "5",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DUCK OUT",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Michael Hemmings",
+          "barrier": "13",
+          "weight": "57.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "NUTRIEN HARCOURTS / SKERRETT EQUESTRIAN Class B Handicap",
+      "grade": "Class B, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "GOTEBO",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": 2,
+          "trainer": "Paul Wallace",
+          "barrier": "8",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "LATE NIGHT TALKING",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 2,
+          "trainer": "Bruce Davis",
+          "barrier": "2",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "MASTER MIYAGI",
+          "jockey": "Noriyuki Nishio",
+          "claimedWeight": 0,
+          "trainer": "Matthew Park",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHE’S MY LADY",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": 3,
+          "trainer": "Geoffrey Hardy",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BON IS GOOD",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Wayne O'Connell",
+          "barrier": "10",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEMPER INVICTUS",
+          "jockey": "Jake Molloy",
+          "claimedWeight": 0,
+          "trainer": "Jayden Sims",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "RUSSIAN RIPPER",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEET ABOUT ME",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Dale Groves",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRAIGLEA BRONTE",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Krystle Johnston",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ACCEPT POWER",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 0,
+          "trainer": "Alyssa & Troy Sweeney",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "I’M A CHOCOHOLIC",
+          "jockey": "Ms Paige Fergusson-Smith",
+          "claimedWeight": 3,
+          "trainer": "Stephanie Sixtus",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "RAFF GROUP BENCHMARK 60 Handicap",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "BASIL’S BOW",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Dale Groves",
+          "barrier": "1",
+          "weight": "63.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BEE TWO",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Glenn Richardson",
+          "barrier": "3",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "WOLFGANG",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": 2,
+          "trainer": "Rodney Hay",
+          "barrier": "9",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "KAREEM",
+          "jockey": "Paul Hamblin",
+          "claimedWeight": 0,
+          "trainer": "Krystle Johnston",
+          "barrier": "4",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR WANDJI",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": 3,
+          "trainer": "Tom Dougall",
+          "barrier": "8",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "FITZROY BOY",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": 1.5,
+          "trainer": "Barry Sheppard",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "KING NEPTUNE (NZ)",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 2,
+          "trainer": "Wayne Nugent",
+          "barrier": "11",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "AYE EYE BOOM",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 0,
+          "trainer": "Alyssa & Troy Sweeney",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CALMER KARMA",
+          "jockey": "Ms Paige Fergusson-Smith",
+          "claimedWeight": 3,
+          "trainer": "Stephanie Sixtus",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DOUBLESHARKATTACK",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Gino Barbierato",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "PACIFIC SEEDS/PURSEHOUSE RURAL COUNTRY CUPS CHALLENGE QUALIFIER/CLIFTON CUP OPEN Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1580,
+      "runners": [
+        {
+          "horse": "ELLA TE AMA",
+          "jockey": "Paul Hamblin",
+          "claimedWeight": 0,
+          "trainer": "Matt Kropp",
+          "barrier": "9",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIJUANA TWO STEP",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": null,
+          "trainer": "Donald Baker",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "KIPTANUI",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": null,
+          "trainer": "Rodney Hay",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARIAT",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": null,
+          "trainer": "Anthony Freeman",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "FORT WILLIAM",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPOOKY SPIRIT",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "10",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOKKAIDO (NZ)",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": null,
+          "trainer": "Rodney Hay",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "TAKUNAI",
+          "jockey": "Les Tilley",
+          "claimedWeight": null,
+          "trainer": "Jeff Dunn",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAXINOUE",
+          "jockey": "Ms Paige Fergusson-Smith",
+          "claimedWeight": null,
+          "trainer": "Alyssa & Troy Sweeney",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLACK COUNTRY",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": null,
+          "trainer": "Jason Judge",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "WEBSTER & CAVANAGH QTIS Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1580,
+      "runners": [
+        {
+          "horse": "KISS THE DIRT",
+          "jockey": "Jake Molloy",
+          "claimedWeight": 0,
+          "trainer": "Michael Morrison",
+          "barrier": "10",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LECAN",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Anthony Freeman",
+          "barrier": "9",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MONTEVECCHIO",
+          "jockey": "Paul Hamblin",
+          "claimedWeight": 0,
+          "trainer": "Rodney Hay",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROIGARD",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 2,
+          "trainer": "John Sutton",
+          "barrier": "5",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STOCKS ’N’ BONDS",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "IMAGINA",
+          "jockey": "Ms Paige Fergusson-Smith",
+          "claimedWeight": 3,
+          "trainer": "Nick Keal",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MARGOT’S STAR",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": 3,
+          "trainer": "Wayne O'Connell",
+          "barrier": "3",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS ELLYSE",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": 1.5,
+          "trainer": "Matt Kropp",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUBTLE HINTS",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Simon Grimson",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DUKE OF BANTRY",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": 2,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    }
+  ]
+}

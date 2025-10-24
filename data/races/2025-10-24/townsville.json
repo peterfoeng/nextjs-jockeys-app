@@ -1,0 +1,700 @@
+{
+  "venueInfo": {
+    "name": "Townsville",
+    "location": "",
+    "clubName": "Townsville",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CTownsville&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "MERCEDES-BENZ TOWNSVILLE Maiden Handicap",
+      "grade": "Maiden, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "KARMARDO",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 3,
+          "trainer": "Charlie Russo",
+          "barrier": "11",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "LORD VALEN",
+          "jockey": "Wanderson D'Avila",
+          "claimedWeight": 0,
+          "trainer": "Shryn Royes",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAVEN",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOMBE BABE",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Garry Dickson",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR BIG THYME",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Robert Kirkwood",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "OSCAR BOOIE",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Michael Geaney",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "REDLIGHTS ON",
+          "jockey": "Chris Whiteley",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIME POWER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tom Button",
+          "barrier": "10",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARIK LAD",
+          "jockey": "Adam Sewell",
+          "claimedWeight": 0,
+          "trainer": "Steven Royes",
+          "barrier": "5",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "GYMNOSOMATA",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "3",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "VALUBIOUS",
+          "jockey": "Raul Silvera Olivera",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "4",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "AUSNORTH BUILDING AND CONSTRUCTION OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "MISSILE THUNDER",
+          "jockey": "Ms Lauren Guernier",
+          "claimedWeight": 3,
+          "trainer": "Fred Wieland",
+          "barrier": "3",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "LIDDER VALLEY",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "MOLONGLE SURPRISE",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Graham Kliese",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "FAMILY STAR",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Graham Hughes",
+          "barrier": "4",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "TYCOON BEAU",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "MIDAS STAR",
+          "jockey": "Ms Isabella Teh",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "6",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "CRANBROOK MEDICAL BENCHMARK 58 Handicap",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "BETTER BE READY",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Joshua Manzelmann",
+          "barrier": "1",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "CONVERTOR",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "4",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FALLGUY",
+          "jockey": "Ivo Fry",
+          "claimedWeight": 0,
+          "trainer": "Tom Button",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "AL RAS BLUES",
+          "jockey": "Aidan Holt",
+          "claimedWeight": 0,
+          "trainer": "Rhein Sewell",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "INNOVATES",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Rodney Miller",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOUHOPE",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Shryn Royes",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISHANI PERFECTION",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Kayla Russell",
+          "barrier": "10",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "FANG IT (NZ)",
+          "jockey": "Chris Whiteley",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LEGAL CHALLENGE",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 3,
+          "trainer": "Shryn Royes",
+          "barrier": "5",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GRUMPYWANTSATISSUE",
+          "jockey": "Raul Silvera Olivera",
+          "claimedWeight": 0,
+          "trainer": "Jessica Kuhn",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "PATER DOUGLAS Class 5 Plate",
+      "grade": "Class 5, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "EXCITE CHOO",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Krystin Allender",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HIGHBAR",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Roy Chillemi",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "NORTHERNONTAP",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Tom Button",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RUGGED ROY",
+          "jockey": "Micheal McDonald",
+          "claimedWeight": 0,
+          "trainer": "Maree Young",
+          "barrier": "6",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WINNING SAGA",
+          "jockey": "Graham Kliese",
+          "claimedWeight": 0,
+          "trainer": "Graham Kliese",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "AGED CARE",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Garry Dickson",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARROW (IRE)",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "INDEFINITE (NZ)",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 3,
+          "trainer": "Charlie Russo",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BRAVE INTENT",
+          "jockey": "Ivo Fry",
+          "claimedWeight": 0,
+          "trainer": "Janel Ryan",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "LEN AND NORMA DOWD BENCHMARK 70 Handicap",
+      "grade": "BenchMark 70, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "TURN BIRD",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Steven Royes",
+          "barrier": "1",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MOEGREEN (NZ)",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Fred Wieland",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "MEDAL (NZ)",
+          "jockey": "Chris Whiteley",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "9",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BURRANEER BUOY",
+          "jockey": "Ivo Fry",
+          "claimedWeight": 0,
+          "trainer": "Graham Hughes",
+          "barrier": "7",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HYDE PARK",
+          "jockey": "Aidan Holt",
+          "claimedWeight": 0,
+          "trainer": "Tom Button",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KING’S HALO",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "COLOURS OF AUTUMN",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Roy Chillemi",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BRAVE AGENDA",
+          "jockey": "Adam Sewell",
+          "claimedWeight": 0,
+          "trainer": "Robert Kirkwood",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CAPICELLA",
+          "jockey": "Graham Kliese",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "LADBROKES PALLARENDA STAKES QTIS Two-Year-Old Maiden Plate",
+      "grade": "Maiden, Set Weights, Two-Years-Old, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "BETTER BLITZEM",
+          "jockey": "Aidan Holt",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOOMIOUS",
+          "jockey": "Micheal McDonald",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "DUB STEPPING",
+          "jockey": "Ivo Fry",
+          "claimedWeight": 0,
+          "trainer": "Tom Button",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOLDEN GLAZE",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Fred Wieland",
+          "barrier": "10",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALBERTA BOUND",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Scott Cooper",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS SO AND SO",
+          "jockey": "Raul Silvera Olivera",
+          "claimedWeight": 0,
+          "trainer": "Lyle Wright",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "STYLISH DIAMOND",
+          "jockey": "Adam Sewell",
+          "claimedWeight": 0,
+          "trainer": "Kris Hansen",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "PERSEFONO",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Trevor & Peter Rowe",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "STABLE INVESTMENT",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Krystin Allender",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DIOSA AFRODITA",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Trevor & Peter Rowe",
+          "barrier": "12",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MERSEY LASS",
+          "jockey": "Wanderson D'Avila",
+          "claimedWeight": 0,
+          "trainer": "Bill Kenning",
+          "barrier": "13",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "RADIANT POWER",
+          "jockey": "Ms Isabella Teh",
+          "claimedWeight": 0,
+          "trainer": "Trevor & Peter Rowe",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "JAYSEL ELECTRICAL AND INSTRUMENTATION RATINGS BAND 0 - 55 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "COPPABELLA ROAD",
+          "jockey": "Micheal McDonald",
+          "claimedWeight": 0,
+          "trainer": "Steven Royes",
+          "barrier": "11",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "NEGATION",
+          "jockey": "Graham Kliese",
+          "claimedWeight": 0,
+          "trainer": "Troy Clive",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "GROVERS PREDICTION",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Krystin Allender",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAJOR DESIRE",
+          "jockey": "Wanderson D'Avila",
+          "claimedWeight": 0,
+          "trainer": "Rachael Singleton",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MARGOT BARBIE",
+          "jockey": "Aidan Holt",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEET FANTASY",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 3,
+          "trainer": "Shryn Royes",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VEGAMEISTER",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Georgie Holt",
+          "barrier": "8",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STATESWOMAN",
+          "jockey": "Ms Lacey Morrison",
+          "claimedWeight": 0,
+          "trainer": "Kayla Russell",
+          "barrier": "10",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPINELESS",
+          "jockey": "Chris Whiteley",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bush",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISTER DOOBEE",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Krystin Allender",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ITHINKBETTA",
+          "jockey": "Adam Sewell",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "9",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "venueInfo": {
+    "name": "Coonabarabran",
+    "location": "",
+    "clubName": "Coonabarabran",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "COONABARABRAN BAKERY CLASS 3 SHOWCASE HANDICAP",
+      "grade": "Class 3, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "AUTUMN SONG",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Michael Mulholland",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHADOW DANE",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Michael Mulholland",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "A TENT HUT",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Todd Payne",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GREEN RUN",
+          "jockey": "Ms Kath Bell-Pitomac",
+          "claimedWeight": 0,
+          "trainer": "Dar Lunn",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SANZENO",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Mack Griffith",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "FORUM ONE",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Sue Bigg",
+          "barrier": "5",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAINT PHILOMENA",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Dar Lunn",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALWAYS FIORENTE",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "REGGIE'S TATTERSALLS HOTEL BARADINE & PURSEHOUSE RURAL CLASS 1 SHOWCASE HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CHARLIE BALI",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Tracy Bell",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "RHODESIAN DIAMOND",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Kevin Dixon",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "KILTIKI",
+          "jockey": "Ms Kath Bell-Pitomac",
+          "claimedWeight": 0,
+          "trainer": "Merv Rumble",
+          "barrier": "8",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARD KNOCK LIFE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Rebecca Dunn",
+          "barrier": "9",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SASHABELLA",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Troy O'Neile",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MY KIND OF GIRL",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUNDAY",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Jackie Greentree",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "PROCYON MISS",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPICY MARGHERITA",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Graeme Brooker",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "BARRON'S TYRE & MECHANICAL AND BIG SKY EXPERIENCES COUNTRY BOOSTED MAIDEN SHOWCASE PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 900,
+      "runners": [
+        {
+          "horse": "GOOD TIME",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "KUROSHINZO",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Connie Greig",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "NANDOWRIE",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "STREET SKATER",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Stephen Edwards",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOLD BENDER",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "12",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "IT’S MY SHOW",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Rodney Northam",
+          "barrier": "13",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUST JOAN",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "LITE SIDE",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Melissa Dennett",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUPREME STYLE",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Paul Clisby",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHOW MOMENT",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Sue Grills",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "INCY VINCY",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEDISH GLITTER",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Clint Lundholm",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "BRETT BOWMAN RACING & BREEDING HAPPY 25TH ANNIVERSARY BRETT & KATRINA SUPER MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56.5kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "UNSOLVED",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Mack Griffith",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FRATIANNO",
+          "jockey": "Nick Palmer",
+          "claimedWeight": 2,
+          "trainer": "Gavin Groth",
+          "barrier": "6",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR OF KYEEMA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARAPAWA",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "11",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOMERTON SMART",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Sue Grills",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BULLANT",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Lyle Chandler",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BILLABONG ALVIN",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "12",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HINTO",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Troy O'Neile",
+          "barrier": "10",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "BROADCAST BOOGIE",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RING MY BELL",
+          "jockey": "Ken Dunbar",
+          "claimedWeight": 0,
+          "trainer": "Mark Milton",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE BULLET",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jim McMillan",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "YIASOU",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "COONABARABRAN BOWLING CLUB CUP DAY SHOWCASE SPRINT",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "DRIVING FORCE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Darren Hyde",
+          "barrier": "3",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "STRATIFIED",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Mack Griffith",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FEIRME PRINCE",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROUGE MOULIN",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "5",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JET EMPRESS",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Douglas Fernando",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SMART AND DAPPER",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ENTERPRISE LEGEND",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Holly Williams",
+          "barrier": "1",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LIFE’S A PARTY",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Mark Jones",
+          "barrier": "6",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HAIKU STAR",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Melissa Dennett",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "FUTURITY PASTORAL SHOWCASE BARADINE CUP BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "DAWN COUNTY (NZ)",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Mack Griffith",
+          "barrier": "6",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "ACCRUE",
+          "jockey": "Nick Palmer",
+          "claimedWeight": 2,
+          "trainer": "Gavin Groth",
+          "barrier": "8",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "EIGHTY EIGHT STARS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Sue Grills",
+          "barrier": "10",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SLUSH FUND",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "7",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "NOT TOO BAD",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Kieren Hazelton",
+          "barrier": "1",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "AWESOME TYCOON",
+          "jockey": "Ms Bronte Simpson",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "9",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STARLINK",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Clint Lundholm",
+          "barrier": "11",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MRS BULL",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE IMPECKABLE",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Michael Mulholland",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPORTS PAGE",
+          "jockey": "Ken Dunbar",
+          "claimedWeight": 0,
+          "trainer": "Natalie Pearce",
+          "barrier": "12",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BROGANS CREEK",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "13",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "NIGHT FIGHTER",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Sue Grills",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARDYO",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Jane Clement",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "IMPERIAL HOTEL COONABARABRAN SHOWCASE CUP",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "WHO EVER THOUGHT",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Jeremy Gask",
+          "barrier": "1",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOCKDOWN GAMBLE",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "David J Smith",
+          "barrier": "12",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "RHYTHM IS A DANCER",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DIRECT FIRE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "RAJNISH",
+          "jockey": "Reece Jones",
+          "claimedWeight": null,
+          "trainer": "Cameron Crockett",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE HANGER CAT",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "MASTER RILEY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHAMEDY",
+          "jockey": "Ms Bronte Simpson",
+          "claimedWeight": 3,
+          "trainer": "Todd Payne",
+          "barrier": "10",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MACLEAY",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Jane Clement",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLUE GUITAR",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Peter Nestor",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHEEKY SECRETS",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Wayne Martyn",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "EXPO COUNTRY BOOSTED SHOWCASE CLASS 2 PLATE",
+      "grade": "Class 2, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "KEADOOL",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "RAMONES",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Simon Casey",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "REPRISAL",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Troy O'Neile",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAVETHEBESTTILLAST",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": null,
+          "trainer": "Melissa Dennett",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEVEN MILE MISSILE",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRUMPTY DUMPTY",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Dar Lunn",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "COMONGIN",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRESTA RUN",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HEFTY PRICE",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Jane Clement",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "JAGERSCHNITZEL",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Cameron Crockett",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISSY MOSS",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Mack Griffith",
+          "barrier": "11",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "TORRID AFFAIR",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Graeme Brooker",
+          "barrier": "13",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    }
+  ]
+}

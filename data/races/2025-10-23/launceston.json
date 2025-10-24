@@ -1,0 +1,648 @@
+{
+  "venueInfo": {
+    "name": "Launceston",
+    "location": "",
+    "clubName": "Launceston",
+    "date": "2025-10-23",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CTAS%2CLaunceston&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Rockjaw Tours \"It's Why We Race\" Maiden",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1120,
+      "runners": [
+        {
+          "horse": "LA ZAMPA",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Andrew Roach",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZIGGY PLAYS GUITAR",
+          "jockey": "Kelvin Sanderson",
+          "claimedWeight": 0,
+          "trainer": "Trent Wells",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CELTIC ROSE",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "D’AMBIDEX",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "Sarah Cotton",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY ATLAS",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "Leanne Gaffney",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "OXIDIZE",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Dylan Clark",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PARTY DAY",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Jessie Bazan",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEDNA",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "Terence Evans",
+          "barrier": "11",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARCADE BOY",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": null,
+          "trainer": "John Blacker",
+          "barrier": "13",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ADDICTIVE GAS",
+          "jockey": "Shogo Nakano",
+          "claimedWeight": 0,
+          "trainer": "Alana Fulton",
+          "barrier": "4",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "Flinders Island Cabin Park \"Hidden Zebra\" 3YO Maiden",
+      "grade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1220,
+      "runners": [
+        {
+          "horse": "SILVER GRANGE",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Angela Brakey",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIMELY NEEDS",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CAN’T CATCH CHILLI",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "CELESTIAL GLOW",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS MABEL",
+          "jockey": "Ms Lizzie Annells",
+          "claimedWeight": 0,
+          "trainer": "Patrick Dargan",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SKY OF GOLD",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "Sarah Cotton",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE PIRATE QUEEN",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "Terence Evans",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOE OF ROME",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Nutrien AG Solutions \"Star Cheers\" Maiden",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1420,
+      "runners": [
+        {
+          "horse": "STRIDING BAY",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIDEFORD (NZ)",
+          "jockey": "Kelvin Sanderson",
+          "claimedWeight": 0,
+          "trainer": "Barry Baker",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BIG OLIVE",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "Barry Baker",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HENLEY EXTREME",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Glenn Stevenson",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUDGE JENNI",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Glenn Stevenson",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY BE COOL",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEDITIOUS AWARD",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "Peter Luttrell",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WARRIORA",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Whitemark Post Office / Cuthill Family \"Don't Slip through the Net\" Class 1 Handicap",
+      "grade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1220,
+      "runners": [
+        {
+          "horse": "BLAMEITONTHEBOOGIE",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Glenn Stevenson",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SNOWDONIA",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "1",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUPER SNIPPY",
+          "jockey": "Daniel Ganderton",
+          "claimedWeight": 0,
+          "trainer": "Mark Ganderton",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAJESTIC MOLLY",
+          "jockey": "Troy Baker",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRINCE OF KHATUN",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALISENT",
+          "jockey": "Ms Catherine Van Munster",
+          "claimedWeight": 3,
+          "trainer": "Andrew Moore",
+          "barrier": "4",
+          "weight": "54.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR FORTIAN",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "Leanne Gaffney",
+          "barrier": "7",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "PLATINUM REGGAE",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "Trent Wells",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "SKY EAGLE",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Interstate Hotel Flinders Island Cup Class 6",
+      "grade": "Class 6, Set Weights, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1420,
+      "runners": [
+        {
+          "horse": "CAPTAIN MORGAN (NZ)",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Peter Luttrell",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAILOR (NZ)",
+          "jockey": "Jackson Radley",
+          "claimedWeight": null,
+          "trainer": "John Blacker",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "ADACHI",
+          "jockey": "Daniel Ganderton",
+          "claimedWeight": 0,
+          "trainer": "Mark Ganderton",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ES AND ES",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Glenn Stevenson",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAKE A DECISION",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": null,
+          "trainer": "Sarah Cotton",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SH’BOURNE MIDNIGHT",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Shaun Nichols",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "GARCON D’ESPOIR",
+          "jockey": "Shogo Nakano",
+          "claimedWeight": 0,
+          "trainer": "Yassy Nishitani",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOVIN’ BEV",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Killara \"Island Warrior\" Vase BM64 Hcp",
+      "grade": "BenchMark 64, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1120,
+      "runners": [
+        {
+          "horse": "QUICKEN UP",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": null,
+          "trainer": "Rowan Hamer",
+          "barrier": "3",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THISISMYTURF",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "Terence Evans",
+          "barrier": "4",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "WHEELING",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "Graeme McCulloch",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAVAL ANTHEM (NZ)",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CAPABELLE",
+          "jockey": "Ms Lizzie Annells",
+          "claimedWeight": 0,
+          "trainer": "Patrick Dargan",
+          "barrier": "6",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Glass Warrior Ambassador for Nets Plate BM76 Hcp",
+      "grade": "BenchMark 76, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1620,
+      "runners": [
+        {
+          "horse": "SHY GUY",
+          "jockey": "Kelvin Sanderson",
+          "claimedWeight": 0,
+          "trainer": "Barry Campbell",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "METAVERSE",
+          "jockey": "Ms Codi Jordan",
+          "claimedWeight": 0,
+          "trainer": "Angela Brakey",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE SPIRIT OF ZERO",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Yassy Nishitani",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VERBANO",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "John Keys",
+          "barrier": "7",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "ORIGINAL GLAZE",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 2,
+          "trainer": "Kelvin Hamilton",
+          "barrier": "6",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "ETHICAL DILEMMA",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "Peter Luttrell",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXALTED CROWN",
+          "jockey": "Shogo Nakano",
+          "claimedWeight": 0,
+          "trainer": "Mark Ganderton",
+          "barrier": "4",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "1808 A Rum Bar & Cocktail Lounge Maiden/Class 1",
+      "grade": "Class 1, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 2150,
+      "runners": [
+        {
+          "horse": "OPENSEA (NZ)",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Michael Trinder",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SKELMORLIE",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIZSA NICE DROP",
+          "jockey": "Kelvin Sanderson",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "TWICE THE ICE",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 2,
+          "trainer": "Adam Trinder",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "LYRICAL NANOHA",
+          "jockey": "Shogo Nakano",
+          "claimedWeight": 0,
+          "trainer": "Yassy Nishitani",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "OCCASIONAL GLIMPSE",
+          "jockey": "Jackson Radley",
+          "claimedWeight": 0,
+          "trainer": "Leanne Gaffney",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    }
+  ]
+}

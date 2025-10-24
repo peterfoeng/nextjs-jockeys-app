@@ -1,9 +1,0 @@
-{
-	"id": "KmwVHkyxMnwvWGq",
-	"json": "{\"id\":\"KmwVHkyxMnwvWGq\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CCaulfield\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CCaulfield\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CCaulfield\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:31.991Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CCaulfield",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CVIC%2CCaulfield"
-}

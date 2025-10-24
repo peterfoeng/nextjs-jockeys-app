@@ -1,9 +1,0 @@
-{
-	"id": "Cpa1QQxbV4HVWIo",
-	"json": "{\"id\":\"Cpa1QQxbV4HVWIo\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CBlackall\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CBlackall\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CBlackall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:32.561Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CBlackall",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CBlackall"
-}

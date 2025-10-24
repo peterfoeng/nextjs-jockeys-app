@@ -1,0 +1,383 @@
+{
+  "venueInfo": {
+    "name": "Alexandra",
+    "location": "",
+    "clubName": "Alexandra",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CAlexandra%2CPicnic&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Pro-Rodeo Alexandra Sat 10 January 2026 0-28 Hcp",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": 1540,
+      "runners": [
+        {
+          "horse": "THESE BOOTS (NZ)",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "3",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOME ECLIPSE",
+          "jockey": "Ms Tracey Johnson",
+          "claimedWeight": 0,
+          "trainer": "Ron Hockley",
+          "barrier": "1",
+          "weight": "64.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUNA ONE",
+          "jockey": "Cameron Thompson",
+          "claimedWeight": 3,
+          "trainer": "Barry Crofts",
+          "barrier": "2",
+          "weight": "64kg",
+          "sp": 0
+        },
+        {
+          "horse": "NASRIN",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "4",
+          "weight": "63.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    },
+    {
+      "title": "Alexandra Country & Western Meeting 27 December Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": 1540,
+      "runners": [
+        {
+          "horse": "LORD CHAPEL",
+          "jockey": "Cameron Thompson",
+          "claimedWeight": 3,
+          "trainer": "Ron Hockley",
+          "barrier": "2",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "NIC SAYS NO",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "1",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "SIERRA SUN",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Ashleigh Smith",
+          "barrier": "3",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "STORMYFRIENDSHIP",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Mark Ashby",
+          "barrier": "7",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXCELLENT REWARD",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "John Fitzgerald",
+          "barrier": "4",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOSEN SNOWFALL",
+          "jockey": "Ms Caitlin King",
+          "claimedWeight": 0,
+          "trainer": "John Heath",
+          "barrier": "5",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "WINTER GRACE",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "6",
+          "weight": "65kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "Lord Jordy's Hitching Open Handicap",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": 1540,
+      "runners": [
+        {
+          "horse": "BESSON",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Ashleigh Smith",
+          "barrier": "2",
+          "weight": "69.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALTAI RANGER (NZ)",
+          "jockey": "Ms Caitlin King",
+          "claimedWeight": 0,
+          "trainer": "John Heath",
+          "barrier": "4",
+          "weight": "68.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ANYTHING BUT (NZ)",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Reg Manning",
+          "barrier": "3",
+          "weight": "67.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR ZIGMUND",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "5",
+          "weight": "64.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOUDINI CATARNO",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "1",
+          "weight": "63.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Brays Bucks Party Open Trophy Race Handicap",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "STREET SWAGGER",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "4",
+          "weight": "70.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIRST TOSEN",
+          "jockey": "Ms Caitlin King",
+          "claimedWeight": 0,
+          "trainer": "John Heath",
+          "barrier": "5",
+          "weight": "66kg",
+          "sp": 0
+        },
+        {
+          "horse": "COAST PRINCESS",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Debra Nardino",
+          "barrier": "1",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "EPSOM MAGIC",
+          "jockey": "Cameron Thompson",
+          "claimedWeight": 3,
+          "trainer": "Daniel Williams",
+          "barrier": "2",
+          "weight": "64.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KAHUNGUNU",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Tyson Barton",
+          "barrier": "3",
+          "weight": "63.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "UNDERSTATED",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "6",
+          "weight": "63.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Reddrops Supermarkets Trophy Race",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "LAMINAR",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "2",
+          "weight": "69.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOCO FOR COCO",
+          "jockey": "Ms Caitlin King",
+          "claimedWeight": 0,
+          "trainer": "John Heath",
+          "barrier": "5",
+          "weight": "69.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIRST VENTURE",
+          "jockey": "Ms Tracey Johnson",
+          "claimedWeight": 0,
+          "trainer": "Gordon Strang",
+          "barrier": "3",
+          "weight": "64.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MALLEE MAID",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Anthony Dudley",
+          "barrier": "1",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "DREAM OF RUBY",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Tyson Barton",
+          "barrier": "4",
+          "weight": "63kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Whanregarwen Pastoral Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "FEAR NO ONE",
+          "jockey": "Cameron Thompson",
+          "claimedWeight": 3,
+          "trainer": "Rene Pompe",
+          "barrier": "3",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "HIGHWAY ONE",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "John Fitzgerald",
+          "barrier": "1",
+          "weight": "67kg",
+          "sp": 0
+        },
+        {
+          "horse": "COULDBETRACY",
+          "jockey": "Ms Caitlin King",
+          "claimedWeight": 0,
+          "trainer": "Gordon Strang",
+          "barrier": "6",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "NOT FAKE",
+          "jockey": "Ms Tracey Johnson",
+          "claimedWeight": 0,
+          "trainer": "Ron Hockley",
+          "barrier": "5",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "POPES CAN TALK",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Brenda Bamford",
+          "barrier": "4",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "SANTOS LASS",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Geoff Brunsdon",
+          "barrier": "7",
+          "weight": "65kg",
+          "sp": 0
+        },
+        {
+          "horse": "TROJAN’S PRINCESS",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "2",
+          "weight": "65kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    }
+  ]
+}

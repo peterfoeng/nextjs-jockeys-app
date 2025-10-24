@@ -1,0 +1,444 @@
+{
+  "venueInfo": {
+    "name": "Sportsbet Gladstone",
+    "location": "",
+    "clubName": "Sportsbet Gladstone",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CSportsbet%20Gladstone&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "QUEENS REIGN SUPREME BENCHMARK 60 Handicap",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 850,
+      "runners": [
+        {
+          "horse": "OUTBACK RINGER",
+          "jockey": "Tom Orr",
+          "claimedWeight": 2,
+          "trainer": "Alan Jones",
+          "barrier": "5",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "BORNEO",
+          "jockey": "Ms Amie Meissner",
+          "claimedWeight": 2,
+          "trainer": "Lee Kiernan",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISSISSIPPI MORN",
+          "jockey": "Ms Gabrielle Semmens",
+          "claimedWeight": 0,
+          "trainer": "Raymond Williams",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "COBBO",
+          "jockey": "Ms Natalea Summers",
+          "claimedWeight": 0,
+          "trainer": "Michael & Christine Dore",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "IMPACTFULL MISS",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Ryan Ibbotson",
+          "barrier": "7",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "LULO ROSE",
+          "jockey": "Adam Spinks",
+          "claimedWeight": 0,
+          "trainer": "Tracy Simmons",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STELLA BOO",
+          "jockey": "Chris McIver",
+          "claimedWeight": 0,
+          "trainer": "Kevin Miller",
+          "barrier": "6",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY CONSORT",
+          "jockey": "Ms Nikki Olzard",
+          "claimedWeight": 0,
+          "trainer": "Julieann Lancaster",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ITHINKBETTA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "ON THE QUEENS COMMAND QTIS Maiden Plate",
+      "grade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "KICK AND WIN",
+          "jockey": "Ms Natalea Summers",
+          "claimedWeight": 0,
+          "trainer": "Darryl Johnston",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LITTLE FREDDY",
+          "jockey": "Ms Amie Meissner",
+          "claimedWeight": 2,
+          "trainer": "Lee Kiernan",
+          "barrier": "7",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALVITAR",
+          "jockey": "Tom Orr",
+          "claimedWeight": 2,
+          "trainer": "Simon Elix",
+          "barrier": "9",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DIAMOND CODE",
+          "jockey": "Chris McIver",
+          "claimedWeight": 0,
+          "trainer": "Kevin Miller",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGIC TYLA",
+          "jockey": "Adam Spinks",
+          "claimedWeight": 0,
+          "trainer": "Tracy Simmons",
+          "barrier": "5",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RISING RUBY",
+          "jockey": "Ms Nikki Olzard",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "3",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "UNION DELEGATE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Kevin Miller",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHANTILLY QUEEN",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Jason Hancock",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "FIT FOR A QUEEN RATINGS BAND 0 - 50 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1194,
+      "runners": [
+        {
+          "horse": "GOTTA HERO",
+          "jockey": "Adam Spinks",
+          "claimedWeight": 0,
+          "trainer": "Neil Vagg",
+          "barrier": "1",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOFTEN IT UP",
+          "jockey": "Tom Orr",
+          "claimedWeight": 2,
+          "trainer": "Denis Schultz",
+          "barrier": "2",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGIC VALOUR",
+          "jockey": "Ms Amie Meissner",
+          "claimedWeight": 2,
+          "trainer": "Lee Kiernan",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLAME THE BUBBLES",
+          "jockey": "Ms Natalea Summers",
+          "claimedWeight": 0,
+          "trainer": "Darcy Short",
+          "barrier": "8",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "READY TO RHYME",
+          "jockey": "Ms Gabrielle Semmens",
+          "claimedWeight": 0,
+          "trainer": "Bob Murray",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLAWLESS AMBITION",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Bob Murray",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "JELLISHOT",
+          "jockey": "Chris McIver",
+          "claimedWeight": 0,
+          "trainer": "Damien Rideout",
+          "barrier": "10",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "AWESOME MISS",
+          "jockey": "Ms Nikki Olzard",
+          "claimedWeight": 0,
+          "trainer": "Damien Rideout",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE STORM",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Simon Elix",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS RINEHART",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Denis Schultz",
+          "barrier": "3",
+          "weight": "55.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "BOOKMAKERS APPRECIATION COUNTRY STAMPEDE QUALIFIER OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "LILY ALLEZ (NZ)",
+          "jockey": "Ms Gabrielle Semmens",
+          "claimedWeight": null,
+          "trainer": "Raymond Williams",
+          "barrier": "1",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOOMING LAD",
+          "jockey": "Adam Spinks",
+          "claimedWeight": 0,
+          "trainer": "Tracy Simmons",
+          "barrier": "5",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUNNYCOAST",
+          "jockey": "Chris McIver",
+          "claimedWeight": 0,
+          "trainer": "Jamie McConachy",
+          "barrier": "4",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KING JESTER",
+          "jockey": "Ms Amie Meissner",
+          "claimedWeight": null,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "COCHRANE",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": null,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DRAGON’S SNIP",
+          "jockey": "Ms Nikki Olzard",
+          "claimedWeight": null,
+          "trainer": "Sileas Green",
+          "barrier": "9",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR ENCORE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Glenn Richardson",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "CINDERELLA MAN",
+          "jockey": "Ms Natalea Summers",
+          "claimedWeight": 0,
+          "trainer": "Alan Jones",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "IMPERIONESS",
+          "jockey": "Tom Orr",
+          "claimedWeight": null,
+          "trainer": "Raymond Williams",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "QUEENS OF THE TURF BENCHMARK 55 Handicap",
+      "grade": "BenchMark 55, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1517,
+      "runners": [
+        {
+          "horse": "ALL BUSINESS (NZ)",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Alan Jones",
+          "barrier": "6",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "DIASONIC",
+          "jockey": "Ms Nikki Olzard",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "5",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "CASH ARTIST",
+          "jockey": "Chris McIver",
+          "claimedWeight": 0,
+          "trainer": "Darryl Johnston",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "LEICA BITA FUN",
+          "jockey": "Tom Orr",
+          "claimedWeight": 2,
+          "trainer": "Denis Schultz",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "NATIVE BEE",
+          "jockey": "Ms Amie Meissner",
+          "claimedWeight": 2,
+          "trainer": "Damien Rideout",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLYBALL",
+          "jockey": "Ms Natalea Summers",
+          "claimedWeight": 0,
+          "trainer": "Darryl Johnston",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    }
+  ]
+}

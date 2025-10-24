@@ -1,0 +1,855 @@
+{
+  "venueInfo": {
+    "name": "Sportsbet Gawler",
+    "location": "",
+    "clubName": "Sportsbet Gawler",
+    "date": "2025-10-23",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet%20Gawler&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Magain Fielke Real Estate Gawler Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1500,
+      "runners": [
+        {
+          "horse": "GOLDFIELDS GREY",
+          "jockey": "Jacob Opperman",
+          "claimedWeight": 0,
+          "trainer": "Matthew Seyers",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "IF YOU DON’T MIND",
+          "jockey": "Campbell Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Kate Halliday",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "PAGANINI",
+          "jockey": "Connor Murtagh",
+          "claimedWeight": 0,
+          "trainer": "Jon O'Connor",
+          "barrier": "9",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "CASINO SHOWGIRL",
+          "jockey": "Ms Kayla Crowther",
+          "claimedWeight": 0,
+          "trainer": "Will Clarken",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOOCHEE GAL",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Gary & Dean Alexander",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HORSEBACK HEAVEN",
+          "jockey": "Valentin Le Boeuf",
+          "claimedWeight": 0,
+          "trainer": "Frankie Stockdale",
+          "barrier": "10",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOFTLY BLACK",
+          "jockey": "Ms Taylor Johnstone",
+          "claimedWeight": 0,
+          "trainer": "Bob Richard",
+          "barrier": "3",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "CYNANE",
+          "jockey": "Ms Alana Livesey",
+          "claimedWeight": 0,
+          "trainer": "Gary & Dean Alexander",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIABESCA",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "David Aldridge",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Kingsford Hotel Maiden Plate",
+      "grade": "Maiden, Set Weights, Four-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "AUTUMN FROST",
+          "jockey": "Ms Caitlin Jones",
+          "claimedWeight": 0,
+          "trainer": "Richard & Chantelle Jolly",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BUCKINGHAM PALACE",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Aaron Bain & Ned Taylor",
+          "barrier": "14",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS LIL",
+          "jockey": "Valentin Le Boeuf",
+          "claimedWeight": 0,
+          "trainer": "Frankie Stockdale",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "REIBY PRINCESS",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "John Dunn & Krystal Bishop",
+          "barrier": "8",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROYOLO",
+          "jockey": "Ben Price",
+          "claimedWeight": 0,
+          "trainer": "Travis Doudle",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIDDY WIDDY (NZ)",
+          "jockey": "Ms Taylor Johnstone",
+          "claimedWeight": 0,
+          "trainer": "Gordon Richards & Damien Moyle",
+          "barrier": "10",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRINCE OF KING",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "John Dunn & Krystal Bishop",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BONNY IMPACT",
+          "jockey": "Ms Alana Livesey",
+          "claimedWeight": 0,
+          "trainer": "Kate Halliday",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "LJ Hooker Property Specialists | Gawler & Barossa Three-Year-Old Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "BRUSHSTROKE BHOY",
+          "jockey": "Connor Murtagh",
+          "claimedWeight": 0,
+          "trainer": "G & N Searle & B Callanan",
+          "barrier": "12",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLYING ZULU",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Chris Bieg",
+          "barrier": "13",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LONGREACH DROVER",
+          "jockey": "Valentin Le Boeuf",
+          "claimedWeight": 0,
+          "trainer": "Frankie Stockdale",
+          "barrier": "1",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STREET NYX",
+          "jockey": "Ms Kayla Crowther",
+          "claimedWeight": 0,
+          "trainer": "Shayne & Chelsea Cahill",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FINE ACE",
+          "jockey": "Ms Jade Doyle",
+          "claimedWeight": 2,
+          "trainer": "Craig Curtis",
+          "barrier": "11",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FOREVER A DIAMOND",
+          "jockey": "Ben Price",
+          "claimedWeight": 0,
+          "trainer": "Roslyn Day",
+          "barrier": "3",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JASSTAR",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 3,
+          "trainer": "Peter Nolan",
+          "barrier": "14",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WINGS OF DESTINY",
+          "jockey": "Ms Teagan Voorham",
+          "claimedWeight": 0,
+          "trainer": "G & N Searle & B Callanan",
+          "barrier": "5",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BENIGN",
+          "jockey": "Ms Brooke King",
+          "claimedWeight": 2,
+          "trainer": "John Dunn & Krystal Bishop",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Irongate Australia Benchmark 56 Handicap",
+      "grade": "BenchMark 56, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1700,
+      "runners": [
+        {
+          "horse": "COLLATED",
+          "jockey": "Ms Alysha Warren",
+          "claimedWeight": 3,
+          "trainer": "Matthew Seyers",
+          "barrier": "9",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "CULLEN SKINK",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "John Dunn & Krystal Bishop",
+          "barrier": "2",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLYING ASSASSIN",
+          "jockey": "Campbell Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Garret Lynch",
+          "barrier": "6",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "LIFT THE BAR",
+          "jockey": "Ben Price",
+          "claimedWeight": 0,
+          "trainer": "Sarah Rutten",
+          "barrier": "1",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "CARING LASS",
+          "jockey": "Ms Kayla Crowther",
+          "claimedWeight": 0,
+          "trainer": "Garret Lynch",
+          "barrier": "5",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CUT NO ICE (NZ)",
+          "jockey": "Ms Caitlyn Munro",
+          "claimedWeight": 2,
+          "trainer": "Gary & Dean Alexander",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEA TREASURES (NZ)",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 3,
+          "trainer": "Peter Nolan",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAZERAC",
+          "jockey": "Ms Margaret Collett",
+          "claimedWeight": 0,
+          "trainer": "Paul Carey",
+          "barrier": "7",
+          "weight": "54.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WILD INFERENCE",
+          "jockey": "Dylan Caboche",
+          "claimedWeight": 0,
+          "trainer": "Judy Streets",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Matrix Solar Solutions Class One Handicap",
+      "grade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1500,
+      "runners": [
+        {
+          "horse": "FUSSY AS",
+          "jockey": "Sairyn Fawke",
+          "claimedWeight": 0,
+          "trainer": "David Aldridge",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "PAPAL WARS (NZ)",
+          "jockey": "Ms Caitlin Tootell",
+          "claimedWeight": 2,
+          "trainer": "Kate Brooks",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "IMMORTAL SHIELD",
+          "jockey": "Todd Pannell",
+          "claimedWeight": 0,
+          "trainer": "Grant Young",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STRASBEAU",
+          "jockey": "Ms Margaret Collett",
+          "claimedWeight": 0,
+          "trainer": "Garret Lynch",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BELLE FROM HELL",
+          "jockey": "Ms Tala Hutchinson",
+          "claimedWeight": 2,
+          "trainer": "Garret Lynch",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "URBANISE",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Jon O'Connor",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "NORMIE NO SHOW",
+          "jockey": "Connor Murtagh",
+          "claimedWeight": 0,
+          "trainer": "Garret Lynch",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MORLAIX",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "Stuart Padman",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KINDRA PARK",
+          "jockey": "Matthew Chadwick",
+          "claimedWeight": 2,
+          "trainer": "George Dimitropoulos",
+          "barrier": "10",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "CAPABLANCA",
+          "jockey": "Ms Anna Jordsjo",
+          "claimedWeight": 0,
+          "trainer": "Judy Virgin",
+          "barrier": "12",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "2025 Sportsbet Barossa Sprint Benchmark 64 Handicap",
+      "grade": "BenchMark 64, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "EUGENIUS",
+          "jockey": "Ms Tahlia Hardy",
+          "claimedWeight": 4,
+          "trainer": "Michael McClean",
+          "barrier": "6",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KAIDO",
+          "jockey": "Todd Pannell",
+          "claimedWeight": 0,
+          "trainer": "Mark Lewis",
+          "barrier": "10",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZESTIMAN",
+          "jockey": "Ms Caitlyn Munro",
+          "claimedWeight": 2,
+          "trainer": "G & N Searle & B Callanan",
+          "barrier": "5",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHESTERAY",
+          "jockey": "Ms Stacey Metcalfe",
+          "claimedWeight": 0,
+          "trainer": "Emily Tremelling",
+          "barrier": "11",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "OVERSTRIKE",
+          "jockey": "Ms Caitlin Jones",
+          "claimedWeight": 0,
+          "trainer": "Chris Bieg",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GRAND HOST",
+          "jockey": "Ms Jessica Tzaferis",
+          "claimedWeight": 0,
+          "trainer": "Matthew Seyers",
+          "barrier": "12",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "GIVE SOME LIP",
+          "jockey": "Isaac Sit",
+          "claimedWeight": 3,
+          "trainer": "Will Clarken",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOLAR BLAST",
+          "jockey": "Ms Alysha Warren",
+          "claimedWeight": 3,
+          "trainer": "Richard & Chantelle Jolly",
+          "barrier": "9",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "STRATUM PRIDE",
+          "jockey": "Ms Alana Livesey",
+          "claimedWeight": 0,
+          "trainer": "Philippe Huserot",
+          "barrier": "8",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARTICULATING",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "Mick Huxtable",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE GOV",
+          "jockey": "Sairyn Fawke",
+          "claimedWeight": 0,
+          "trainer": "Garret Lynch",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOOKED ON WEALTH",
+          "jockey": "Ms Kayla Crowther",
+          "claimedWeight": 0,
+          "trainer": "Wayne Francis & Glen Kent",
+          "barrier": "14",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "2025 Holdfast Insurance Brokers Gawler Cup",
+      "grade": "Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "POISON CHALICE (NZ)",
+          "jockey": "Connor Murtagh",
+          "claimedWeight": 0,
+          "trainer": "Paul Preusker",
+          "barrier": "9",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "AIR ASSAULT",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Andrew Gluyas",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHICAGO STORM",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "David Aldridge",
+          "barrier": "14",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "COTEHELE (NZ)",
+          "jockey": "Todd Pannell",
+          "claimedWeight": 0,
+          "trainer": "Michael Hickmott",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "MY KHALIFA",
+          "jockey": "Ms Alana Livesey",
+          "claimedWeight": 0,
+          "trainer": "Gordon Richards & Damien Moyle",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "BAMYAN BUDDHA",
+          "jockey": "Ms Margaret Collett",
+          "claimedWeight": 0,
+          "trainer": "Grant Young",
+          "barrier": "15",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "EASY CAMPESE",
+          "jockey": "Ms Alysha Warren",
+          "claimedWeight": 3,
+          "trainer": "Sarah Rutten",
+          "barrier": "6",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOUNGE BAR RUBI",
+          "jockey": "Ms Stacey Metcalfe",
+          "claimedWeight": 0,
+          "trainer": "Aaron Bain & Ned Taylor",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "DUAL PRESSURE",
+          "jockey": "Jacob Opperman",
+          "claimedWeight": 0,
+          "trainer": "Aaron Bain & Ned Taylor",
+          "barrier": "3",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOSEN WATER",
+          "jockey": "Ms Jessica Tzaferis",
+          "claimedWeight": 0,
+          "trainer": "G & N Searle & B Callanan",
+          "barrier": "12",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARD PRINCE",
+          "jockey": "Ms Taylor Johnstone",
+          "claimedWeight": 0,
+          "trainer": "Richard & Chantelle Jolly",
+          "barrier": "4",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "STIRRUP CUP",
+          "jockey": "Ms Teagan Voorham",
+          "claimedWeight": 0,
+          "trainer": "Sarah Rutten",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "ANGELIC APPEAL",
+          "jockey": "Ben Price",
+          "claimedWeight": 0,
+          "trainer": "Gary & Dean Alexander",
+          "barrier": "10",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOT STRUT",
+          "jockey": "Sairyn Fawke",
+          "claimedWeight": 0,
+          "trainer": "Ron Daniel & Trish Stanbury",
+          "barrier": "13",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 14,
+      "scratched": 0
+    },
+    {
+      "title": "Coopers Brewery Fillies & Mares Rating 0 - 64 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "BELLALIQUE",
+          "jockey": "Campbell Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Paul Preusker",
+          "barrier": "10",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WILD WINNER",
+          "jockey": "Ms Taylor Johnstone",
+          "claimedWeight": 0,
+          "trainer": "Andrew Gluyas",
+          "barrier": "8",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ISUSPECTJEU (NZ)",
+          "jockey": "Ms Brooke King",
+          "claimedWeight": 2,
+          "trainer": "Grant Kluske",
+          "barrier": "15",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BELLEZZE",
+          "jockey": "Todd Pannell",
+          "claimedWeight": 0,
+          "trainer": "Aaron Bain & Ned Taylor",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "OMAHA DAWN",
+          "jockey": "Jason Holder",
+          "claimedWeight": 0,
+          "trainer": "Andrew Gluyas",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PACIFIC JEWEL",
+          "jockey": "Ms Alana Livesey",
+          "claimedWeight": 0,
+          "trainer": "Travis Doudle",
+          "barrier": "14",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEA OF LIGHTS",
+          "jockey": "Ms Kayla Crowther",
+          "claimedWeight": 0,
+          "trainer": "Will Clarken",
+          "barrier": "7",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STARTIDE",
+          "jockey": "Jacob Opperman",
+          "claimedWeight": 0,
+          "trainer": "Karen Byrnes",
+          "barrier": "17",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HATEECH",
+          "jockey": "Ms Rochelle Milnes",
+          "claimedWeight": 0,
+          "trainer": "Claudette Rose",
+          "barrier": "12",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY ZELDA",
+          "jockey": "Connor Murtagh",
+          "claimedWeight": 0,
+          "trainer": "Will Clarken",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRESS EXPRESS",
+          "jockey": "Isaac Sit",
+          "claimedWeight": 3,
+          "trainer": "Wayne Francis & Glen Kent",
+          "barrier": "13",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CIELAO",
+          "jockey": "Ms Jessica Tzaferis",
+          "claimedWeight": 0,
+          "trainer": "Michael Hickmott",
+          "barrier": "11",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MEG’S MAGIC",
+          "jockey": "Ms Teagan Voorham",
+          "claimedWeight": 0,
+          "trainer": "Sarah Rutten",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-{
-	"id": "dwOMH0x3jxz1She",
-	"json": "{\"id\":\"dwOMH0x3jxz1She\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CRockhampton\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CRockhampton\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CRockhampton\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:32.443Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CRockhampton",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CRockhampton"
-}

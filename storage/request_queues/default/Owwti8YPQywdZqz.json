@@ -1,0 +1,9 @@
+{
+	"id": "Owwti8YPQywdZqz",
+	"json": "{\"id\":\"Owwti8YPQywdZqz\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:54.731Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton"
+}

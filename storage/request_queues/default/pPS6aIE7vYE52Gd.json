@@ -1,0 +1,9 @@
+{
+	"id": "pPS6aIE7vYE52Gd",
+	"json": "{\"id\":\"pPS6aIE7vYE52Gd\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CMackay\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CMackay\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CMackay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:51.557Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CMackay",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CMackay"
+}

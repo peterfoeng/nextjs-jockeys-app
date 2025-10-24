@@ -1,9 +1,0 @@
-{
-	"id": "Nq8gzcYwfdKoprD",
-	"json": "{\"id\":\"Nq8gzcYwfdKoprD\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CInnisfail\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CInnisfail\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CInnisfail\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-18T04:08:32.081Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CInnisfail",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct18%2CQLD%2CInnisfail"
-}

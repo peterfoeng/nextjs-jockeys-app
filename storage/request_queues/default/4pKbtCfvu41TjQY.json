@@ -1,0 +1,9 @@
+{
+	"id": "4pKbtCfvu41TjQY",
+	"json": "{\"id\":\"4pKbtCfvu41TjQY\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CSt%20Arnaud&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CSt%20Arnaud&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CSt+Arnaud&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:58.759Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CSt+Arnaud&recentForm=Y",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CVIC%2CSt%20Arnaud&recentForm=Y"
+}

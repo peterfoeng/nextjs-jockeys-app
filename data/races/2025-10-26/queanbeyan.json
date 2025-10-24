@@ -1,0 +1,691 @@
+{
+  "venueInfo": {
+    "name": "Queanbeyan",
+    "location": "",
+    "clubName": "Queanbeyan",
+    "date": "2025-10-26",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "ALLBIDS MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1460,
+      "runners": [
+        {
+          "horse": "HONEST WARRIOR",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "PHOENIX LEGEND",
+          "jockey": "Angus Villiers",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SALLY’S KATO",
+          "jockey": "Glenn Cahill",
+          "claimedWeight": 2,
+          "trainer": "Geoffrey Crothers",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHARE OUR SECRET",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Tom Wilson",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "AMANOAH",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAMAKA (NZ)",
+          "jockey": "Ms Winona Costin",
+          "claimedWeight": 0,
+          "trainer": "James Ponsonby",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUSTWATCHHER",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Todd Smart",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROONAMI",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "CARBIDS BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "VIOLET AND BLUE",
+          "jockey": "Ms Ella Bent",
+          "claimedWeight": 3,
+          "trainer": "Kathryn Cahill",
+          "barrier": "8",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOOO CRAZY",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Rob Potter",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALL TOO LUCKY",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Joseph Ible",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGIC SPEED",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "2",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PARTY IT DOWN",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "OAKEYS CHOICE",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Luke Musson",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "NOMINATOR",
+          "jockey": "Ms Nyssa Burrells",
+          "claimedWeight": 0,
+          "trainer": "Andrew Jenkyn",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "CONSTRUCTION CONTROL COUNTRY BOOSTED MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "SOUK",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIS NO MAN",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "PINK LAMBORGHINI",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Garry Kirkup",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOP PICK",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Len Hodgson",
+          "barrier": "6",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZIPPY ARGENTO",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "1",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARTFUL LADY",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXTREMELY EXCITING",
+          "jockey": "Jack Baker",
+          "claimedWeight": 2,
+          "trainer": "Norm Gardner",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOUJEN FRANCAISE",
+          "jockey": "Ms Emma Ly",
+          "claimedWeight": 2,
+          "trainer": "John Morrison",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DENICCI",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "TAB SAME RACE MULTI MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "BRUTAL ADVANCE",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Kerry Parker",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "DO YA HEAD IN",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHAFT ATTACK",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 1.5,
+          "trainer": "Len Hodgson",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "STEP QUICK",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "11",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLOAT THE EURO",
+          "jockey": "Glenn Cahill",
+          "claimedWeight": 2,
+          "trainer": "Jack Van Duren",
+          "barrier": "9",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPEED OF THOUGHT",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Garry Kirkup",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "WE SHALL OVERCOME",
+          "jockey": "Richard Bensley",
+          "claimedWeight": 0,
+          "trainer": "Gratz Vella",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "AQUILINO",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAGIC ANDERSON",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Con Karakatsanis",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "EMPRESS IRENE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "QRACING MEMBERSHIP COUNTRY BOOSTED BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "HURRICANE CONI",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "GREAT WEEK",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Geoffrey Crothers",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPURLINE",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Tom Wilson",
+          "barrier": "1",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TILLMAN",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Greg Stephens",
+          "barrier": "9",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "POKER FLASH",
+          "jockey": "Jack Baker",
+          "claimedWeight": 2,
+          "trainer": "Scott Jamieson",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLASH PIPER",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "John Morrison",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MICKEY’S PRIDE",
+          "jockey": "Ms Amy McLucas",
+          "claimedWeight": 0,
+          "trainer": "Mick Smith",
+          "barrier": "10",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARDAZHELL",
+          "jockey": "Ms Winona Costin",
+          "claimedWeight": 0,
+          "trainer": "Jenny Hoy",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SINGLE CROWN",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Luke Musson",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "KARUTA KING (NZ)",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Lynda Bundy",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "QUEANBEYAN CUP 28 NOV CLASS 3 HANDICAP",
+      "grade": "Class 3, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1460,
+      "runners": [
+        {
+          "horse": "LANG PARK",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 1.5,
+          "trainer": "Andrew Bourke",
+          "barrier": "3",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAH ALI",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Kerry Parker",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "WIN THE DAY",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THAT A BOY",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRETTY SASSY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Joseph Ible",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE HERALD",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Geoffrey Crothers",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DRUNKEN SAILOR (NZ)",
+          "jockey": "Ms Winona Costin",
+          "claimedWeight": 0,
+          "trainer": "James Ponsonby",
+          "barrier": "10",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUNA ANGEL",
+          "jockey": "Glenn Cahill",
+          "claimedWeight": 2,
+          "trainer": "Geoffrey Crothers",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "COSMIC RIDE",
+          "jockey": "Richard Bensley",
+          "claimedWeight": 0,
+          "trainer": "Luke Pepper",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOBS BACK",
+          "jockey": "Ms Amy McLucas",
+          "claimedWeight": 0,
+          "trainer": "Kerry Parker",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "TAB SAVER BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BATTLE ABBEY",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Tom Wilson",
+          "barrier": "9",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPIRITUALISTIC",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "7",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "LAGUNA SECA",
+          "jockey": "Ms Amy McLucas",
+          "claimedWeight": 0,
+          "trainer": "Lauren Davies",
+          "barrier": "2",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAN FROM BRUSSELLS",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Michael Lynch",
+          "barrier": "1",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZALE",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Gary Nickson",
+          "barrier": "10",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "PUSHALOT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "14",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MIDNIGHT AFFAIR",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "13",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ANTHRACIA",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "WRITTEN BY LUCY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Rob Potter",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "DARN DEADLY",
+          "jockey": "Angus Villiers",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "AZZUCCA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Gratz Vella",
+          "barrier": "12",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEVGRU",
+          "jockey": "Ms Emma Ly",
+          "claimedWeight": 2,
+          "trainer": "John Borham",
+          "barrier": "5",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PAPAVER MINER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jack Van Duren",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    }
+  ]
+}

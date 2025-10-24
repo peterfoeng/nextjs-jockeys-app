@@ -1,0 +1,682 @@
+{
+  "venueInfo": {
+    "name": "Sunshine Coast",
+    "location": "",
+    "clubName": "Sunshine Coast",
+    "date": "2025-10-23",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine%20Coast&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "FRANCES' Fillies and Mares Maiden Handicap",
+      "grade": "Maiden, Handicap, Minimum Weight 55kg, Fillies and Mares, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "KEANE CHANCE",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Jamie Bayliss",
+          "barrier": "8",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISSISSIPPI DREAM (NZ)",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "David Vandyke",
+          "barrier": "6",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TAKE ACHANCE ON ME",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "AMELIORATION",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Ben Lang",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "PENSIERO",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "11",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "HIGHGROVE ROSE",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "BELLOVE",
+          "jockey": "Ms Olivia Webb",
+          "claimedWeight": 2,
+          "trainer": "Taylah Mackinnon",
+          "barrier": "4",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KOBABILITY",
+          "jockey": "Cobi Vitler",
+          "claimedWeight": 2,
+          "trainer": "Olivia Cairns",
+          "barrier": "9",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUKEY BLUE",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Jason Edwards",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "YAKITORI",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "MATTHEW'S Colts, Geldings and Entires Maiden Handicap",
+      "grade": "Maiden, Handicap, Minimum Weight 55.5kg, Colts, Geldings and Entires, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "RUSTENBURG",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Jamie Bayliss",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "MASTERS APPRENTICE",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "Darryl Hansen",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MOONAN QUARTZ",
+          "jockey": "Jackson Morris",
+          "claimedWeight": 0,
+          "trainer": "Michael Lakey",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "CLIVE’S GLORY",
+          "jockey": "Ben Thompson",
+          "claimedWeight": null,
+          "trainer": "Billy Healey",
+          "barrier": "14",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STARWARD",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Natalie McCall",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRYMESOON (NZ)",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ATOMIC TIME (NZ)",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "TOO DARN SMART",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "David Gafa",
+          "barrier": "12",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARODASI",
+          "jockey": "Ms Leah Martyn",
+          "claimedWeight": 3,
+          "trainer": "Gary Duncan",
+          "barrier": "4",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PENROD",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "David Vandyke",
+          "barrier": "3",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STILL UNWANTED",
+          "jockey": "Dale Smith",
+          "claimedWeight": 0,
+          "trainer": "Darren Bell",
+          "barrier": "2",
+          "weight": "55.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "CANNONBALL QTIS Three-Year-Old Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "HELLO PUNTERS",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "MR DEMOCRAT",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "VAREJAO",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "5",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "AVE CANTARE",
+          "jockey": "Ron Stewart",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "CARBONARA",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "8",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAN GIMIGNANO",
+          "jockey": "Ms Olivia Kendal",
+          "claimedWeight": 1.5,
+          "trainer": "Donna Stanbridge",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HANIEL",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Darryl Hansen",
+          "barrier": "16",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "EGYPTIAN GODDESS",
+          "jockey": "Matthew Palmer",
+          "claimedWeight": 0,
+          "trainer": "Ryan Tyrell",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "KIMSIA'S OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "LOST IN TRANSIT",
+          "jockey": "Jag Guthmann-Chester",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "RISE OF THE MASSES",
+          "jockey": "Rory Hutchings",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HEARTONI",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "EN POINTE",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "7",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "AMORE VELOCE",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "8",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHALAILED",
+          "jockey": "Mark Du Plessis",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "9",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "TROIKA",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "6",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "LAYDOWNLILY",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Taylah Mackinnon",
+          "barrier": "2",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALLOUTATIME",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Natalie McCall",
+          "barrier": "1",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "GORDON'S BENCHMARK 65 Handicap",
+      "grade": "BenchMark 65, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BIG BOY GEORGE",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Mark Currie",
+          "barrier": "10",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "STAR ACT",
+          "jockey": "Ms Leah Martyn",
+          "claimedWeight": 3,
+          "trainer": "Liam Birchley",
+          "barrier": "7",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRACKENTHORPE (NZ)",
+          "jockey": "Jag Guthmann-Chester",
+          "claimedWeight": 0,
+          "trainer": "Darryl Hansen",
+          "barrier": "12",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUTON HOO (NZ)",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "David Vandyke",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SILVER CITY",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZINGALONG",
+          "jockey": "Ms Montana Philpot",
+          "claimedWeight": 2,
+          "trainer": "Trevor Miller",
+          "barrier": "14",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "CAXTON LASS",
+          "jockey": "Ron Stewart",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISHANI STORM",
+          "jockey": "Dylan Turner",
+          "claimedWeight": 0,
+          "trainer": "Donna Stanbridge",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "RICK'S Class 1 Plate",
+      "grade": "Class 1, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "HE’S FINESSE (NZ)",
+          "jockey": "Cobi Vitler",
+          "claimedWeight": 2,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "KEENAN",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Billy Healey",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "SANCTUARY STORM",
+          "jockey": "Heavelon Van Der Hoven",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "11",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOLLINGER MISS",
+          "jockey": "Martin Harley",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "13",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BROOKLYN DAISY",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "GAGNANTE ENCHERE",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Shaun Dwyer",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "NANTERRE",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Billy Healey",
+          "barrier": "3",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "QUALITY MISS",
+          "jockey": "Dylan Turner",
+          "claimedWeight": 0,
+          "trainer": "Diane Murphy",
+          "barrier": "8",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRAPEDO",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Billy Healey",
+          "barrier": "7",
+          "weight": "58kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "MARIE'S RATINGS BAND 0 - 58 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "IONACELTIC",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "SCOUNDREL",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Jay Bellamy",
+          "barrier": "8",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MIDNIGHT MADNESS",
+          "jockey": "Micheal Hellyer",
+          "claimedWeight": 0,
+          "trainer": "John Johnston",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHEERFUL CAT",
+          "jockey": "Heavelon Van Der Hoven",
+          "claimedWeight": 0,
+          "trainer": "James Moore",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEEP DAWN",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "PERRI LASS",
+          "jockey": "Corey Sutherland",
+          "claimedWeight": 2,
+          "trainer": "Chris Anderson",
+          "barrier": "9",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BONJOUR RUPERT",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Grant Allard",
+          "barrier": "3",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FORTY TIMES (NZ)",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Nicholas Beck",
+          "barrier": "10",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRIDE OF SAVABELLA",
+          "jockey": "Adin Thompson",
+          "claimedWeight": 0,
+          "trainer": "Liam Birchley",
+          "barrier": "11",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ATLANTIC ROYAL",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Paul Jenkins",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "FRIJOLES",
+          "jockey": "Mark Du Plessis",
+          "claimedWeight": 0,
+          "trainer": "Garry Schwenke",
+          "barrier": "1",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

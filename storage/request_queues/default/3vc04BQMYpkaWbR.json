@@ -1,0 +1,9 @@
+{
+	"id": "3vc04BQMYpkaWbR",
+	"json": "{\"id\":\"3vc04BQMYpkaWbR\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes%20Pioneer%20Park\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes%20Pioneer%20Park\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes+Pioneer+Park\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:54.839Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes+Pioneer+Park",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNT%2CLadbrokes%20Pioneer%20Park"
+}

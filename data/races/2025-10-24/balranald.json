@@ -1,0 +1,437 @@
+{
+  "venueInfo": {
+    "name": "Balranald",
+    "location": "",
+    "clubName": "Balranald",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CBalranald&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "BACK COUNTRY SUPPORTERS & BUSINESS OF BALRANALD MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "COMMANDING SHADOW",
+          "jockey": "Thomas Spillane",
+          "claimedWeight": 4,
+          "trainer": "Paul McVicar",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "INARTICULATE",
+          "jockey": "Cameron Quilty",
+          "claimedWeight": 0,
+          "trainer": "Saab Hasan",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "DALENTINO",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Nathan Hobson",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MAHRA",
+          "jockey": "Ms Samantha Noble",
+          "claimedWeight": 0,
+          "trainer": "Steven Noble",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MY CITY WARRIOR",
+          "jockey": "Ms Cassidy Hill",
+          "claimedWeight": 4,
+          "trainer": "Craig Weeding",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SEMINARA",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Heidi Smith",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MACRISTAL HOUSE",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Pat Carey & Harris Walker",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "LES & EVELYN WHITE MEMORIAL BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BRENLYN’S TROOPER",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Nathan Hobson",
+          "barrier": "7",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "CONTROVERSIAL MISS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Craig Weeding",
+          "barrier": "4",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WINNING AURA",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Cindy Brander",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOO KISS ME",
+          "jockey": "Ms Cassidy Hill",
+          "claimedWeight": 4,
+          "trainer": "Craig Weeding",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRUSTTHESHERIFF",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "REDNECK WOMAN",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "GLENAVON PASTORAL CO & CHURCH ST RETREES MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "BRAVUE",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 2,
+          "trainer": "Jordy Coffey",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BURNING SENSATION",
+          "jockey": "Cameron Quilty",
+          "claimedWeight": 0,
+          "trainer": "Saab Hasan",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "DESERT BOOTS",
+          "jockey": "Ms Cassidy Hill",
+          "claimedWeight": 4,
+          "trainer": "Craig Weeding",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "IRONBOX",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Donald Hird",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "SI SI SIR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Saab Hasan",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY EMILIA",
+          "jockey": "Thomas Spillane",
+          "claimedWeight": 4,
+          "trainer": "Paul McVicar",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "RANGATOO",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "UPINTHECITY",
+          "jockey": "Ms Samantha Noble",
+          "claimedWeight": 0,
+          "trainer": "Steven Noble",
+          "barrier": "4",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPORTS MODE",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Nathan Hobson",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "R.N \"DICK\" GORMAN BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1750,
+      "runners": [
+        {
+          "horse": "BOY FROM TENNESSEE",
+          "jockey": "Thomas Spillane",
+          "claimedWeight": 4,
+          "trainer": "Paul McVicar",
+          "barrier": "5",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "HYDROGEN POWER",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Nathan Hobson",
+          "barrier": "1",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CALM DOWN SHERIFF",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "4",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BRASSI ROAD",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FLIGHT DECK (NZ)",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Cindy Brander",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "B.R & C. AGENTS BALRANALD CUP",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "FOX APPEAL",
+          "jockey": "Ms Cassidy Hill",
+          "claimedWeight": 4,
+          "trainer": "Craig Weeding",
+          "barrier": "6",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHOSEN VENTURE",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "JAZ TYCOON",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Nathan Hobson",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAKASU",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Helen Burns",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXONUMIA",
+          "jockey": "Thomas Spillane",
+          "claimedWeight": 4,
+          "trainer": "Kim Talent",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DON’T TELL SHERIFF",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "ELDERS SPRING CUP",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "MR MOPPETT",
+          "jockey": "Thomas Spillane",
+          "claimedWeight": 4,
+          "trainer": "Paul McVicar",
+          "barrier": "2",
+          "weight": "66kg",
+          "sp": 0
+        },
+        {
+          "horse": "BIG DAY OUT",
+          "jockey": "Ms Cassidy Hill",
+          "claimedWeight": 4,
+          "trainer": "Craig Weeding",
+          "barrier": "6",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE WAYFARER",
+          "jockey": "Ms Makisha Salter",
+          "claimedWeight": 2,
+          "trainer": "Nathan Hobson",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUNDAY FUN DAY",
+          "jockey": "Ms Polly Brewster",
+          "claimedWeight": 2,
+          "trainer": "Mark Pegus",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ASTROMANCER",
+          "jockey": "Bradley Vale",
+          "claimedWeight": 0,
+          "trainer": "Heidi Smith",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SABERMETRIC",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Raharna McDonald",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "COLLEGE DROPOUT",
+          "jockey": "Ms Samantha Noble",
+          "claimedWeight": 0,
+          "trainer": "Steven Noble",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    }
+  ]
+}

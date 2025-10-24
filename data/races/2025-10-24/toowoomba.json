@@ -1,0 +1,628 @@
+{
+  "venueInfo": {
+    "name": "Toowoomba",
+    "location": "",
+    "clubName": "Toowoomba",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CToowoomba&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "MCGREGOR GOURLAY QTIS Three-Year-Old & Four-Year-Old BENCHMARK 58 Handicap",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 54kg, Three-Years-Old and Four-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "SHOWS A SIGN",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Pat Webster",
+          "barrier": "10",
+          "weight": "66.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BEE TWO",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 2,
+          "trainer": "Glenn Richardson",
+          "barrier": "5",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOLD BIDDER",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Troy Pascoe",
+          "barrier": "1",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "HEROIC BEACH",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Matt Kropp",
+          "barrier": "2",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZARIPPA",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Tony Gollan",
+          "barrier": "4",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "EXPRESS CODE",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "HORRIBLE HANK",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Glenn Richardson",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "KING OF GERALDINE",
+          "jockey": "Ms Olivia Kendal",
+          "claimedWeight": 1.5,
+          "trainer": "Donna Stanbridge",
+          "barrier": "11",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPIRITOF THE OCEAN",
+          "jockey": "Corey Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Darryl Hansen",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISHANI BREEZE",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 3,
+          "trainer": "Donna Stanbridge",
+          "barrier": "3",
+          "weight": "54.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "MAKTRANS QLD BENCHMARK 62 Handicap",
+      "grade": "BenchMark 62, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1625,
+      "runners": [
+        {
+          "horse": "EARL OF DEVON (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "10",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPRAY GUN",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Mark Currie",
+          "barrier": "6",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MADALSA",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Pat Webster",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SON OF BEEBEE",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MOONSHINE RUN",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Nicholas Beck",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RINGER’S REWARD",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 2,
+          "trainer": "Kevin Kemp",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "SILVER AGENT",
+          "jockey": "Jake Molloy",
+          "claimedWeight": 0,
+          "trainer": "Lindsay Hatch",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOMETHING FORJO",
+          "jockey": "Corey Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BESIEGE",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Michael G Nolan",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "TILLY'S EARTHMOVING SPARE PARTS QTIS Three-Year-Old Maiden Handicap",
+      "grade": "Maiden, Handicap, Minimum Weight 55.5kg, Three-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "MYSTIC ASCOT",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Alyssa & Troy Sweeney",
+          "barrier": "9",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOUD HOUSE",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Ravyn Warzecha",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLUEY’S CHOICE",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Michael G Nolan",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISHANI IMPACT",
+          "jockey": "Ms Olivia Kendal",
+          "claimedWeight": 1.5,
+          "trainer": "Donna Stanbridge",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TROOPER SAM",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 3,
+          "trainer": "Lyn Baskett",
+          "barrier": "6",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CANCELLED",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "5",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHEEKY’S TIME",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Harry Schwenke",
+          "barrier": "8",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "LADY BARBAROSSA",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "11",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOUSAIN GIRL",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Nicholas Beck",
+          "barrier": "4",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "TOOWOOMBA TRUCK SPARES BENCHMARK 70 Handicap",
+      "grade": "BenchMark 70, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "SHALAMAN",
+          "jockey": "Ms Fiona Sandkuhl",
+          "claimedWeight": 3,
+          "trainer": "John Thomas",
+          "barrier": "7",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "BEAU WITNESS",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": 2,
+          "trainer": "Brett Baker",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "KRAKARIB",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "8",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "GALWAY HUSSLER",
+          "jockey": "Ms Olivia Webb",
+          "claimedWeight": 2,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "2",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THIS IS ONE",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "1",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CARRIBEAN KING (NZ)",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WOWIT’S WILLYWONKA",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ADALIE",
+          "jockey": "Corey Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "3",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "GARDEN CITY ROTARY CLUB Class 4 Handicap",
+      "grade": "Class 4, Handicap, Minimum Weight 54.5kg, Weight Raised 0.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "ESJAY",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Pat Webster",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE LOUVRE",
+          "jockey": "Ms Jade Metcalfe",
+          "claimedWeight": 3,
+          "trainer": "Lyn Baskett",
+          "barrier": "6",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WIREWALKER",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Mark Currie",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GIDDAY GIDDAY",
+          "jockey": "Ms Kelsey Lenton",
+          "claimedWeight": 2,
+          "trainer": "Nick Keal",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIGON PRINCESS",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Lennie Wheeler",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "BENFICA LASS",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Billy Healey",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "JAMAICAN MECRAZY",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Michael G Nolan",
+          "barrier": "5",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "CARRINGTON ROAD BAKEAWAY Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1050,
+      "runners": [
+        {
+          "horse": "BOOMTIME NOW",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Paul Wallace",
+          "barrier": "11",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DARTH INVADER",
+          "jockey": "Robbie Downey",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PRINCE OF SYNERGY",
+          "jockey": "Corey Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Sharon Croxford",
+          "barrier": "6",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SMART MOUTH",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Michael Frappell",
+          "barrier": "8",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOUTHAMPTON NICCO",
+          "jockey": "Nathan Fazackerley",
+          "claimedWeight": 0,
+          "trainer": "Leo Roche",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOMBARD",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Tony Gollan",
+          "barrier": "4",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEMES GIRL",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Neil Hocking",
+          "barrier": "10",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MEET THE ROSE",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Glenn Richardson",
+          "barrier": "12",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MRS KAJUDO",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DR FARTHING",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Pat Webster",
+          "barrier": "9",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ITALIAN GIRL",
+          "jockey": "Ms Stacey Callow",
+          "claimedWeight": 2,
+          "trainer": "Michael G Nolan",
+          "barrier": "7",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "SHERRIN RENTALS Maiden Handicap",
+      "grade": "Maiden, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1890,
+      "runners": [
+        {
+          "horse": "WAYBILL",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 3,
+          "trainer": "Jeron De Boeck",
+          "barrier": "6",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "RISKY MISSION",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Kathy Stabe",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FUTURE HERO",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Laurie Richardson",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JADATAN (NZ)",
+          "jockey": "Kenji Yoshida",
+          "claimedWeight": 0,
+          "trainer": "Doug & Graeme Lane",
+          "barrier": "1",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "RED VEGAS",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Vivian Coombes",
+          "barrier": "5",
+          "weight": "54kg",
+          "sp": 0
+        },
+        {
+          "horse": "VISCOUNT SYDNEY",
+          "jockey": "Ms Olivia Webb",
+          "claimedWeight": 2,
+          "trainer": "Kathy Stabe",
+          "barrier": "3",
+          "weight": "54kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "venueInfo": {
+    "name": "Isisford",
+    "location": "",
+    "clubName": "Isisford",
+    "date": "2025-10-24",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CQLD%2CIsisford&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Race 1 - 11:00AM NUTRIEN AG SOLUTIONS BLACKALL QTIS Maiden Plate (1000 METRES)",
+      "grade": "Maiden, Set Weights, Two-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "SOME CAT",
+          "jockey": "Ms Jaimee-Lee Devine",
+          "claimedWeight": 2,
+          "trainer": "David Rewald",
+          "barrier": "6",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALL TOO VEGAS",
+          "jockey": "Jason Missen",
+          "claimedWeight": 0,
+          "trainer": "Toni Schofield",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LONIESHA",
+          "jockey": "Ms Tessa Townsend",
+          "claimedWeight": 0,
+          "trainer": "Peter G Townsend",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAORO",
+          "jockey": "Robert Faehr",
+          "claimedWeight": 0,
+          "trainer": "Richard Simpson",
+          "barrier": "5",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SALTCLAY",
+          "jockey": "John Rudd",
+          "claimedWeight": 0,
+          "trainer": "Maree Pitman",
+          "barrier": "1",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WORKSMEUP",
+          "jockey": "Ms Emma Bell",
+          "claimedWeight": 0,
+          "trainer": "Brendan Richardson",
+          "barrier": "4",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SIMPLY SMASHING",
+          "jockey": "Ms Natalie Morton",
+          "claimedWeight": 0,
+          "trainer": "Maree Pitman",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "Race 2 - 11:35AM OMA CONTRACTING DENNIS O'BRIEN MEMORIAL RATINGS BAND 0 - 50 Handicap (1200 METRES)",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BOSTON OF TUFFY",
+          "jockey": "Ms Natalie Morton",
+          "claimedWeight": 0,
+          "trainer": "Rodney Little",
+          "barrier": "9",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "LASCO",
+          "jockey": "Robert Faehr",
+          "claimedWeight": 0,
+          "trainer": "William Pugsley",
+          "barrier": "5",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIELD MASTER",
+          "jockey": "Ms Tessa Townsend",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "7",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEFINITELY FAMOUS",
+          "jockey": "Jason Missen",
+          "claimedWeight": 0,
+          "trainer": "Toni Schofield",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "KITSILANO BEACH",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "David Rewald",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "VALIANT JOAN",
+          "jockey": "John Rudd",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "ARABIAN SOO",
+          "jockey": "Ms Emma Bell",
+          "claimedWeight": 0,
+          "trainer": "Clinton Austin",
+          "barrier": "6",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "CONSORTING ONE",
+          "jockey": "Ms Jaimee-Lee Devine",
+          "claimedWeight": 2,
+          "trainer": "David Rewald",
+          "barrier": "2",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "MIDSUMMER NIGHT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Clinton Austin",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "NAPCO PORTLAND DOWNS Class 5 Plate",
+      "grade": "Class 5, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "COLD ONE",
+          "jockey": "Ms Jaimee-Lee Devine",
+          "claimedWeight": 2,
+          "trainer": "David Rewald",
+          "barrier": "7",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "NORTHUMBRIA",
+          "jockey": "Jason Missen",
+          "claimedWeight": 0,
+          "trainer": "Toni Schofield",
+          "barrier": "5",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RAPIDS",
+          "jockey": "Robert Faehr",
+          "claimedWeight": 0,
+          "trainer": "Richard Simpson",
+          "barrier": "3",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOWIE OF DUBAI",
+          "jockey": "Ms Emma Bell",
+          "claimedWeight": 0,
+          "trainer": "Peter G Townsend",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BOURBON LANE",
+          "jockey": "Ms Natalie Morton",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZEQUEL",
+          "jockey": "Ms Tessa Townsend",
+          "claimedWeight": 0,
+          "trainer": "Reece Zahl",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SALT LAKE BETTY",
+          "jockey": "John Rudd",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "1",
+          "weight": "57kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "BARCOO PASTORAL AGENCIES BENCHMARK 55 Handicap",
+      "grade": "BenchMark 55, Handicap, Minimum Weight 59.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "DIRTY MERCHANT",
+          "jockey": "Ms Natalie Morton",
+          "claimedWeight": 0,
+          "trainer": "Maree Pitman",
+          "barrier": "3",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "GUNBOAT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Rodney Little",
+          "barrier": "5",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "VICI",
+          "jockey": "Ms Jaimee-Lee Devine",
+          "claimedWeight": 2,
+          "trainer": "David Rewald",
+          "barrier": "4",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "FERGHANA",
+          "jockey": "Jason Missen",
+          "claimedWeight": 0,
+          "trainer": "Toni Schofield",
+          "barrier": "6",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WAYFARER’S WAY",
+          "jockey": "John Rudd",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "7",
+          "weight": "61.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MONEY MAN",
+          "jockey": "Ms Emma Bell",
+          "claimedWeight": 0,
+          "trainer": "Clinton Austin",
+          "barrier": "8",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "ALL VALOUR",
+          "jockey": "Ms Tessa Townsend",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "1",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "EDWARDS",
+          "jockey": "Robert Faehr",
+          "claimedWeight": 0,
+          "trainer": "William Pugsley",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "CPC ISIS DOWNS ROSS CUP OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "SCORCHED LAND",
+          "jockey": "Robert Faehr",
+          "claimedWeight": 0,
+          "trainer": "Bevan Johnson",
+          "barrier": "5",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "I AM GOOD AT THIS",
+          "jockey": "Ms Emma Bell",
+          "claimedWeight": 0,
+          "trainer": "Clinton Austin",
+          "barrier": "3",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "BANGERS AND MAYO",
+          "jockey": "Jason Missen",
+          "claimedWeight": 0,
+          "trainer": "David Rewald",
+          "barrier": "6",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DIVINE COURAGE",
+          "jockey": "Ms Jaimee-Lee Devine",
+          "claimedWeight": 2,
+          "trainer": "David Rewald",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HURACANEVO",
+          "jockey": "Ms Tessa Townsend",
+          "claimedWeight": 0,
+          "trainer": "Reece Zahl",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "BITTERSWEET PLUCK",
+          "jockey": "John Rudd",
+          "claimedWeight": 0,
+          "trainer": "Henry Forster",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    }
+  ]
+}

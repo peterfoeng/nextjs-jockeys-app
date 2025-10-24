@@ -1,0 +1,318 @@
+{
+  "venueInfo": {
+    "name": "Atherton",
+    "location": "",
+    "clubName": "Atherton",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CQLD%2CAtherton&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "ALWYN DAHL MEMORIAL QTIS Class 1 Handicap",
+      "grade": "Class 1, Handicap, Minimum Weight 55.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "TIPPED OFF",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Alwyn Bailey",
+          "barrier": "3",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SECRET BOOM",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SNUGGLES",
+          "jockey": "Ms Lauren Guernier",
+          "claimedWeight": 2,
+          "trainer": "Jenny Ball",
+          "barrier": "2",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "TRAVELLING SWEET",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "John Kilroy",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BLONDIE’S SECRET",
+          "jockey": "Ms Amanda Thomson",
+          "claimedWeight": 0,
+          "trainer": "Athol Ryan",
+          "barrier": "5",
+          "weight": "55.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "ATHERTON INTERNATIONAL CLUB BENCHMARK 60 Handicap",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "FLYING ARTIST",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "STRATEGIST",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Janel Ryan",
+          "barrier": "5",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "LUCKY ROLLA",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 0,
+          "trainer": "Alex Malliff",
+          "barrier": "6",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RACATOON",
+          "jockey": "Ms Lauren Guernier",
+          "claimedWeight": 2,
+          "trainer": "Athol Ryan",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "WRONGFULLY WRONG",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Nicole Homann",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "REEMYYA (NZ)",
+          "jockey": "Ms Amanda Thomson",
+          "claimedWeight": 0,
+          "trainer": "Janel Ryan",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "TONKIN STEEL Class B Handicap",
+      "grade": "Class B, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "YOUWANNAPEACHOFME",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Alwyn Bailey",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "PELSAERT (NZ)",
+          "jockey": "Ms Lauren Guernier",
+          "claimedWeight": 2,
+          "trainer": "Janel Ryan",
+          "barrier": "2",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISSY LYN",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 0,
+          "trainer": "Jenny Ball",
+          "barrier": "3",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIREUPZOUS",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BUBBLE TEA",
+          "jockey": "Wanderson D'Avila",
+          "claimedWeight": 0,
+          "trainer": "Allan Holmes",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "COWGIRL COUNTRY BENCHMARK 55 Handicap",
+      "grade": "BenchMark 55, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "GAMADALE NIP",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Alex Malliff",
+          "barrier": "1",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUPER TWENTY THREE",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Stephen Massingham",
+          "barrier": "5",
+          "weight": "63kg",
+          "sp": 0
+        },
+        {
+          "horse": "GUAPO",
+          "jockey": "Ms Lauren Guernier",
+          "claimedWeight": 2,
+          "trainer": "Alex Malliff",
+          "barrier": "6",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PAR FIVE",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Alwyn Bailey",
+          "barrier": "3",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "WHATTA WHITT",
+          "jockey": "Ms Amanda Thomson",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "2",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "BELLA BIANCA",
+          "jockey": "Wanderson D'Avila",
+          "claimedWeight": 0,
+          "trainer": "Matey Taylor",
+          "barrier": "8",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "GAZZA’S DIAMOND",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Ralph Baker",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIVE BULLS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Janel Ryan",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "BARRON VALLEY HOTEL & BUNDY RUM OPEN Handicap",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "THE DRILLER",
+          "jockey": "Ashley Butler",
+          "claimedWeight": 0,
+          "trainer": "Lachie Manzelmann",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOVE ON SUNDAY",
+          "jockey": "Chris Meehan",
+          "claimedWeight": 0,
+          "trainer": "Alex Malliff",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "CRYSTAL CHIEF",
+          "jockey": "Tyler Leslight",
+          "claimedWeight": 0,
+          "trainer": "Sharlee Hoffman",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DREAMWOMAN",
+          "jockey": "Nathan Thomas",
+          "claimedWeight": 0,
+          "trainer": "Nicole Homann",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    }
+  ]
+}

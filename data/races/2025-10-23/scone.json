@@ -1,0 +1,738 @@
+{
+  "venueInfo": {
+    "name": "Scone",
+    "location": "",
+    "clubName": "Scone",
+    "date": "2025-10-23",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CNSW%2CScone&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "WARBURTON ESTATE AGENTS COUNTRY BOOSTED MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "SIGSALY",
+          "jockey": "Ms Shae Wilkes",
+          "claimedWeight": 1.5,
+          "trainer": "Wayne Wilkes",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHAPPOLICIOUS",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Mack Griffith",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "DON’T SAY DO",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Rodney Northam",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "HARAS",
+          "jockey": "Christian Reith",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHENANDOAH RIVER",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIPSY MISS",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "John Ramsey",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "COLOURWORKS CLASS 1 & MAIDEN PLATE",
+      "grade": "Class 1, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 2200,
+      "runners": [
+        {
+          "horse": "FINAL IMPACT (NZ)",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Michael Mulholland",
+          "barrier": "6",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "GRAND TORINO (NZ)",
+          "jockey": "Donovan Dillon",
+          "claimedWeight": 0,
+          "trainer": "Patrick Cleave",
+          "barrier": "8",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "MY GREEK GOD",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "4",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "RECOVERY ROAD",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Cameron Crockett",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "PINOT NERO",
+          "jockey": "Grant Buckley",
+          "claimedWeight": null,
+          "trainer": "John Ramsey",
+          "barrier": "3",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LILY DARLING",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Peter H Bloomfield",
+          "barrier": "7",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAINTLY SANDS",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "ICON DREAM",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "5",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "ARROWFIELD COUNTRY BOOSTED CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "FAVOUR THE BOLD",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "5",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHICA DEL MAR",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Lou Mary",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPENZALOT",
+          "jockey": "Christian Reith",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "7",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SWEET PATRIOT",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Wayne Wilkes",
+          "barrier": "8",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ELLOFADUDE",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Ben Blay",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "NEROLA",
+          "jockey": "Billy Cray",
+          "claimedWeight": 0,
+          "trainer": "Nikki Pollock",
+          "barrier": "3",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "BIRD WHISTLE",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "WARBURTON ESTATE AGENTS SUPER MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "BIGBETTERBEST",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Noel Boland",
+          "barrier": "9",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "TUNCURRY",
+          "jockey": "Ms Shae Wilkes",
+          "claimedWeight": 1.5,
+          "trainer": "Wayne Wilkes",
+          "barrier": "11",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FIN’S FINALE",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "12",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HEAPY’S LEGACY",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HELLFIGHTER",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Nathan Doyle",
+          "barrier": "7",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "MORTAL HALO",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "RUSTEMO",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SPICY SURPRISE",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "1",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOBBYIST",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Nathan Doyle",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "WARBURTON ESTATE AGENTS MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 55.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "SAMMY THE BULL",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Tanya Randell",
+          "barrier": "7",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "ENGLISH CONQUEROR",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "3",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "JUST RESPONSE",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Nathan Doyle",
+          "barrier": "2",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "LOGAN DOWNS",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "6",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "REGAL PROBLEM",
+          "jockey": "Donovan Dillon",
+          "claimedWeight": 0,
+          "trainer": "Lyle Chandler",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "APADANA",
+          "jockey": "Christian Reith",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "9",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHISATO (NZ)",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": null,
+          "trainer": "Kris Lees",
+          "barrier": "15",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHAKESPEARE’S GIRL",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "13",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "NAFTALI",
+          "jockey": "Grant Buckley",
+          "claimedWeight": null,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BAWNAGLEN",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Rodney Northam",
+          "barrier": "18",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "MISS HEROIC",
+          "jockey": "Serg Lisnyy",
+          "claimedWeight": 0,
+          "trainer": "Michael Dykes",
+          "barrier": "8",
+          "weight": "55.5kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "DARLEY BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 900,
+      "runners": [
+        {
+          "horse": "NAVY STEEL",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "6",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "KANTISHNA",
+          "jockey": "Christian Reith",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "3",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "CHANDON STAR",
+          "jockey": "Serg Lisnyy",
+          "claimedWeight": 0,
+          "trainer": "Michelle Fleming",
+          "barrier": "11",
+          "weight": "60.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUPER FREDS",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Jay Hopkins",
+          "barrier": "5",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "TEARS FOR FEARS",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Cameron Crockett",
+          "barrier": "1",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DESIROUS",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Ross Lomax",
+          "barrier": "2",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SUNDAY BELL",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Noel Boland",
+          "barrier": "7",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "QUICK ONYX",
+          "jockey": "Clayton Gallagher",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "10",
+          "weight": "55.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "ATOKA",
+          "jockey": "Ms Anna Roper",
+          "claimedWeight": 0,
+          "trainer": "Justin Bowen",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "REDLINE",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Geoff O'Brien",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "COLOURWORKS BENCHMARK 82 HANDICAP",
+      "grade": "BenchMark 82, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "RHYTHM IS A DANCER",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "9",
+          "weight": "62.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "OAKFIELD WALLABY",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "4",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "BESTOWER (NZ)",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "3",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "STEEL BLAZE",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Brett Lazzarini",
+          "barrier": "7",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "THE HANGER CAT",
+          "jockey": "Christian Reith",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "JACENZA",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "2",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "TAINUI",
+          "jockey": "Peter Graham",
+          "claimedWeight": 0,
+          "trainer": "Geoff O'Brien",
+          "barrier": "5",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHURI (NZ)",
+          "jockey": "Ms Shannen Llewellyn",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "8",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "INVINCIBLE RED",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Craig Martin",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MON AMORE",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Paul Perry",
+          "barrier": "11",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "TIWI GIRL",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Paul Perry",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "COOLMORE BENCHMARK 82 HANDICAP",
+      "grade": "BenchMark 82, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "ANGARA",
+          "jockey": "Ms Leeshelle Small",
+          "claimedWeight": 2,
+          "trainer": "Paul Perry",
+          "barrier": "5",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZOE SHARK",
+          "jockey": "Ms Shae Wilkes",
+          "claimedWeight": 1.5,
+          "trainer": "Paul Perry",
+          "barrier": "3",
+          "weight": "61kg",
+          "sp": 0
+        },
+        {
+          "horse": "SAXON KING (GB)",
+          "jockey": "Andrew Gibbons",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "7",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "DANCES WITH HOOVES",
+          "jockey": "Aaron Bullock",
+          "claimedWeight": 0,
+          "trainer": "Cameron Crockett",
+          "barrier": "2",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "PUERTO BANUS",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 0,
+          "trainer": "Paul Perry",
+          "barrier": "10",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOLD LOVER",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Holly Williams",
+          "barrier": "8",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "SARATOGA POWER",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "12",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "COOL STORM",
+          "jockey": "Reece Jones",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MANAGE THE CYCLE",
+          "jockey": "Ms Siena Grima",
+          "claimedWeight": 0,
+          "trainer": "Jeremy Gask",
+          "barrier": "9",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    }
+  ]
+}

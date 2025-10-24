@@ -1,0 +1,9 @@
+{
+	"id": "nYpU5GYiYqYszQt",
+	"json": "{\"id\":\"nYpU5GYiYqYszQt\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CRoyal%20Randwick\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CRoyal%20Randwick\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CRoyal+Randwick\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:52.340Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CRoyal+Randwick",
+	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CRoyal%20Randwick"
+}

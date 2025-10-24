@@ -1,0 +1,356 @@
+{
+  "venueInfo": {
+    "name": "Laverton",
+    "location": "",
+    "clubName": "Laverton",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CWA%2CLaverton&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "PETER HILL COMMEMORATIVE HANDICAP",
+      "grade": "Class B, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "BLOWIN’ SMOKE",
+          "jockey": "Bailey Webster",
+          "claimedWeight": 3,
+          "trainer": "Malcolm Mackenzie",
+          "barrier": "4",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "CASINO ROYALE",
+          "jockey": "Ms Mollie Clark",
+          "claimedWeight": 0,
+          "trainer": "Kylie Craig",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "JIMMY SEVEN",
+          "jockey": "Ms Tiana Murray",
+          "claimedWeight": 4,
+          "trainer": "Phil Bland",
+          "barrier": "1",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "LENNOX LASS",
+          "jockey": "Ms Kristy Bennett",
+          "claimedWeight": 0,
+          "trainer": "Peter Bamford",
+          "barrier": "3",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    },
+    {
+      "title": "DESERT SANDS CONTRACTORS MAIDEN",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "INSPIRATIONAL MAC",
+          "jockey": "Ms Rosie Mahony",
+          "claimedWeight": 0,
+          "trainer": "John Reynolds",
+          "barrier": "3",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "BATTLE SHOTS",
+          "jockey": "Ms Elisha Whittington",
+          "claimedWeight": 0,
+          "trainer": "Catherine Godden",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SOLARIS GLOW",
+          "jockey": "Peter Farrell",
+          "claimedWeight": 0,
+          "trainer": "John Reynolds",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "ORANTORIO ROSE",
+          "jockey": "Bailey Webster",
+          "claimedWeight": 3,
+          "trainer": "John Reynolds",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    },
+    {
+      "title": "JOHN LEAHY COMMEMORATIVE SPRINT",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "SCOTTISH LAIRD",
+          "jockey": "Ms Mollie Clark",
+          "claimedWeight": 0,
+          "trainer": "Rickie Brown",
+          "barrier": "2",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "OUR KIWI PRINCESS (NZ)",
+          "jockey": "Ms Rosie Mahony",
+          "claimedWeight": 0,
+          "trainer": "Malcolm Mackenzie",
+          "barrier": "4",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "ROEY CLAM",
+          "jockey": "Ms Elisha Whittington",
+          "claimedWeight": 0,
+          "trainer": "Catherine Godden",
+          "barrier": "1",
+          "weight": "58kg",
+          "sp": 0
+        },
+        {
+          "horse": "FORTUNE’S LUCK",
+          "jockey": "Ms Ava Catarino",
+          "claimedWeight": 2,
+          "trainer": "Peter Bamford",
+          "barrier": "3",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    },
+    {
+      "title": "TABTOUCH HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "IMA WILD GIRL",
+          "jockey": "Ms Ava Catarino",
+          "claimedWeight": 2,
+          "trainer": "Peter Bamford",
+          "barrier": "3",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "LE TROY",
+          "jockey": "Ms Mollie Clark",
+          "claimedWeight": 0,
+          "trainer": "Kylie Craig",
+          "barrier": "1",
+          "weight": "59kg",
+          "sp": 0
+        },
+        {
+          "horse": "FAST JOHN",
+          "jockey": "Ms Kristy Bennett",
+          "claimedWeight": 0,
+          "trainer": "Peter Bamford",
+          "barrier": "2",
+          "weight": "58.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "URBAN WARRIOR",
+          "jockey": "Bailey Webster",
+          "claimedWeight": 3,
+          "trainer": "Malcolm Mackenzie",
+          "barrier": "4",
+          "weight": "57.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "FRIES WITH THAT",
+          "jockey": "Peter Farrell",
+          "claimedWeight": 0,
+          "trainer": "Catherine Godden",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "REGIS RESOURCES HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BERRY BERRY GOOD",
+          "jockey": "Ms Ava Catarino",
+          "claimedWeight": 2,
+          "trainer": "Peter Bamford",
+          "barrier": "6",
+          "weight": "60kg",
+          "sp": 0
+        },
+        {
+          "horse": "KELLY’S LI ZA LU",
+          "jockey": "Ms Amy Jo Hayes",
+          "claimedWeight": 2,
+          "trainer": "David Smith",
+          "barrier": "3",
+          "weight": "57kg",
+          "sp": 0
+        },
+        {
+          "horse": "CITY MISTRESS",
+          "jockey": "Ms Mollie Clark",
+          "claimedWeight": 0,
+          "trainer": "Kylie Craig",
+          "barrier": "5",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "DEAL OBTAINED",
+          "jockey": "Peter Farrell",
+          "claimedWeight": 0,
+          "trainer": "Catherine Godden",
+          "barrier": "1",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "HOOCHIE GUCCI",
+          "jockey": "Ms Rosie Mahony",
+          "claimedWeight": 0,
+          "trainer": "Malcolm Mackenzie",
+          "barrier": "4",
+          "weight": "56kg",
+          "sp": 0
+        },
+        {
+          "horse": "SHASFA",
+          "jockey": "Ms Elisha Whittington",
+          "claimedWeight": 0,
+          "trainer": "Catherine Godden",
+          "barrier": "2",
+          "weight": "56kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "BRIGHTSTAR RESOURCES LAVERTON CUP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "BOAB BOY",
+          "jockey": "Ms Amy Jo Hayes",
+          "claimedWeight": 2,
+          "trainer": "David Smith",
+          "barrier": "8",
+          "weight": "62kg",
+          "sp": 0
+        },
+        {
+          "horse": "GOT LUCKY",
+          "jockey": "Bailey Webster",
+          "claimedWeight": 3,
+          "trainer": "Patrick Bermingham",
+          "barrier": "5",
+          "weight": "59.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "DANCING JACK",
+          "jockey": "Ms Ava Catarino",
+          "claimedWeight": 2,
+          "trainer": "Pamela Oram",
+          "barrier": "3",
+          "weight": "56.5kg",
+          "sp": 0
+        },
+        {
+          "horse": "HIS EMINENCE",
+          "jockey": "Ms Kristy Bennett",
+          "claimedWeight": 0,
+          "trainer": "Peter Bamford",
+          "barrier": "1",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ILLMATIC",
+          "jockey": "Ms Tiana Murray",
+          "claimedWeight": 4,
+          "trainer": "Phil Bland",
+          "barrier": "4",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "LONG KNIFE BROTHER",
+          "jockey": "Ms Elisha Whittington",
+          "claimedWeight": 0,
+          "trainer": "Ken Nightingale",
+          "barrier": "7",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "MONEY FOR OLD ROPE",
+          "jockey": "Peter Farrell",
+          "claimedWeight": 0,
+          "trainer": "John Reynolds",
+          "barrier": "6",
+          "weight": "55kg",
+          "sp": 0
+        },
+        {
+          "horse": "ZERA BLUE",
+          "jockey": "Ms Mollie Clark",
+          "claimedWeight": 0,
+          "trainer": "Kylie Craig",
+          "barrier": "2",
+          "weight": "55kg",
+          "sp": 0
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    }
+  ]
+}

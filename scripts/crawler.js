@@ -1,11 +1,9 @@
 import { CheerioCrawler, log } from "crawlee";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { toSafeFileName } from "./utility/filename.js";
 
 const DATA_DIR = "data/jockeys";
-
-const toFileName = (name) =>
-  path.join(DATA_DIR, `${name.toLowerCase().replace(/\s+/g, "-")}.json`);
 
 export async function writeJockeyDataToFile(jockeyData) {
   const {
@@ -38,7 +36,7 @@ export async function writeJockeyDataToFile(jockeyData) {
     return;
   }
 
-  const filePath = toFileName(jockeyName);
+  const filePath = toSafeFileName(jockeyName);
   await fs.mkdir(DATA_DIR, { recursive: true });
 
   // Try to read existing data if file exists
