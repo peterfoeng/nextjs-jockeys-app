@@ -1,0 +1,66 @@
+{
+  "name": "Jackson Murphy",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-07-15",
+      "raceTitle": "INGLISDIGITAL.COM SUPER MAIDEN SHOWCASE PLATE",
+      "raceVenue": "Grafton",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1700,
+      "horse": "PHARALINE",
+      "trainerName": "Ruby Chatterton",
+      "spValue": 31,
+      "spString": "$31",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 3,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-06-21",
+      "raceTitle": "RIVERVIEW HOTEL BENCHMARK 58 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1550,
+      "horse": "UNDER THE PALAIS",
+      "trainerName": "Ruby Chatterton",
+      "spValue": 3.4,
+      "spString": "$3.40F",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 8",
+      "originalFieldSize": 15,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 126,
+    "recentForm": "1-8",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

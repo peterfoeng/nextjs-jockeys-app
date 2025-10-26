@@ -1,0 +1,44 @@
+{
+  "name": "Ms Amy Graham",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-08-17",
+      "raceTitle": "ROOFING CRAFTSMEN MAIDEN PLATE",
+      "raceVenue": "Casino",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "I’MA CHARMER",
+      "trainerName": "Maryann Brosnan",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 55.5,
+      "claimedWeight": 1.5,
+      "finishingPosition": 7,
+      "barrier": 5,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 8",
+      "originalFieldSize": 20,
+      "scratchedHorses": 13
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

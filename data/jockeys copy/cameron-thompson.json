@@ -1,0 +1,66 @@
+{
+  "name": "Cameron Thompson",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "Pro-Rodeo Alexandra Sat 10 January 2026 0-28 Hcp",
+      "raceVenue": "Alexandra",
+      "raceState": "VIC",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1540,
+      "horse": "LUNA ONE",
+      "trainerName": "Barry Crofts",
+      "spValue": 9,
+      "spString": "$9",
+      "weight": 61,
+      "claimedWeight": 3,
+      "finishingPosition": 3,
+      "barrier": 2,
+      "fieldSize": 4,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 4,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "Alexandra Country & Western Meeting 27 December Maiden Plate",
+      "raceVenue": "Alexandra",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1540,
+      "horse": "LORD CHAPEL",
+      "trainerName": "Ron Hockley",
+      "spValue": 16,
+      "spString": "$16",
+      "weight": 64,
+      "claimedWeight": 3,
+      "finishingPosition": 6,
+      "barrier": 2,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "3-6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

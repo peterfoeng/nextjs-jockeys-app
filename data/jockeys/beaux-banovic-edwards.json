@@ -1,0 +1,53 @@
+{
+  "name": "Beaux Banovic-Edwards",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-15",
+      "raceTitle": "SMS MINING SERVICES HANDICAP",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 7,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "TOKYO FIRE (NZ)",
+      "trainerName": "Julie Clements",
+      "spValue": 81,
+      "spString": "$81",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 10,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-15",
+      "raceTitle": "SMS MINING SERVICES HANDICAP",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 7,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "TOKYO FIRE (NZ)",
+      "trainerName": "Julie Clements",
+      "spValue": 81,
+      "spString": "$81",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 10,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 0
+    }
+  ]
+}

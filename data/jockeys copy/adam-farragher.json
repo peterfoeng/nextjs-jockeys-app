@@ -1,0 +1,66 @@
+{
+  "name": "Adam Farragher",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "UTJ INTERIORS BENCHMARK 64 HANDICAP",
+      "raceVenue": "Kembla Grange",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "BenchMark 64, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "RAINBOW GLOW",
+      "trainerName": "Ciaron Maher",
+      "spValue": 9.5,
+      "spString": "$9.50",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 1,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    },
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "THE BUILDERS CLUB SUPER MAIDEN HANDICAP",
+      "raceVenue": "Kembla Grange",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55.5kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "PIERRO LAD",
+      "trainerName": "Ciaron Maher",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 1,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "8-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

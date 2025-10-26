@@ -1,0 +1,44 @@
+{
+  "name": "Jacques Luxe",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-18",
+      "raceTitle": "Gippsland Motor Group 0-56 Handicap",
+      "raceVenue": "Moe",
+      "raceState": "VIC",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "YOUR TEMPTATION",
+      "trainerName": "Ricardo Meunier",
+      "spValue": 91,
+      "spString": "$91",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 6,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

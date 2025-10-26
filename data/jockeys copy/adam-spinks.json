@@ -1,0 +1,66 @@
+{
+  "name": "Adam Spinks",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-18",
+      "raceTitle": "XXXX GOLD MAIDEN PLATE",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1410,
+      "horse": "HANNAH’S ASTAR",
+      "trainerName": "David Kropp",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 1,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 11,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-18",
+      "raceTitle": "M & T TYRES CG&E BENCHMARK 58 HANDICAP",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Colts, Geldings and Entires, Apprentices can claim.",
+      "distance": 1310,
+      "horse": "HARCASION",
+      "trainerName": "David Kropp",
+      "spValue": 201,
+      "spString": "$201",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 11,
+      "barrier": 6,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8-X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

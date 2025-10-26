@@ -1,0 +1,685 @@
+{
+  "venueInfo": {
+    "name": "Albury",
+    "location": "",
+    "clubName": "Albury",
+    "date": "2025-10-25",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct25%2CNSW%2CAlbury&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "NAUGHTIN DEVELOPMENT GROUP COUNTRY BOOSTED MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1500,
+      "runners": [
+        {
+          "horse": "MR MAGNIFICENCE",
+          "jockey": "Jack Martin",
+          "claimedWeight": null,
+          "trainer": "Todd Smart",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAYMAN ISLAND (NZ)",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Shane Bloomfield",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXTRA HANDS",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Michael Travers",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LULL US AWAY",
+          "jockey": "Ms Ella Bent",
+          "claimedWeight": 3,
+          "trainer": "Ron Stubbs",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRATEGIC DEFENSE",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Donna Scott",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WINNING WINNIE",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 1.5,
+          "trainer": "Michael Travers",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "DUX ALBURY MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 900,
+      "runners": [
+        {
+          "horse": "BARGINO",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Nadine Cameron",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HAZ STYLES",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Shane Bloomfield",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SMART AND MIGHTY",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Ben Brisbourne",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STEP QUICK",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "6",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRON",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Charmaine Barnes",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GENICERA",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Christopher Davis",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PENROSE",
+          "jockey": "Glenn Cahill",
+          "claimedWeight": 2,
+          "trainer": "Allan McRae",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LORD LIMERICK",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Donna Scott",
+          "barrier": "9",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "METRO GIRL",
+          "jockey": "Brendan Ward",
+          "claimedWeight": 0,
+          "trainer": "Peter Maher",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "LEVEL ONE WINE BAR & CELLARS MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1175,
+      "runners": [
+        {
+          "horse": "FORTE CHEVAL",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Donna Scott",
+          "barrier": "6",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIGH COUNTRY STAR",
+          "jockey": "Ms Brittany Button",
+          "claimedWeight": 2,
+          "trainer": "Gerald Egan",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUK",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHEVROLET STAR",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Geoff Connell",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DUNNENKATE BRO",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Craig Weeding",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COOL AS YOU",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Adrian Corboy",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HARLEM JIVE",
+          "jockey": "Ms Emma Ly",
+          "claimedWeight": 2,
+          "trainer": "John & Chris Ledger",
+          "barrier": "12",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PENDERE",
+          "jockey": "Brendan Ward",
+          "claimedWeight": 0,
+          "trainer": "Peter Maher",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RAIN QUEEN",
+          "jockey": "Ms Ella Bent",
+          "claimedWeight": 3,
+          "trainer": "Craig Widdison",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COLOMBIANO",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Rob Wellington",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THESANDMANCAN",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Craig Widdison",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "JOHNSONS MME BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 2000,
+      "runners": [
+        {
+          "horse": "DIVINE CONCLUSION",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Darrell Burnet",
+          "barrier": "7",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIFI BLUE",
+          "jockey": "Ms Alice Kennedy",
+          "claimedWeight": 3,
+          "trainer": "Ben Brisbourne",
+          "barrier": "1",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NAJLE (NZ)",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Emma-Lee & David Browne",
+          "barrier": "9",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEARL TROUT",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Darrell Burnet",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STAYING STRONG",
+          "jockey": "Brendan Ward",
+          "claimedWeight": 0,
+          "trainer": "Nathan Newton",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PARABELLUM (NZ)",
+          "jockey": "Ms Brittany Button",
+          "claimedWeight": 2,
+          "trainer": "Andrew Dale",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CRUSHEEN LASS (NZ)",
+          "jockey": "Cory Parish",
+          "claimedWeight": null,
+          "trainer": "Andrew Dale",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VOGELLE",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Tim Donnelly",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "MLM ELECTRICAL CONTRACTORS BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "STAR BLAZER",
+          "jockey": "Ms Emma Ly",
+          "claimedWeight": 2,
+          "trainer": "Dan McCarthy",
+          "barrier": "4",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIJUANA",
+          "jockey": "Ms Brittany Button",
+          "claimedWeight": 2,
+          "trainer": "Peter Smith",
+          "barrier": "3",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GREY LAD",
+          "jockey": "Ms Ella Bent",
+          "claimedWeight": 3,
+          "trainer": "Craig Widdison",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MORNING DARLING",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Sylvia Thompson",
+          "barrier": "2",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MACY MOON",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Gerald Egan",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ASEVENTY SEVEN (NZ)",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Emma-Lee & David Browne",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ALTROVE",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Rob Wellington",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROULLOTTIE",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Shane Bloomfield",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "HUTCHINSON CIVIL COUNTRY BOOSTED CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "PERFECTLY GOOD",
+          "jockey": "Brendan Ward",
+          "claimedWeight": 0,
+          "trainer": "Brett Mallyon",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHERIDAN STREET",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": null,
+          "trainer": "Doug Gorrel",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THREEFOLD",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Danielle Seib",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCREEN SPIRIT",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Danny Beasley",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEEP JOY",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Michael Travers",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SANTOLINI",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 1.5,
+          "trainer": "Michael Travers",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOLLYTHEDIVA",
+          "jockey": "Ms Carly Frater",
+          "claimedWeight": 0,
+          "trainer": "Doug Gorrel",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RUSSIAN RANSOM",
+          "jockey": "Ms Brittany Button",
+          "claimedWeight": 2,
+          "trainer": "Russell Steiner",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MOGAO",
+          "jockey": "Ms Emma Ly",
+          "claimedWeight": 2,
+          "trainer": "Kevin Hanley",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "ARC SPONSORS BENCHMARK 74 HANDICAP",
+      "grade": "BenchMark 74, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1175,
+      "runners": [
+        {
+          "horse": "TAP ’N’ RUN",
+          "jockey": "Ms Ella Bent",
+          "claimedWeight": 3,
+          "trainer": "Ron Stubbs",
+          "barrier": "5",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOOMPINE",
+          "jockey": "Cory Parish",
+          "claimedWeight": 0,
+          "trainer": "Sylvia Thompson",
+          "barrier": "6",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GETTY",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "2",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WITH STRENGTH",
+          "jockey": "Blaike McDougall",
+          "claimedWeight": 0,
+          "trainer": "Dan McCarthy",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STEVE’S WAY",
+          "jockey": "Brendan Ward",
+          "claimedWeight": 0,
+          "trainer": "Craig Widdison",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIVAZOU",
+          "jockey": "Ms Carly Frater",
+          "claimedWeight": 0,
+          "trainer": "Debbie Delphin",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZETHUS",
+          "jockey": "Josh Richards",
+          "claimedWeight": 0,
+          "trainer": "Peter Smith",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOREMAN’S GULLY",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Rob Wellington",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YdhABbhqmGG6ruy",
+	"json": "{\"id\":\"YdhABbhqmGG6ruy\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep28,WA,Toodyay\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep28,WA,Toodyay\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep28%2CWA%2CToodyay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:57.496Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep28%2CWA%2CToodyay",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep28,WA,Toodyay"
+}

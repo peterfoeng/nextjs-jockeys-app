@@ -1,0 +1,44 @@
+{
+  "name": "Remi Tremsal",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "Bendigo Bank St Arnaud Maiden Plate",
+      "raceVenue": "St Arnaud",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "JOHNNY ME BOY",
+      "trainerName": "Dean Binaisse",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 4,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 1,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

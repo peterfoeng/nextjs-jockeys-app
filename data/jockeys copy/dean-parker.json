@@ -1,0 +1,66 @@
+{
+  "name": "Dean Parker",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-22",
+      "raceTitle": "Knight Packaging Supplies Maiden Highweight Plate",
+      "raceVenue": "Mornington",
+      "raceState": "VIC",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2450,
+      "horse": "CHARLIE MESSY HAIR",
+      "trainerName": "Jessica Pateman",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 69.5,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 3,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 6,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-22",
+      "raceTitle": "Helen Glaister BM74 Highweight Handicap",
+      "raceVenue": "Mornington",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 74, Handicap, Minimum Weight 65kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 3070,
+      "horse": "DON STEFANO (NZ)",
+      "trainerName": "Emma-Lee & David Browne",
+      "spValue": 5,
+      "spString": "$5",
+      "weight": 65,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 10,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 14,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "2-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

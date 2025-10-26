@@ -1,0 +1,44 @@
+{
+  "name": "Rowan Cox",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-09",
+      "raceTitle": "Hertz Cranbourne Corinthian",
+      "raceVenue": "Southside Cranbourne",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Handicap, Minimum Weight 63kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "RUSHFORD",
+      "trainerName": "Noni Shelton",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 76,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 6,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ms Madeleine Wishart",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-08-29",
+      "raceTitle": "BIZZY BRAHMANS ALAN ABRAHAMS REMEMBRANCE MAIDEN HANDICAP",
+      "raceVenue": "Grafton",
+      "raceState": "NSW",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "distance": 1205,
+      "horse": "DASHING MARS",
+      "trainerName": "Adam Campton",
+      "spValue": null,
+      "spString": "$2.50EF",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 5,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

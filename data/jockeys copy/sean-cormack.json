@@ -1,0 +1,44 @@
+{
+  "name": "Sean Cormack",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-08-27",
+      "raceTitle": "TOOHEYS NEW TYGALGAH CUP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2020,
+      "horse": "PAPAL MISS",
+      "trainerName": "Vishan Venkaya",
+      "spValue": 16,
+      "spString": "$16",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 9,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

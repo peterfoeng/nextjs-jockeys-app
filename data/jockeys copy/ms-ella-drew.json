@@ -1,0 +1,66 @@
+{
+  "name": "Ms Ella Drew",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-02-26",
+      "raceTitle": "BRUCE WILSON F&M MAIDEN PLATE",
+      "raceVenue": "Armidale",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Fillies and Mares, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "CURCUMA",
+      "trainerName": "Scott Singleton",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 55.5,
+      "claimedWeight": 2,
+      "finishingPosition": 6,
+      "barrier": 2,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    },
+    {
+      "raceDate": "2025-02-26",
+      "raceTitle": "ROD WATT CLASS 1 HANDICAP",
+      "raceVenue": "Armidale",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1300,
+      "horse": "WORKING CAPITAL",
+      "trainerName": "Peter Graham",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 53,
+      "claimedWeight": 2,
+      "finishingPosition": 6,
+      "barrier": 13,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6-6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Cory Parish",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-09-28",
+      "raceTitle": "UNION CLUB HOTEL CLASS 3 HANDICAP",
+      "raceVenue": "Wagga",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "Class 3, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "WARPAINTED",
+      "trainerName": "Donna Scott",
+      "spValue": 7.5,
+      "spString": "$7.50",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 7,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 10,
+      "scratchedHorses": 1
+    },
+    {
+      "raceDate": "2025-09-28",
+      "raceTitle": "RAINE & HORNE BENCHMARK 66 HANDICAP",
+      "raceVenue": "Wagga",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 66, Handicap, Minimum Weight 57kg, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "KAHAWATY",
+      "trainerName": "Michael Travers",
+      "spValue": 19,
+      "spString": "$19",
+      "weight": 61.5,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 4,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 11,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 27,
+    "recentForm": "1-8",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

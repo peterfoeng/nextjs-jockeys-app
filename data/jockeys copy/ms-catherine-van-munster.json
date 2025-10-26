@@ -1,0 +1,66 @@
+{
+  "name": "Ms Catherine Van Munster",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-23",
+      "raceTitle": "Whitemark Post Office / Cuthill Family “Don’t Slip through the Net” Class 1 Handicap",
+      "raceVenue": "Launceston",
+      "raceState": "TAS",
+      "raceNumber": 4,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1220,
+      "horse": "ALISENT",
+      "trainerName": "Andrew Moore",
+      "spValue": 91,
+      "spString": "$91",
+      "weight": 51.5,
+      "claimedWeight": 3,
+      "finishingPosition": 8,
+      "barrier": 4,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-16",
+      "raceTitle": "Ladbrokes Mega Multi BM60 Handicap",
+      "raceVenue": "Launceston",
+      "raceState": "TAS",
+      "raceNumber": 8,
+      "raceGrade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "GINGERSON",
+      "trainerName": "John Luttrell",
+      "spValue": 8.5,
+      "spString": "$8.50",
+      "weight": 55.5,
+      "claimedWeight": 3,
+      "finishingPosition": 3,
+      "barrier": 4,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "3-8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

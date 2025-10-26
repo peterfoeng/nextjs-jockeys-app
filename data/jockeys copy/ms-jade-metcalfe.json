@@ -1,0 +1,66 @@
+{
+  "name": "Ms Jade Metcalfe",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-07-21",
+      "raceTitle": "NUFARM AUSTRALIA CLASS 1 HANDICAP",
+      "raceVenue": "Moree",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 950,
+      "horse": "BEAN ALL OVA",
+      "trainerName": "Kevin Dixon",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 53,
+      "claimedWeight": 2,
+      "finishingPosition": 7,
+      "barrier": 9,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 13,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-07-21",
+      "raceTitle": "SYNGENTA AUSTRALIA BENCHMARK 58 HANDICAP",
+      "raceVenue": "Moree",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "MOOTESSA",
+      "trainerName": "Wayne Nugent",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 57.5,
+      "claimedWeight": 2,
+      "finishingPosition": 1,
+      "barrier": 1,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 12,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 96,
+    "recentForm": "7-1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

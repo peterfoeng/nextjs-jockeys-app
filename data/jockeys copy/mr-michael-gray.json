@@ -1,0 +1,66 @@
+{
+  "name": "Mr Michael Gray",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-04",
+      "raceTitle": "\"OSSORY\" AWB CLASS B HANDICAP",
+      "raceVenue": "Mungery",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Class B, Handicap, Minimum Weight 62kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "PARNASSUS",
+      "trainerName": "Allan Prisk",
+      "spValue": 11,
+      "spString": "$11",
+      "weight": 63,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 6,
+      "fieldSize": 6,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 6,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-04",
+      "raceTitle": "\"DON BARLING MEMORIAL\" NARROMINE PHARMACY/WARDI BROKING/ASG EQUIPMENT GROUP TROPHY HANDICAP",
+      "raceVenue": "Mungery",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1000,
+      "horse": "SUN MASTER",
+      "trainerName": "Allan Prisk",
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 62,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 3,
+      "fieldSize": 6,
+      "trackType": "Dirt",
+      "trackCondition": "Good",
+      "originalFieldSize": 6,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5-6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

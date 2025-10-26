@@ -1,0 +1,44 @@
+{
+  "name": "Stephane Pasquier",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Sportsbet Caulfield Cup",
+      "raceVenue": "Caulfield",
+      "raceState": "VIC",
+      "raceNumber": 9,
+      "raceGrade": "Handicap, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2400,
+      "horse": "PRESAGE NOCTURNE (IRE)",
+      "trainerName": "Alessandro Botti",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 8,
+      "fieldSize": 18,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

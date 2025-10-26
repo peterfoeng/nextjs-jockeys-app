@@ -1,0 +1,66 @@
+{
+  "name": "Ms Bree Temple",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-23",
+      "raceTitle": "Hygain Winners Choice BM62 Handicap",
+      "raceVenue": "Sportsbet-Ballarat",
+      "raceState": "VIC",
+      "raceNumber": 6,
+      "raceGrade": "BenchMark 62, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Fillies and Mares, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "HOT CHILLI MAMA (NZ)",
+      "trainerName": "John Sadler",
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 53.5,
+      "claimedWeight": 4,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "bet365 Top Finishes 4YO+ Maiden Plate",
+      "raceVenue": "bet365 Yarra Valley",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Four-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1009,
+      "horse": "IMMORTAL MATILDA",
+      "trainerName": "John Sadler",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 53.5,
+      "claimedWeight": 4,
+      "finishingPosition": 6,
+      "barrier": 10,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5-6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{
-	"id": "nSA9sMj9p46GSfN",
-	"json": "{\"id\":\"nSA9sMj9p46GSfN\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CVIC%2CSportsbet-Ballarat\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CVIC%2CSportsbet-Ballarat\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CVIC%2CSportsbet-Ballarat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:51.556Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CVIC%2CSportsbet-Ballarat",
-	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CVIC%2CSportsbet-Ballarat"
-}

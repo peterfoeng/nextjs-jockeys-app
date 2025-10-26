@@ -1,0 +1,66 @@
+{
+  "name": "Masa Hashizume",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-23",
+      "raceTitle": "Ladbrokes Moonee Valley Gold Cup",
+      "raceVenue": "The Valley",
+      "raceState": "VIC",
+      "raceNumber": 7,
+      "raceGrade": "N/A",
+      "distance": 2500,
+      "horse": "TRAV (NZ)",
+      "trainerName": "Raymond Connors",
+      "spValue": 51,
+      "spString": "$51",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 1,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 14,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-03",
+      "raceTitle": "The Lexus Bart Cummings",
+      "raceVenue": "Flemington",
+      "raceState": "VIC",
+      "raceNumber": 7,
+      "raceGrade": "Handicap, Minimum Weight 54kg, Weight Raised 1kg, Apprentices cannot claim.",
+      "distance": 2520,
+      "horse": "TRAV (NZ)",
+      "trainerName": "Raymond Connors",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 11,
+      "barrier": 5,
+      "fieldSize": 16,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 19,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Dylan Parrott",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-09-27",
+      "raceTitle": "SHOWCASE PICNIC CHAMPIONSHIP",
+      "raceVenue": "Dubbo",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "PAHANG",
+      "trainerName": "Connie Greig",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 65,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 6,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 6
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ms Emily Finnegan",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-14",
+      "raceTitle": "Ladies Day 12th November Maiden Plate",
+      "raceVenue": "Balaklava",
+      "raceState": "SA",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "ON THE MAP",
+      "trainerName": "Dan Clarken & Oopy MacGillivray",
+      "spValue": 3.2,
+      "spString": "$3.20",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 8,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 11,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

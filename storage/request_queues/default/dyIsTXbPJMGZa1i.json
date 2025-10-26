@@ -1,0 +1,9 @@
+{
+	"id": "dyIsTXbPJMGZa1i",
+	"json": "{\"id\":\"dyIsTXbPJMGZa1i\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct04,WA,Landor,Picnic\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct04,WA,Landor,Picnic\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct04%2CWA%2CLandor%2CPicnic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:56.545Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct04%2CWA%2CLandor%2CPicnic",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct04,WA,Landor,Picnic"
+}

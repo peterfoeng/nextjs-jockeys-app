@@ -1,0 +1,44 @@
+{
+  "name": "Ms Millie Thompson",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-06-29",
+      "raceTitle": "STACKS LAW FIRM BENCHMARK 58 HANDICAP",
+      "raceVenue": "Taree",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1250,
+      "horse": "BROWNED OFF",
+      "trainerName": "Jake Hull",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 55,
+      "claimedWeight": 2,
+      "finishingPosition": 4,
+      "barrier": 5,
+      "fieldSize": 14,
+      "trackType": "Turf",
+      "trackCondition": "Soft 7",
+      "originalFieldSize": 18,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jackson Morris",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-03",
+      "raceTitle": "THE YULGILBAR PASTORAL COMPANY SAM HORDERN MEMORIAL TABULAM CUP.",
+      "raceVenue": "Tabulam",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "OUTBURST",
+      "trainerName": "Michael Lakey",
+      "spValue": 3.4,
+      "spString": "$3.40",
+      "weight": 59.5,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 6,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

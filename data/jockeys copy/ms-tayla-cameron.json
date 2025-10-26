@@ -1,0 +1,44 @@
+{
+  "name": "Ms Tayla Cameron",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "Discover Northern Grampians Maiden Plate",
+      "raceVenue": "St Arnaud",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1550,
+      "horse": "CALUSA’S FURY",
+      "trainerName": "Andrew Bobbin",
+      "spValue": 31,
+      "spString": "$31",
+      "weight": 55.5,
+      "claimedWeight": 4,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

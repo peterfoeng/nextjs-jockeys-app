@@ -1,0 +1,66 @@
+{
+  "name": "Ms Maddison Morris",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "The Barlow Alter Bolt Open Trophy Race Handicap",
+      "raceVenue": "Yea",
+      "raceState": "VIC",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "DONATION",
+      "trainerName": "Barry Goodwin",
+      "spValue": 3.1,
+      "spString": "$3.10F",
+      "weight": 71,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-09",
+      "raceTitle": "Hertz Cranbourne Corinthian",
+      "raceVenue": "Southside Cranbourne",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Handicap, Minimum Weight 63kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "ANNOY’EN ONE",
+      "trainerName": "Brooke Verwey-Mitchell",
+      "spValue": null,
+      "spString": "$5EF",
+      "weight": 69,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 7,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

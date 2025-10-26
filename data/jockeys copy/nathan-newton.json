@@ -1,0 +1,44 @@
+{
+  "name": "Nathan Newton",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-02",
+      "raceTitle": "TAB We're On Maiden Plate Highweight",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2000,
+      "horse": "ROYAL BEAU",
+      "trainerName": "Jack Laing",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 69.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 5,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 9,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

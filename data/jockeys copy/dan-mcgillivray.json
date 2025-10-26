@@ -1,0 +1,66 @@
+{
+  "name": "Dan McGillivray",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-06-25",
+      "raceTitle": "THE LISMORE APP MAIDEN HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "THE QUEEN OF TIME",
+      "trainerName": "Greg Cornish",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 56.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 8,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Soft 6",
+      "originalFieldSize": 14,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-06-25",
+      "raceTitle": "D&D ELECTRICAL BENCHMARK 58 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "LUVTOKNOW",
+      "trainerName": "Greg Cornish",
+      "spValue": 6.5,
+      "spString": "$6.50",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 7,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 6",
+      "originalFieldSize": 20,
+      "scratchedHorses": 10
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

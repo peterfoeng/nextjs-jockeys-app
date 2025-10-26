@@ -1,0 +1,66 @@
+{
+  "name": "Ms Jacquie Joiner",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "The Barlow Alter Bolt Open Trophy Race Handicap",
+      "raceVenue": "Yea",
+      "raceState": "VIC",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1200,
+      "horse": "SHAHIN",
+      "trainerName": "David Noonan",
+      "spValue": 4.8,
+      "spString": "$4.80",
+      "weight": 64.5,
+      "claimedWeight": 3,
+      "finishingPosition": 2,
+      "barrier": 4,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-10-17",
+      "raceTitle": "Kristy’s Bday Bash Open Trophy Race Handicap",
+      "raceVenue": "Yea",
+      "raceState": "VIC",
+      "raceNumber": 6,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "DA DEPUTY",
+      "trainerName": "David Noonan",
+      "spValue": 4.6,
+      "spString": "$4.60",
+      "weight": 71.5,
+      "claimedWeight": 3,
+      "finishingPosition": 3,
+      "barrier": 2,
+      "fieldSize": 5,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 5,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

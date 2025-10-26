@@ -1,0 +1,44 @@
+{
+  "name": "Ms Emily Lang",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-08-27",
+      "raceTitle": "BOUTIQUE RACING & BREEDING B F CHARMAN SPRINT",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "LIGHT OF BOOM",
+      "trainerName": "Adam Campton",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 4,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 6",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

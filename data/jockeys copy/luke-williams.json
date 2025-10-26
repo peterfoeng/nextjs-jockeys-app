@@ -1,0 +1,66 @@
+{
+  "name": "Luke Williams",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-15",
+      "raceTitle": "BH Electrical BM62 Handicap",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 6,
+      "raceGrade": "BenchMark 62, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "THUNDERANLIGHTNING",
+      "trainerName": "Ken Elford",
+      "spValue": 41,
+      "spString": "$41",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 7,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 13,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-02",
+      "raceTitle": "Northpoint Liquor/Bottle-O  BM56 Handicap",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 56, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1300,
+      "horse": "THUNDERANLIGHTNING",
+      "trainerName": "Ken Elford",
+      "spValue": 11,
+      "spString": "$11",
+      "weight": 61.5,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 9,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 17,
+      "scratchedHorses": 7
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "3-8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

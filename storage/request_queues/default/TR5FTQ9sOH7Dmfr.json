@@ -1,9 +1,0 @@
-{
-	"id": "TR5FTQ9sOH7Dmfr",
-	"json": "{\"id\":\"TR5FTQ9sOH7Dmfr\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:54.806Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran",
-	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct26%2CNSW%2CCoonabarabran"
-}

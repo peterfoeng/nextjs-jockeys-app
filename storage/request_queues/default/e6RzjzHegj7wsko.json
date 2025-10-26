@@ -1,9 +1,0 @@
-{
-	"id": "e6RzjzHegj7wsko",
-	"json": "{\"id\":\"e6RzjzHegj7wsko\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:48:00.095Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y",
-	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct27%2CNSW%2CQueanbeyan&recentForm=Y"
-}

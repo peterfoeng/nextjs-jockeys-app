@@ -1,0 +1,66 @@
+{
+  "name": "Jamie Gibbons",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-10",
+      "raceTitle": "JINDERA TYRE SERVICE MAIDEN PLATE",
+      "raceVenue": "Albury",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 900,
+      "horse": "HIALTO",
+      "trainerName": "Peter Smith",
+      "spValue": 91,
+      "spString": "$91",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 12,
+      "barrier": 6,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 20,
+      "scratchedHorses": 7
+    },
+    {
+      "raceDate": "2025-10-10",
+      "raceTitle": "GPE ELECTRICAL & COMMUNICATIONS BENCHMARK 58 HANDICAP",
+      "raceVenue": "Albury",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 900,
+      "horse": "POSH I’M NOT",
+      "trainerName": "Peter Smith",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 63,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 7,
+      "fieldSize": 14,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 20,
+      "scratchedHorses": 6
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

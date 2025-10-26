@@ -1,0 +1,44 @@
+{
+  "name": "Ms Sophie Clayfield",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-09",
+      "raceTitle": "Hertz Cranbourne Corinthian",
+      "raceVenue": "Southside Cranbourne",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Handicap, Minimum Weight 63kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "HAWKESTONE",
+      "trainerName": "Neville Aulich",
+      "spValue": null,
+      "spString": "$5EF",
+      "weight": 69.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 2,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

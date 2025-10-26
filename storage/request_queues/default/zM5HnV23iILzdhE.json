@@ -1,9 +1,0 @@
-{
-	"id": "zM5HnV23iILzdhE",
-	"json": "{\"id\":\"zM5HnV23iILzdhE\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet%20Gawler\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet%20Gawler\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet+Gawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:51.557Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet+Gawler",
-	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CSA%2CSportsbet%20Gawler"
-}

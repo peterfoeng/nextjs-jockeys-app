@@ -1,0 +1,44 @@
+{
+  "name": "Ms Paige Fergusson-Smith",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-18",
+      "raceTitle": "LISMORE PAINT CENTRE F&M BENCHMARK 58 HANDICAP",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Fillies and Mares, Apprentices can claim.",
+      "distance": 1310,
+      "horse": "WITHOUT A DOUBT (NZ)",
+      "trainerName": "Ethan Ensby",
+      "spValue": 20,
+      "spString": "$20",
+      "weight": 59,
+      "claimedWeight": 3,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 6
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

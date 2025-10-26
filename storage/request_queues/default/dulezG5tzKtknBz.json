@@ -1,0 +1,9 @@
+{
+	"id": "dulezG5tzKtknBz",
+	"json": "{\"id\":\"dulezG5tzKtknBz\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct15,WA,Ascot\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct15,WA,Ascot\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct15%2CWA%2CAscot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:55.509Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct15%2CWA%2CAscot",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct15,WA,Ascot"
+}

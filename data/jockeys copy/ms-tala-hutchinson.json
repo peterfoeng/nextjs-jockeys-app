@@ -1,0 +1,44 @@
+{
+  "name": "Ms Tala Hutchinson",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-23",
+      "raceTitle": "Matrix Solar Solutions Class One Handicap",
+      "raceVenue": "Sportsbet Gawler",
+      "raceState": "SA",
+      "raceNumber": 5,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "distance": 1500,
+      "horse": "BELLE FROM HELL",
+      "trainerName": "Garret Lynch",
+      "spValue": 6,
+      "spString": "$6",
+      "weight": 55.5,
+      "claimedWeight": 2,
+      "finishingPosition": 5,
+      "barrier": 7,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 6",
+      "originalFieldSize": 12,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

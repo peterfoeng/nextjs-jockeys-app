@@ -14,12 +14,26 @@ const toFilePath = (raceDate, raceVenue) =>
     `${raceVenue.toLowerCase().replace(/\s+/g, '-')}.json`
   );
 
-const getDateIso = (dateStr) => {
-  // Example: "Thursday, 16 October 2025"
-  const parts = dateStr.split(', ')[1].split(' ');
-  const [day, month, year] = parts;
-  return new Date(`${month} ${day}, ${year}`).toISOString().split('T')[0];
-};
+  const getDateIso = (dateStr) => {
+    // Example: "Thursday, 16 October 2025"
+    const parts = dateStr.split(', ')[1].split(' ');
+    const [day, month, year] = parts;
+
+    // Create date object in local AU timezone
+    const date = new Date(`${month} ${day}, ${year} 00:00:00 GMT+1000`); // +1000 for Sydney/AEST
+
+    // Format using AU locale to ensure no UTC shift
+    const formatted = new Intl.DateTimeFormat('en-AU', {
+      timeZone: 'Australia/Sydney',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).format(date);
+
+    // Convert DD/MM/YYYY -> YYYY-MM-DD
+    const [d, m, y] = formatted.split('/');
+    return `${y}-${m}-${d}`;
+  };
 
 /* ---------- CRAWLER ---------- */
 
@@ -29,13 +43,14 @@ const crawler = new CheerioCrawler({
     log.info(`📄 ${request.url} → ${title}`);
 
     // Enqueue modified links (Form → Acceptances)
-    const modifiedLinks = $('a[href*="/Form.aspx"]')
+    const modifiedLinks = $('a[href*="/Form.aspx"], a[href*="/Results.aspx"]')
       .map((_, el) => {
         const href = $(el).attr('href');
         if (!href) return null;
         try {
           const url = new URL(href, request.loadedUrl);
           url.pathname = url.pathname.replace('/Form.aspx', '/Acceptances.aspx');
+          url.pathname = url.pathname.replace('/Results.aspx', '/Acceptances.aspx');
           return url.toString();
         } catch {
           return null;
@@ -50,11 +65,21 @@ const crawler = new CheerioCrawler({
 
     // Only process Acceptance pages
     if (!request.url.includes('Acceptances.aspx')) return;
+    let raceState = request.url.includes('VIC') ? 'VIC' : 'NSW';
+    if (request.url.includes('QLD')) raceState = 'QLD';
+    if (request.url.includes('SA')) raceState = 'SA';
+    if (request.url.includes('WA')) raceState = 'WA';
+    if (request.url.includes('TAS')) raceState = 'TAS';
+    if (request.url.includes('NT')) raceState = 'NT';
+    if (request.url.includes('ACT')) raceState = 'ACT';
+
 
     log.info('⚙️ Processing race results...');
     const raceDateRaw = $('.race-venue-date').text().trim();
     const raceDate = getDateIso(raceDateRaw);
     const venueHeader = $('.race-venue h2').text().trim();
+
+    console.log(`Processing ${raceDate} - ${venueHeader} (${raceState})`);
 
     // Extract general info
     const [raceVenueRaw] = venueHeader.split(': ');
@@ -93,6 +118,7 @@ const crawler = new CheerioCrawler({
         title: normalizeTitle(cleanRaceTitle),
         grade: raceGradeMatch ? raceGradeMatch[1].trim() : 'N/A',
         trackType,
+        state: raceState,
         trackCondition,
         distance: Number(
           raceTitle.split('(')[1]?.split('METRES)')[0]?.trim() || ''

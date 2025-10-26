@@ -1,0 +1,44 @@
+{
+  "name": "Rob Thorburn",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-07-16",
+      "raceTitle": "WESTLAWN FINANCE GRAFTON CUP",
+      "raceVenue": "Grafton",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "N/A",
+      "distance": 2350,
+      "horse": "ZOOLOGY (GB)",
+      "trainerName": "Peter & Will Hulbert",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": null,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 1,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

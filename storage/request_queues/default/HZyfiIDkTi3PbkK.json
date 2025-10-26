@@ -1,0 +1,9 @@
+{
+	"id": "HZyfiIDkTi3PbkK",
+	"json": "{\"id\":\"HZyfiIDkTi3PbkK\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep27,WA,Belmont\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep27,WA,Belmont\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep27%2CWA%2CBelmont\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:57.196Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep27%2CWA%2CBelmont",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep27,WA,Belmont"
+}

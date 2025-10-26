@@ -1,0 +1,66 @@
+{
+  "name": "Gary Walsh",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-22",
+      "raceTitle": "Helen Glaister BM74 Highweight Handicap",
+      "raceVenue": "Mornington",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 74, Handicap, Minimum Weight 65kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 3070,
+      "horse": "HAND OF DOOM",
+      "trainerName": "Patrick Keane",
+      "spValue": 201,
+      "spString": "$201",
+      "weight": 65,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 8,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 14,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-02",
+      "raceTitle": "Lady Bay Resort BM56 Highweight Handicap",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 56, Handicap, Minimum Weight 65kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2350,
+      "horse": "UNPLANNED REVOLT",
+      "trainerName": "Shane Jackson",
+      "spValue": 9,
+      "spString": "$9",
+      "weight": 72.5,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 2,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 11,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8-9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

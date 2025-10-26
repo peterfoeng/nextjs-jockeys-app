@@ -1,0 +1,132 @@
+{
+  "dateGenerated": "2025-10-25T12:50:37.902Z",
+  "jockeyCount": 525,
+  "averages": {
+    "winRate": 0.1,
+    "placeRate": 0.32
+  },
+  "topInFormJockeys": [
+    {
+      "name": "Aaron Sweeney",
+      "winRate": 0.56,
+      "placeRate": 1,
+      "recentForm": "1-2-3-1-1"
+    },
+    {
+      "name": "Arron Lynch",
+      "winRate": 0.75,
+      "placeRate": 1,
+      "recentForm": "1-1-3-1"
+    },
+    {
+      "name": "Cillin Leonard",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "3-3"
+    },
+    {
+      "name": "Luca Remondet",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-2"
+    },
+    {
+      "name": "Ms Debbie Waymouth",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    },
+    {
+      "name": "Ms Emily Finnegan",
+      "winRate": 1,
+      "placeRate": 1,
+      "recentForm": "1"
+    },
+    {
+      "name": "Ms Jacquie Joiner",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-3"
+    },
+    {
+      "name": "Ms Kayla Barker",
+      "winRate": 1,
+      "placeRate": 1,
+      "recentForm": "1"
+    },
+    {
+      "name": "Ms Kim Moore",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-2-3-3"
+    },
+    {
+      "name": "Ms Sophie Logan",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    }
+  ],
+  "dueForWinJockeys": [
+    {
+      "name": "Mitch Goring",
+      "daysSinceLastWin": 149,
+      "placeRate": 0.5,
+      "recentForm": "1-9"
+    },
+    {
+      "name": "Karl Zechner",
+      "daysSinceLastWin": 136,
+      "placeRate": 0.25,
+      "recentForm": "1-6-5-4"
+    },
+    {
+      "name": "Mr Arthur Pollock",
+      "daysSinceLastWin": 127,
+      "placeRate": 0.67,
+      "recentForm": "4-4-3-4-3"
+    },
+    {
+      "name": "Jackson Murphy",
+      "daysSinceLastWin": 126,
+      "placeRate": 0.5,
+      "recentForm": "1-8"
+    },
+    {
+      "name": "Jai Williams",
+      "daysSinceLastWin": 122,
+      "placeRate": 0.29,
+      "recentForm": "7-7-5-3-4"
+    },
+    {
+      "name": "Ms Kayla Johnston",
+      "daysSinceLastWin": 122,
+      "placeRate": 0.6,
+      "recentForm": "6-1-1-2-X"
+    },
+    {
+      "name": "Darryl McLellan",
+      "daysSinceLastWin": 119,
+      "placeRate": 0.5,
+      "recentForm": "4-3-2-1-X"
+    },
+    {
+      "name": "Mr Ricky Blewitt",
+      "daysSinceLastWin": 113,
+      "placeRate": 0.4,
+      "recentForm": "7-4-5-8-2"
+    },
+    {
+      "name": "Ms Leanne Boyd",
+      "daysSinceLastWin": 113,
+      "placeRate": 0.26,
+      "recentForm": "3-6-8-7-2"
+    },
+    {
+      "name": "Bailey Wheeler",
+      "daysSinceLastWin": 112,
+      "placeRate": 0.43,
+      "recentForm": "1-3-4-2-9"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "jockeyName": "Pierre Boudvillain",
+    "daysSinceLastWin": 100,
+    "placeRate": 0.5169491525423728,
+    "rides": [
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "NAUGHTIN DEVELOPMENT GROUP COUNTRY BOOSTED MAIDEN HANDICAP",
+        "horse": "CAYMAN ISLAND (NZ)",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "DUX ALBURY MAIDEN PLATE",
+        "horse": "BARGINO",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "LEVEL ONE WINE BAR & CELLARS MAIDEN HANDICAP",
+        "horse": "COLOMBIANO",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "JOHNSONS MME BENCHMARK 58 HANDICAP",
+        "horse": "DIVINE CONCLUSION",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "MLM ELECTRICAL CONTRACTORS BENCHMARK 66 HANDICAP",
+        "horse": "ALTROVE",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "HUTCHINSON CIVIL COUNTRY BOOSTED CLASS 1 HANDICAP",
+        "horse": "SHERIDAN STREET",
+        "odds": "0"
+      },
+      {
+        "date": "2025-10-25",
+        "venue": "Albury",
+        "raceTitle": "ARC SPONSORS BENCHMARK 74 HANDICAP",
+        "horse": "FOREMAN’S GULLY",
+        "odds": "0"
+      }
+    ],
+    "bestOdds": null
+  }
+]

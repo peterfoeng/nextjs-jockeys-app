@@ -1,0 +1,44 @@
+{
+  "name": "Ms Kayla Barker",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-09-25",
+      "raceTitle": "HLB MANN JUDD UNTAMED SHOWCASE SPRINT",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1210,
+      "horse": "JACK BE LUCKY",
+      "trainerName": "Corey & Kylie Geran",
+      "spValue": 5.5,
+      "spString": "$5.50",
+      "weight": 54.5,
+      "claimedWeight": 3,
+      "finishingPosition": 1,
+      "barrier": 9,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 30,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

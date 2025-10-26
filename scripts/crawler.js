@@ -11,6 +11,7 @@ export async function writeJockeyDataToFile(jockeyData) {
     isApprentice,
     dateISO: raceDate,
     raceVenue,
+    state,
     horse,
     trainerName,
     spValue,
@@ -36,7 +37,7 @@ export async function writeJockeyDataToFile(jockeyData) {
     return;
   }
 
-  const filePath = toSafeFileName(jockeyName);
+  const filePath = `./data/jockeys/${toSafeFileName(jockeyName)}.json`;
   await fs.mkdir(DATA_DIR, { recursive: true });
 
   // Try to read existing data if file exists
@@ -52,6 +53,7 @@ export async function writeJockeyDataToFile(jockeyData) {
     raceDate,
     raceTitle,
     raceVenue,
+    raceState: state,
     raceNumber,
     raceGrade: raceGradeMatch ? raceGradeMatch[1].trim() : "N/A",
     distance: raceDistance,
@@ -70,13 +72,16 @@ export async function writeJockeyDataToFile(jockeyData) {
     scratchedHorses,
   };
 
+  console.log(raceDate, jockeyName, horse, raceTitle);
+
   // ✅ Find if a matching entry already exists (same horse, date, and race)
-  const existingIndex = (existingData.stats || []).findIndex(
-    (s) =>
-      s.horse === horse &&
-      s.raceDate === raceDate &&
-      s.raceNumber === raceNumber,
-  );
+  // const existingIndex = (existingData.stats || []).findIndex(
+  //   (s) =>
+  //     s.horse === horse &&
+  //     s.raceDate === raceDate &&
+  //     s.raceNumber === raceNumber,
+  // );
+  const existingIndex = -1;
 
   if (existingIndex !== -1) {
     // Update existing record
@@ -105,13 +110,49 @@ export async function writeJockeyDataToFile(jockeyData) {
   await fs.writeFile(filePath, JSON.stringify(updatedData, null, 2));
 }
 
+// const getDateIso = (dateStr) => {
+//   // Date is Thursday, 16 October 2025
+//   const parts = dateStr.split(", ")[1].split(" ");
+//   const day = parts[0];
+//   const month = parts[1];
+//   const year = parts[2];
+//   return new Date(`${month} ${day}, ${year}`).toISOString().split("T")[0];
+// };
+
 const getDateIso = (dateStr) => {
-  // Date is Thursday, 16 October 2025
-  const parts = dateStr.split(", ")[1].split(" ");
-  const day = parts[0];
-  const month = parts[1];
-  const year = parts[2];
-  return new Date(`${month} ${day}, ${year}`).toISOString().split("T")[0];
+  if (!dateStr) return null;
+
+  // Fallback-safe parse
+  let day, month, year;
+  try {
+    const clean = dateStr.replace(/\s+/g, " ").trim();
+    const parts = clean.includes(",") ? clean.split(", ")[1].split(" ") : clean.split(" ");
+    [day, month, year] = parts;
+  } catch {
+    return null;
+  }
+
+  // Parse like before (works with Crawlee)
+  const date = new Date(`${month} ${day}, ${year}`);
+
+  if (isNaN(date.getTime())) return null;
+
+  // Adjust to Australia/Sydney calendar day (no UTC drift)
+  const partsAU = new Intl.DateTimeFormat("en-AU", {
+    timeZone: "Australia/Sydney",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(date);
+
+  const obj = {};
+  for (const p of partsAU) {
+    if (p.type === "year" || p.type === "month" || p.type === "day") {
+      obj[p.type] = p.value;
+    }
+  }
+
+  return `${obj.year}-${obj.month}-${obj.day}`; // e.g. 2025-10-16
 };
 
 /* ---------------- CRAWLER ---------------- */
@@ -133,6 +174,23 @@ const crawler = new CheerioCrawler({
     const raceVenue = raceVenueStr.split(": ")[0].trim().split(", ")[0].trim();
     const raceTitles = $("table.race-title");
     const raceStrips = $("table.race-strip-fields");
+    const state = request.url.includes("VIC")
+      ? "VIC"
+      : request.url.includes("NSW")
+      ? "NSW"
+      : request.url.includes("QLD")
+      ? "QLD"
+      : request.url.includes("SA")
+      ? "SA"
+      : request.url.includes("WA")
+      ? "WA"
+      : request.url.includes("TAS")
+      ? "TAS"
+      : request.url.includes("NT")
+      ? "NT"
+      : request.url.includes("ACT")
+      ? "ACT"
+      : "";
 
     console.log(`race venue: ${raceVenue}`);
 
@@ -181,6 +239,7 @@ const crawler = new CheerioCrawler({
         const jockeyData = {
           dateISO: getDateIso(raceDate),
           raceVenue,
+          state,
           raceTitle: cleanRaceTitle,
           raceGradeMatch,
           horse: $(el).find("td.horse").text().trim(),
@@ -236,7 +295,15 @@ const crawler = new CheerioCrawler({
   },
 });
 
-await crawler.run(["https://racingaustralia.horse/"]);
+await crawler.run([
+  "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=VIC",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=NSW",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=SA",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=TAS",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=ACT",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=NSW",
+]);
 
 log.info("🏁 Crawl complete.");
 await fs.writeFile("tracks.json", JSON.stringify(aggregateData, null, 2));

@@ -1,9 +1,0 @@
-{
-	"id": "kFIGn5Hw9BoJeOh",
-	"json": "{\"id\":\"kFIGn5Hw9BoJeOh\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine%20Coast\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine%20Coast\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine+Coast\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-24T00:47:51.564Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine+Coast",
-	"url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2025Oct24%2CQLD%2CSunshine%20Coast"
-}

@@ -1,0 +1,66 @@
+{
+  "name": "Ron Stewart",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-06-21",
+      "raceTitle": "TOOHEYS GRAFTON CUP PREVIEW BM 82 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 82, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 2020,
+      "horse": "FIRST INNINGS (NZ)",
+      "trainerName": "Chris Waller",
+      "spValue": 6,
+      "spString": "$6",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 4,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 9",
+      "originalFieldSize": 10,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-06-21",
+      "raceTitle": "MURWILLUMBAH SERVICES CLUB BENCHMARK 58 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 8,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "SINGULAR",
+      "trainerName": "Lee Freedman",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 9,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 8",
+      "originalFieldSize": 18,
+      "scratchedHorses": 7
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3-2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

@@ -33,6 +33,8 @@ function computeDerivedStats(jockey) {
     .filter((r) => r.finishingPosition === 1)
     .sort((a, b) => new Date(b.raceDate) - new Date(a.raceDate))[0];
 
+  console.log(lastWin)
+
   const daysSinceLastWin = lastWin
     ? Math.floor((today - toDate(lastWin.raceDate)) / (1000 * 60 * 60 * 24))
     : null;

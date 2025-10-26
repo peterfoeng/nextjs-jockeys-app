@@ -1,0 +1,53 @@
+{
+  "name": "Craig Staples",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-09",
+      "raceTitle": "DARRY’S PLUMBING & GAS HANDICAP",
+      "raceVenue": "York",
+      "raceState": "WA",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "EL ALAMEIN",
+      "trainerName": "Paul Jordan",
+      "spValue": 3.4,
+      "spString": "$3.40",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 5,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 15,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-09",
+      "raceTitle": "DARRY’S PLUMBING & GAS HANDICAP",
+      "raceVenue": "York",
+      "raceState": "WA",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "EL ALAMEIN",
+      "trainerName": "Paul Jordan",
+      "spValue": 3.4,
+      "spString": "$3.40",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 5,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 15,
+      "scratchedHorses": 4
+    }
+  ]
+}

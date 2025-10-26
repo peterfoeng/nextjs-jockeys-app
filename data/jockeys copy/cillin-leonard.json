@@ -1,0 +1,66 @@
+{
+  "name": "Cillin Leonard",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-22",
+      "raceTitle": "Helen Glaister BM74 Highweight Handicap",
+      "raceVenue": "Mornington",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 74, Handicap, Minimum Weight 65kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 3070,
+      "horse": "MR LINCOLN",
+      "trainerName": "Chris Ryan",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 69,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 2,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 14,
+      "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2025-10-02",
+      "raceTitle": "Lady Bay Resort BM56 Highweight Handicap",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 56, Handicap, Minimum Weight 65kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2350,
+      "horse": "TOSEN GLORY",
+      "trainerName": "Kelvin Bourke",
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 67,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 6,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 11,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

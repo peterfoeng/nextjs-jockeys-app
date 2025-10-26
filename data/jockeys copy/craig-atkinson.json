@@ -1,0 +1,66 @@
+{
+  "name": "Craig Atkinson",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-10-05",
+      "raceTitle": "Hygain Winners Choice 0 - 62 Handicap",
+      "raceVenue": "Sportsbet-Ballarat",
+      "raceState": "VIC",
+      "raceNumber": 6,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "GARFIELD",
+      "trainerName": "Helen White",
+      "spValue": 51,
+      "spString": "$51",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 1,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 13,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-10-24",
+      "raceTitle": "Bendigo Bank St Arnaud Maiden Plate",
+      "raceVenue": "St Arnaud",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "WESTERN LEGEND",
+      "trainerName": "Brittany Goodwin",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 6,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7-7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

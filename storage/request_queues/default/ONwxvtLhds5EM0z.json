@@ -1,0 +1,9 @@
+{
+	"id": "ONwxvtLhds5EM0z",
+	"json": "{\"id\":\"ONwxvtLhds5EM0z\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct23,WA,Geraldton\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct23,WA,Geraldton\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct23%2CWA%2CGeraldton\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:54.707Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct23%2CWA%2CGeraldton",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct23,WA,Geraldton"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Ms Jade Hampson",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-06-11",
+      "raceTitle": "FAR NORTH COAST CONVEYANCING BENCHMARK 58 HANDICAP",
+      "raceVenue": "Ballina",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1900,
+      "horse": "BIG HITTER",
+      "trainerName": "David & Marcus Scanes",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 11,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 14,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-06-11",
+      "raceTitle": "METROLL LISMORE BENCHMARK 58 HANDICAP",
+      "raceVenue": "Ballina",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1400,
+      "horse": "KING OF SWING",
+      "trainerName": "David & Marcus Scanes",
+      "spValue": 51,
+      "spString": "$51",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 2,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Heavy 10",
+      "originalFieldSize": 13,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-5",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}
