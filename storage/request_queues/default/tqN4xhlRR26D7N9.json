@@ -1,0 +1,9 @@
+{
+	"id": "tqN4xhlRR26D7N9",
+	"json": "{\"id\":\"tqN4xhlRR26D7N9\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec20,WA,Narrogin\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec20,WA,Narrogin\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec20%2CWA%2CNarrogin\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:40.683Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec20%2CWA%2CNarrogin",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec20,WA,Narrogin"
+}

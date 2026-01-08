@@ -1,0 +1,53 @@
+{
+  "name": "Billy Egan",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-13",
+      "raceTitle": "TABTOUCH - STARSTRUCK CLASSIC",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 8,
+      "raceGrade": "N/A",
+      "distance": 1600,
+      "horse": "BONJOY",
+      "trainerName": "Jason Miller",
+      "spValue": 9.5,
+      "spString": "$9.50",
+      "weight": 58.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 10,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-12-13",
+      "raceTitle": "THE GOLD RUSH",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 9,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "WESTERN EMPIRE (NZ)",
+      "trainerName": "Grant & Alana Williams",
+      "spValue": 11,
+      "spString": "$11",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 12,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 1
+    }
+  ]
+}

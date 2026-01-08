@@ -1,9 +1,0 @@
-{
-	"id": "4RKD76827l1aQ7Z",
-	"json": "{\"id\":\"4RKD76827l1aQ7Z\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct13,WA,Belmont,Trial\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct13,WA,Belmont,Trial\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct13%2CWA%2CBelmont%2CTrial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:55.922Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct13%2CWA%2CBelmont%2CTrial",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct13,WA,Belmont,Trial"
-}

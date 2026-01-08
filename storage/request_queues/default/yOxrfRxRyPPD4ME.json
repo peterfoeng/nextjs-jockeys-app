@@ -1,0 +1,9 @@
+{
+	"id": "yOxrfRxRyPPD4ME",
+	"json": "{\"id\":\"yOxrfRxRyPPD4ME\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan04,WA,Albany\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan04,WA,Albany\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan04%2CWA%2CAlbany\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:39.860Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan04%2CWA%2CAlbany",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan04,WA,Albany"
+}

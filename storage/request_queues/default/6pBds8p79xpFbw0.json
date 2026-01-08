@@ -1,0 +1,9 @@
+{
+	"id": "6pBds8p79xpFbw0",
+	"json": "{\"id\":\"6pBds8p79xpFbw0\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec22,WA,Belmont,Trial\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec22,WA,Belmont,Trial\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec22%2CWA%2CBelmont%2CTrial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:40.627Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec22%2CWA%2CBelmont%2CTrial",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec22,WA,Belmont,Trial"
+}

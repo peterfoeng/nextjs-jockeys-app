@@ -1,9 +1,0 @@
-{
-	"id": "arOn1hdp4eFYNKG",
-	"json": "{\"id\":\"arOn1hdp4eFYNKG\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct25,WA,Collie\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct25,WA,Collie\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct25%2CWA%2CCollie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:55.051Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct25%2CWA%2CCollie",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct25,WA,Collie"
-}

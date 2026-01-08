@@ -1,9 +1,0 @@
-{
-	"id": "1D91NnefNzEyMEi",
-	"json": "{\"id\":\"1D91NnefNzEyMEi\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep29,WA,Bunbury\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep29,WA,Bunbury\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep29%2CWA%2CBunbury\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:57.508Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep29%2CWA%2CBunbury",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Sep29,WA,Bunbury"
-}

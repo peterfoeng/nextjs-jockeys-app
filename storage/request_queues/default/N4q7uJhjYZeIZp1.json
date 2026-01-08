@@ -1,0 +1,9 @@
+{
+	"id": "N4q7uJhjYZeIZp1",
+	"json": "{\"id\":\"N4q7uJhjYZeIZp1\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec14,WA,Geraldton,Trial\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec14,WA,Geraldton,Trial\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec14%2CWA%2CGeraldton%2CTrial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:41.218Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec14%2CWA%2CGeraldton%2CTrial",
+	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec14,WA,Geraldton,Trial"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Luke Nolen",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-01",
+      "raceTitle": "TABTOUCH - PERTH CUP",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 10,
+      "raceGrade": "Handicap, Minimum Weight 53kg, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "distance": 2400,
+      "horse": "BUCKETS RIDGE",
+      "trainerName": "Grant & Alana Williams",
+      "spValue": 13,
+      "spString": "$13",
+      "weight": 56.5,
+      "claimedWeight": null,
+      "finishingPosition": 11,
+      "barrier": 15,
+      "fieldSize": 15,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 0
+    }
+  ]
+}

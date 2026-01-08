@@ -1,0 +1,31 @@
+{
+  "name": "Joshua Parr",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-13",
+      "raceTitle": "THE GOLD RUSH",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 9,
+      "raceGrade": "N/A",
+      "distance": 1400,
+      "horse": "OVERPASS",
+      "trainerName": "Bjorn Baker",
+      "spValue": 4.8,
+      "spString": "$4.80",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 8,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 1
+    }
+  ]
+}

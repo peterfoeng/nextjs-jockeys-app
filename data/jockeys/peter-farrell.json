@@ -620,6 +620,28 @@
       "trackCondition": "Good",
       "originalFieldSize": 7,
       "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-12-11",
+      "raceTitle": "ELECTRICAL CONSULTANCY WA MAIDEN",
+      "raceVenue": "Pinjarra Park",
+      "raceState": "WA",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1500,
+      "horse": "WHO TOLD KAYLA",
+      "trainerName": "Kayla Farrell",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
     }
   ]
 }

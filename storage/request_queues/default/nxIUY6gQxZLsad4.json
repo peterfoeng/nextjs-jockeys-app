@@ -1,9 +1,0 @@
-{
-	"id": "nxIUY6gQxZLsad4",
-	"json": "{\"id\":\"nxIUY6gQxZLsad4\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct06,WA,Lark%20Hill,Trial\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct06,WA,Lark%20Hill,Trial\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct06%2CWA%2CLark+Hill%2CTrial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-10-25T13:36:56.512Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct06%2CWA%2CLark+Hill%2CTrial",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Oct06,WA,Lark%20Hill,Trial"
-}
