@@ -1,6 +1,15 @@
 import fs from "fs";
 import path from "path";
-import { Container, Title, Grid, GridCol, Card, Text, Badge, Group } from "@mantine/core";
+import {
+  Container,
+  Title,
+  Grid,
+  GridCol,
+  Card,
+  Text,
+  Badge,
+  Group,
+} from "@mantine/core";
 
 type Ride = {
   date: string;

@@ -1,0 +1,9 @@
+{
+  "id": "9mchgOiuxDPt2Kh",
+  "json": "{\"id\":\"9mchgOiuxDPt2Kh\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:48.623Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y"
+}

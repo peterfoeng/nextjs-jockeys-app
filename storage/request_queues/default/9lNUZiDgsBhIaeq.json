@@ -1,0 +1,9 @@
+{
+  "id": "9lNUZiDgsBhIaeq",
+  "json": "{\"id\":\"9lNUZiDgsBhIaeq\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CFlemington\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CFlemington\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CFlemington\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.900Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CFlemington",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CFlemington"
+}

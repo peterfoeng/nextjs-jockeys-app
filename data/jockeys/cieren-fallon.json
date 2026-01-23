@@ -1,0 +1,44 @@
+{
+  "name": "Cieren Fallon",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-18",
+      "raceTitle": "Race 5 - 12:00AM Jump Out - Soft 5 (600 METRES)",
+      "raceVenue": "Ladbrokes Geelong",
+      "raceState": "VIC",
+      "raceNumber": 5,
+      "raceGrade": "N/A",
+      "distance": 600,
+      "horse": "MUKHTALIF (IRE)",
+      "trainerName": "",
+      "spValue": null,
+      "spString": "",
+      "weight": 0,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 4,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Undefined",
+      "originalFieldSize": 7,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

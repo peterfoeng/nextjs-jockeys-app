@@ -1,0 +1,463 @@
+{
+  "venueInfo": {
+    "name": "Ladbrokes Pioneer Park",
+    "location": "",
+    "clubName": "Ladbrokes Pioneer Park",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNT%2CLadbrokes%20Pioneer%20Park&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Race 1 - 11:09AM PFD Food Services Handicap (1200 METRES)",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BLACK ZOUS",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "3",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THROW AT DA STUMPS",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "1",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BATTLE JACK",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VITESSE BREEZE",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COLLISON",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Leah Walling-Denton",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QUALIS",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Sheila Arnold",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Race 2 - 11:44AM Scope Building Handicap (1200 METRES)",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "DELUSIONALDICTATOR",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Kevin Lamprecht",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEACE BABY",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "APOLAKI",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NO CASH HERE",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OUR SQUAMOSA",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIPSY TORONADO",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOLCE D’AMOUR",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPISTAN",
+          "jockey": "Ms Jess Philpot",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWEETWILLHEBE",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": null,
+          "trainer": "Paul Gardner",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Alice Springs Toyota Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "FLYING START",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCK OF KRYPTONITE",
+          "jockey": "Ms Jess Philpot",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "2",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAGIC DEFENSE",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRINCESS PANCAKES",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TELLEZ (NZ)",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Ladbrokes Follow The Experts Handicap",
+      "grade": "BenchMark 54, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "BODMIN BOY",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "6",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STARTON",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "3",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REAL DIVINE",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BONNY IMPACT",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAXON BEACH",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Barry Cooke",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUITS",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Rimfire Energy Handicap",
+      "grade": "BenchMark 54, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "HELLIVIT",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "6",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QUANAPIRRI BAY",
+          "jockey": "Paul Denton",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "5",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LEAN ON ME",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOVERNOR",
+          "jockey": "Raymond Vigar",
+          "claimedWeight": 0,
+          "trainer": "Paul Gardner",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOSS SHELBY",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Will Savage",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIGHSTRUNG (NZ)",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "Alice Springs Cup Carnival April 11th-May 4th 2026 Handicap",
+      "grade": "Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "DELAGO LAD",
+          "jockey": "Ms Danielle Hirini",
+          "claimedWeight": 0,
+          "trainer": "Greg Connor",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GREAT GUST",
+          "jockey": "Lek Maloney",
+          "claimedWeight": null,
+          "trainer": "Kerry Petrick",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BAHAMA BAY",
+          "jockey": "Ianish Luximon",
+          "claimedWeight": 0,
+          "trainer": "Kerry Petrick",
+          "barrier": "4",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXPERT WITNESS",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Lisa Whittle",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOWN THE WICKET",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Kevin Lamprecht",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SQUARE CUT",
+          "jockey": "Ms Jess Philpot",
+          "claimedWeight": 0,
+          "trainer": "Ray Viney",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    }
+  ]
+}

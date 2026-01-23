@@ -1,0 +1,44 @@
+{
+  "name": "Boris Thornton",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-09",
+      "raceTitle": "BOXING DAY TICKETS ON SALE NOW MDN PLT",
+      "raceVenue": "Ballina",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "NITE CHILL",
+      "trainerName": "Marcus Wilson",
+      "spValue": 13,
+      "spString": "$13",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 5,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 9,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

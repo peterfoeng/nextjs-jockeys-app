@@ -1,0 +1,9 @@
+{
+  "id": "Dz34lCS4RwQdp6w",
+  "json": "{\"id\":\"Dz34lCS4RwQdp6w\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CSA%2CSportsbet%20Oakbank\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CSA%2CSportsbet%20Oakbank\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CSA%2CSportsbet+Oakbank\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.436Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CSA%2CSportsbet+Oakbank",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CSA%2CSportsbet%20Oakbank"
+}

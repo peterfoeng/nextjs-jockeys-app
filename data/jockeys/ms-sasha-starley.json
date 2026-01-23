@@ -136,6 +136,63 @@
       "trackCondition": "Good 4",
       "originalFieldSize": 15,
       "scratchedHorses": 3
+    },
+    {
+      "raceDate": "2026-01-01",
+      "raceTitle": "ASCEND TROPHIES HANDICAP",
+      "raceVenue": "Ascot",
+      "raceState": "WA",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 1000,
+      "horse": "STARRING KNIGHT",
+      "trainerName": "Brad Graham",
+      "spValue": 151,
+      "spString": "$151",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 9,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-12-28",
+      "raceTitle": "CUPRUM DISTILLERY MAIDEN",
+      "raceVenue": "Bunbury",
+      "raceState": "WA",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "MAXINE’S WISH",
+      "trainerName": "Brad Graham",
+      "spValue": 91,
+      "spString": "$91",
+      "weight": 56,
+      "claimedWeight": null,
+      "finishingPosition": 12,
+      "barrier": 4,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 3
     }
-  ]
+  ],
+  "derived": {
+    "totalRides": 8,
+    "totalWins": 2,
+    "totalPlaces": 2,
+    "winRate": 0.25,
+    "placeRate": 0.25,
+    "daysSinceLastWin": 95,
+    "recentForm": "4-X-X-X-X",
+    "currentStreak": {
+      "type": "win",
+      "count": 2
+    }
+  }
 }

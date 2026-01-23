@@ -1,9 +1,0 @@
-{
-	"id": "wCRaD201C6Kjo63",
-	"json": "{\"id\":\"wCRaD201C6Kjo63\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan07,WA,Bunbury\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan07,WA,Bunbury\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan07%2CWA%2CBunbury\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:39.753Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan07%2CWA%2CBunbury",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2026Jan07,WA,Bunbury"
-}

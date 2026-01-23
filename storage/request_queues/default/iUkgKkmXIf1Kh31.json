@@ -1,0 +1,9 @@
+{
+  "id": "iUkgKkmXIf1Kh31",
+  "json": "{\"id\":\"iUkgKkmXIf1Kh31\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CWA%2CBunbury&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CWA%2CBunbury&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CWA%2CBunbury&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:48.424Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CWA%2CBunbury&recentForm=Y",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CWA%2CBunbury&recentForm=Y"
+}

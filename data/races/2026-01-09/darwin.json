@@ -1,0 +1,401 @@
+{
+  "venueInfo": {
+    "name": "Darwin",
+    "location": "",
+    "clubName": "Darwin",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "TAB Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "RISING FIRE",
+          "jockey": "Jason Lyon",
+          "claimedWeight": 0,
+          "trainer": "Chloe Baxter",
+          "barrier": "9",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEBATING",
+          "jockey": "Jarrod Todd",
+          "claimedWeight": 0,
+          "trainer": "Ella Clarke",
+          "barrier": "10",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JUST ALBERT",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Paul Shiers",
+          "barrier": "2",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRAYA PRIDE",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Gary Clarke",
+          "barrier": "7",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARVELOUS NIGHT",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SABOR",
+          "jockey": "Ms Vanessa Arnott",
+          "claimedWeight": 0,
+          "trainer": "Jason Manning",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAX ROCK",
+          "jockey": "Wayne Davis",
+          "claimedWeight": 0,
+          "trainer": "Terry Gillett",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ASTERN MAGIC",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "5",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Become A DTC Member Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "JUMPING POWER TWO",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "1",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING AKEED",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "4",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PHYSICAL GRAFFITI",
+          "jockey": "Jarrod Todd",
+          "claimedWeight": 0,
+          "trainer": "Gary Clarke",
+          "barrier": "6",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KESSLER",
+          "jockey": "Ms Vanessa Arnott",
+          "claimedWeight": 0,
+          "trainer": "Angela Forster",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIME TO BACA",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Philip Cole",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MIAMI BABY",
+          "jockey": "Jason Lyon",
+          "claimedWeight": 0,
+          "trainer": "Chloe Baxter",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "ROANT TROBIS Handicap",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ROCK REVOLUTION",
+          "jockey": "Jason Lyon",
+          "claimedWeight": 0,
+          "trainer": "Chloe Baxter",
+          "barrier": "6",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FURY",
+          "jockey": "Jarrod Todd",
+          "claimedWeight": 0,
+          "trainer": "Gary Clarke",
+          "barrier": "1",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROSSANADO",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Paul Shiers",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PREDICTING",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Tayarn Halter",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VALKUR",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Angela Forster",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BEATIFICATION",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOUGH IMPACT",
+          "jockey": "Wayne Davis",
+          "claimedWeight": null,
+          "trainer": "Chris Pollard",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "Ladbrokes Summer Sprint Series",
+      "grade": "BenchMark 76, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "BON’S PRIDE",
+          "jockey": "Ms Vanessa Arnott",
+          "claimedWeight": 0,
+          "trainer": "Jason Manning",
+          "barrier": "4",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZOURATA",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Terry Gillett",
+          "barrier": "2",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ATLANTIC OCEAN",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Paul Shiers",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FORMS OF FEAR",
+          "jockey": "Wayne Davis",
+          "claimedWeight": 0,
+          "trainer": "Tayarn Halter",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CROWN WATERS",
+          "jockey": "Mrs Sonja Logan",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PATRIOTIC KING",
+          "jockey": "Jarrod Todd",
+          "claimedWeight": 0,
+          "trainer": "Gary Clarke",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LA BOQUERIA",
+          "jockey": "Jason Lyon",
+          "claimedWeight": 0,
+          "trainer": "Chloe Baxter",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "bet365 Handicap",
+      "grade": "BenchMark 54, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NT",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "CRIPPS TONITE",
+          "jockey": "Wayne Davis",
+          "claimedWeight": 0,
+          "trainer": "Philip Cole",
+          "barrier": "5",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANECDOTAL",
+          "jockey": "Ms Deborah Barton",
+          "claimedWeight": null,
+          "trainer": "Philip Cole",
+          "barrier": "2",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "I LOVERAIN",
+          "jockey": "Aaron Sweeney",
+          "claimedWeight": 0,
+          "trainer": "Paul Shiers",
+          "barrier": "3",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OAKLAND RAIDER",
+          "jockey": "Ms Vanessa Arnott",
+          "claimedWeight": 0,
+          "trainer": "Philip Cole",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POLARISING",
+          "jockey": "Ms Hannah Le Blanc",
+          "claimedWeight": 0,
+          "trainer": "Tommy Logan",
+          "barrier": "4",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    }
+  ]
+}

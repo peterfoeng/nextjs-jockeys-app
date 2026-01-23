@@ -1,0 +1,9 @@
+{
+  "id": "9GG4hf0N0Fyt1mz",
+  "json": "{\"id\":\"9GG4hf0N0Fyt1mz\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla%20Grange\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla%20Grange\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla+Grange\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.867Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla+Grange",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla%20Grange"
+}

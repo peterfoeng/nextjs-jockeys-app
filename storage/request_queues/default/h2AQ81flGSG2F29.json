@@ -1,0 +1,9 @@
+{
+  "id": "h2AQ81flGSG2F29",
+  "json": "{\"id\":\"h2AQ81flGSG2F29\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis%20Park%20Gold%20Coast\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis%20Park%20Gold%20Coast\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis+Park+Gold+Coast\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:46.346Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis+Park+Gold+Coast",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis%20Park%20Gold%20Coast"
+}

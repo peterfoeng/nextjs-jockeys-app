@@ -1,0 +1,66 @@
+{
+  "name": "Jasper Franklin",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-29",
+      "raceTitle": "DAMPLOK WATERPROOFING COUNTRY BOOSTED BENCHMARK 58 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1550,
+      "horse": "IN THE FINE PRINT",
+      "trainerName": "Leo Clapham",
+      "spValue": 15,
+      "spString": "$15",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 7,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-12-29",
+      "raceTitle": "TOPLINE THOROUGHBREDS BENCHMARK 66 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 2020,
+      "horse": "TROPIC SANDS",
+      "trainerName": "Peter Robl",
+      "spValue": 4.6,
+      "spString": "$4.60",
+      "weight": 60.5,
+      "claimedWeight": null,
+      "finishingPosition": 6,
+      "barrier": 5,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "daysSinceLastWin": null,
+    "recentForm": "2-6",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

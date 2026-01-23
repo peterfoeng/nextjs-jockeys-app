@@ -1,0 +1,9 @@
+{
+  "id": "vjCnVvhaEFrPjOE",
+  "json": "{\"id\":\"vjCnVvhaEFrPjOE\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CSA%2CThomas%20Farms%20RC%20Murray%20Bridge\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CSA%2CThomas%20Farms%20RC%20Murray%20Bridge\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CSA%2CThomas+Farms+RC+Murray+Bridge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:46.006Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CSA%2CThomas+Farms+RC+Murray+Bridge",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CSA%2CThomas%20Farms%20RC%20Murray%20Bridge"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Matt Kirk",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-24",
+      "raceTitle": "OPEN TRIAL",
+      "raceVenue": "Wagga",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "N/A",
+      "distance": 1000,
+      "horse": "BROKEN IMAGE",
+      "trainerName": "Darrell Burnet",
+      "spValue": null,
+      "spString": "",
+      "weight": 0,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 9,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

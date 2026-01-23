@@ -1,0 +1,66 @@
+{
+  "name": "Ms Danica Munro",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-15",
+      "raceTitle": "Tobin Brothers BM56 Handicap",
+      "raceVenue": "Picklebet Park Werribee",
+      "raceState": "VIC",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 56, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1608,
+      "horse": "TAKEMETOTHEMOON",
+      "trainerName": "Liam Howley",
+      "spValue": 8.5,
+      "spString": "$8.50",
+      "weight": 56,
+      "claimedWeight": 3,
+      "finishingPosition": 2,
+      "barrier": 7,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 18,
+      "scratchedHorses": 5
+    },
+    {
+      "raceDate": "2025-12-11",
+      "raceTitle": "RMBL Investments Rising Stars Race",
+      "raceVenue": "bet365 Park Kyneton",
+      "raceState": "VIC",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 62, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1454,
+      "horse": "LUVYA MUMMA",
+      "trainerName": "Liam Howley",
+      "spValue": 3.6,
+      "spString": "$3.60",
+      "weight": 55,
+      "claimedWeight": 3,
+      "finishingPosition": 2,
+      "barrier": 8,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 5
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2-2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

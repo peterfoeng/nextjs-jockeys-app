@@ -1,9 +1,0 @@
-{
-	"id": "Oz0MqLveaexEFH5",
-	"json": "{\"id\":\"Oz0MqLveaexEFH5\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec21,WA,Pinjarra%20Park\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec21,WA,Pinjarra%20Park\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec21%2CWA%2CPinjarra+Park\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:40.726Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec21%2CWA%2CPinjarra+Park",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec21,WA,Pinjarra%20Park"
-}

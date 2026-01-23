@@ -1,0 +1,44 @@
+{
+  "name": "Ms Catherine Masters",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-27",
+      "raceTitle": "Elders Open Trophy Race Handicap",
+      "raceVenue": "Alexandra",
+      "raceState": "VIC",
+      "raceNumber": 4,
+      "raceGrade": "N/A",
+      "distance": 1300,
+      "horse": "BLACK ADAM",
+      "trainerName": "Dan McCarthy",
+      "spValue": 1.85,
+      "spString": "$1.85F",
+      "weight": 70.5,
+      "claimedWeight": 2,
+      "finishingPosition": 2,
+      "barrier": 2,
+      "fieldSize": 3,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 5,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.edgeCard {
+  transition: border-color 0.2s;
+}
+
+.edgeCard:hover {
+  border-color: color-mix(in srgb, var(--mantine-color-blue-6) 50%, transparent);
+}
+
+.jockeyLink {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+}
+
+.jockeyAvatar {
+  border: 2px solid var(--mantine-color-default-border);
+  transition: border-color 0.2s;
+}
+
+.jockeyLink:hover .jockeyAvatar {
+  border-color: color-mix(in srgb, var(--mantine-color-blue-6) 50%, transparent);
+}
+
+.jockeyName {
+  transition: color 0.2s;
+}
+
+.jockeyLink:hover .jockeyName {
+  color: var(--mantine-color-blue-6);
+}
+
+.factorItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}

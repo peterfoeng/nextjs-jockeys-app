@@ -1,0 +1,66 @@
+{
+  "name": "Will Price",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-03",
+      "raceTitle": "POSEIDON ANIMAL HEALTH SUPER MAIDEN PLATE",
+      "raceVenue": "Kembla Grange",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "FREE AND FAST",
+      "trainerName": "Anthony & Sam Freedman",
+      "spValue": 26,
+      "spString": "$26",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 13,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 15,
+      "scratchedHorses": 2
+    },
+    {
+      "raceDate": "2025-12-19",
+      "raceTitle": "GOULBURN CITY ELECTRICAL MAIDEN HANDICAP",
+      "raceVenue": "Goulburn",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "LUCKY ME",
+      "trainerName": "Peter Snowden",
+      "spValue": 4.8,
+      "spString": "$4.80",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 4,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 9,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "4-4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

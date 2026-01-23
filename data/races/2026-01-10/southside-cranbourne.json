@@ -1,0 +1,925 @@
+{
+  "venueInfo": {
+    "name": "Southside Cranbourne",
+    "location": "",
+    "clubName": "Southside Cranbourne",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CSouthside%20Cranbourne&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Ladbrokes Mega Multi Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "ON MY OWN",
+          "jockey": "Koby Jennings",
+          "claimedWeight": null,
+          "trainer": "Geon Singh",
+          "barrier": "4",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ELLSWORTH",
+          "jockey": "Craig Newitt",
+          "claimedWeight": 0,
+          "trainer": "Lloyd Kennewell",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NEW CHARACTER",
+          "jockey": "Dylan Dunn",
+          "claimedWeight": 0,
+          "trainer": "Matt Laurie",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIJOLA",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZUBBA STORM",
+          "jockey": "Thomas Stockdale",
+          "claimedWeight": 0,
+          "trainer": "Anthony & Sam Freedman",
+          "barrier": "10",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LEONA",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Enver Jusufovic",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS D’MEZ",
+          "jockey": "Valentin Le Boeuf",
+          "claimedWeight": 0,
+          "trainer": "Gareth Andrews",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AZZACOOL",
+          "jockey": "Robert Whearty",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GRAND OLD BOWLER",
+          "jockey": "Shane Foley",
+          "claimedWeight": 0,
+          "trainer": "Trent Edmonds",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHAHAR",
+          "jockey": "Ms Linda Meech",
+          "claimedWeight": 0,
+          "trainer": "Amy & Ash Yargi",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "NZB Karaka 2026 Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ANGLESEA",
+          "jockey": "Ms Linda Meech",
+          "claimedWeight": 0,
+          "trainer": "Anthony & Sam Freedman",
+          "barrier": "13",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOPMOST",
+          "jockey": "Patrick Moloney",
+          "claimedWeight": null,
+          "trainer": "Julius Sandhu",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNRIDDLE",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 3,
+          "trainer": "Rory Hunter",
+          "barrier": "2",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ONAVUITTON",
+          "jockey": "Thomas Stockdale",
+          "claimedWeight": 0,
+          "trainer": "Simon Zahra",
+          "barrier": "12",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZOUDEADLY",
+          "jockey": "Jason Maskiell",
+          "claimedWeight": 0,
+          "trainer": "Jason Warren",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GREAT FUEGO",
+          "jockey": "Koby Jennings",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCK GLORY",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Greg Eurell",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWEETEST MEMORIES",
+          "jockey": "Fred Kersley",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KADESH",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "10",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KIRKHOEPASSE",
+          "jockey": "Robert Whearty",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LICENSE TO EXCITE",
+          "jockey": "Eoin Walsh",
+          "claimedWeight": 0,
+          "trainer": "Henry Dwyer",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRESTIGE KA YING",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Matt Jenkins",
+          "barrier": "14",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUS LA LUNE",
+          "jockey": "Dylan Dunn",
+          "claimedWeight": 0,
+          "trainer": "Angus Townley",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LA DIVINA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Greg Eurell",
+          "barrier": "11",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 14,
+      "scratched": 0
+    },
+    {
+      "title": "Springvale RSL Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "BALLISTIC BLUE",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Nikki Burke",
+          "barrier": "9",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLACK COAL",
+          "jockey": "Thomas Stockdale",
+          "claimedWeight": 0,
+          "trainer": "Gavin Bedggood",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANBECOSTLY",
+          "jockey": "Fred Kersley",
+          "claimedWeight": 0,
+          "trainer": "Allan & Jason Williams",
+          "barrier": "15",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIMES SQUARE",
+          "jockey": "Dylan Dunn",
+          "claimedWeight": 0,
+          "trainer": "Nathan Dunn",
+          "barrier": "10",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BALDONI",
+          "jockey": "Koby Jennings",
+          "claimedWeight": 0,
+          "trainer": "Michael Huglin",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUTTIN’ CLASS",
+          "jockey": "Shane Foley",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOOD ONYA CHAMP",
+          "jockey": "Ms Linda Meech",
+          "claimedWeight": 0,
+          "trainer": "Amy & Ash Yargi",
+          "barrier": "12",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OTTO’S DREAM",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VALEDICTORIAN",
+          "jockey": "Patrick Moloney",
+          "claimedWeight": null,
+          "trainer": "Julius Sandhu",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KARMA QUEEN",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Carly Cook",
+          "barrier": "13",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AURORA RISE",
+          "jockey": "Eoin Walsh",
+          "claimedWeight": 0,
+          "trainer": "Henry Dwyer",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HOT SPIRIT (NZ)",
+          "jockey": "Cian MacRedmond",
+          "claimedWeight": 0,
+          "trainer": "Simon Zahra",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EMPRESS JUPITER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "14",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELLACIOUS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Luke Oliver",
+          "barrier": "6",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MIKE’S HOPE",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "2",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    },
+    {
+      "title": "Hygain Edge Fillies & Mares Handicap",
+      "grade": "BenchMark 62, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Fillies and Mares, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "BELLA CINQUE",
+          "jockey": "Ms Bree Temple",
+          "claimedWeight": 4,
+          "trainer": "Gareth Andrews",
+          "barrier": "7",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FROSE",
+          "jockey": "Ms Zoe Waller",
+          "claimedWeight": 3,
+          "trainer": "Jamie Barry",
+          "barrier": "2",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOLD MANUKA",
+          "jockey": "Ms Samantha Noble",
+          "claimedWeight": 0,
+          "trainer": "Steven Noble",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MONTJUIC MAGIC",
+          "jockey": "Logan McNeil",
+          "claimedWeight": 0,
+          "trainer": "Robbie Griffiths",
+          "barrier": "1",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GLIDING LIGHTENING",
+          "jockey": "Ms Linda Meech",
+          "claimedWeight": 0,
+          "trainer": "Peter G Moody & Katherine Coleman",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TORVEGA",
+          "jockey": "Craig Newitt",
+          "claimedWeight": 0,
+          "trainer": "Greg Eurell",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AFFIRMATIVE SMILE",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AQUILION GIRL",
+          "jockey": "Paul Gatt",
+          "claimedWeight": 0,
+          "trainer": "Craig Anderson",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Tassie Fine Foods Handicap",
+      "grade": "BenchMark 62, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "HIGHLANDS",
+          "jockey": "Thomas Stockdale",
+          "claimedWeight": 0,
+          "trainer": "Gavin Bedggood",
+          "barrier": "9",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BONS TO RICHES",
+          "jockey": "Shane Foley",
+          "claimedWeight": 0,
+          "trainer": "Alex Rae",
+          "barrier": "7",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STAY SILENT",
+          "jockey": "Robert Whearty",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "3",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ILLUMINANCE",
+          "jockey": "Ms Ruby Lamont",
+          "claimedWeight": 4,
+          "trainer": "Julius Sandhu",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JUSTDOIT",
+          "jockey": "Bailey Kinninmont",
+          "claimedWeight": 3,
+          "trainer": "Luke Oliver",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MONGOLIAN MISSION",
+          "jockey": "Fred Kersley",
+          "claimedWeight": 0,
+          "trainer": "Danny O'Brien",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WINMAR",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "2",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAVANNAH CHILL (NZ)",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Ben, Will & JD Hayes",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRANCING QUEEN",
+          "jockey": "Koby Jennings",
+          "claimedWeight": 0,
+          "trainer": "Michael Huglin",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "SOUTHSIDE SESSIONS MUSIC FESTIVAL 17 JAN Handicap",
+      "grade": "BenchMark 62, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1500,
+      "runners": [
+        {
+          "horse": "ARISTONOUS (FR)",
+          "jockey": "Thomas Stockdale",
+          "claimedWeight": 0,
+          "trainer": "Trent Edmonds",
+          "barrier": "2",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BANCORY BAY",
+          "jockey": "Jason Maskiell",
+          "claimedWeight": null,
+          "trainer": "Jack Laing",
+          "barrier": "7",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MASTERFUL",
+          "jockey": "Ms Sage Duric",
+          "claimedWeight": 3,
+          "trainer": "Enver Jusufovic",
+          "barrier": "1",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUPER SOLAR",
+          "jockey": "Koby Jennings",
+          "claimedWeight": 0,
+          "trainer": "Reece Goodwin",
+          "barrier": "6",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ATAEGINA (NZ)",
+          "jockey": "Bailey Kinninmont",
+          "claimedWeight": 3,
+          "trainer": "Luke Oliver",
+          "barrier": "5",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GYMKHANA",
+          "jockey": "Craig Newitt",
+          "claimedWeight": 0,
+          "trainer": "Angus Townley",
+          "barrier": "10",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QUEEN BEIRA",
+          "jockey": "Ms Celine Gaudray",
+          "claimedWeight": 0,
+          "trainer": "David & Coral Feek",
+          "barrier": "4",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FILADEEL",
+          "jockey": "Ms Zoe Waller",
+          "claimedWeight": 3,
+          "trainer": "Ciaron Maher",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GABLE",
+          "jockey": "Valentin Le Boeuf",
+          "claimedWeight": 0,
+          "trainer": "Ricardo Meunier",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "IZOLA (NZ)",
+          "jockey": "Fred Kersley",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GIJIMA GAL",
+          "jockey": "Ms Samantha Noble",
+          "claimedWeight": 0,
+          "trainer": "Steven Noble",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "Duffy & Simon Lawyers Handicap",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 2025,
+      "runners": [
+        {
+          "horse": "ONLYGOLDWILLDO",
+          "jockey": "Jason Maskiell",
+          "claimedWeight": 0,
+          "trainer": "Liam Howley",
+          "barrier": "13",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FRANK EXPRESS",
+          "jockey": "Ms Sheridan Clarke",
+          "claimedWeight": 1.5,
+          "trainer": "Tony Rosolini",
+          "barrier": "15",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CLINGER",
+          "jockey": "Ms Jackie Beriman",
+          "claimedWeight": 0,
+          "trainer": "Jackie Beriman",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PENDING LIST",
+          "jockey": "Craig Newitt",
+          "claimedWeight": 0,
+          "trainer": "Greg Eurell",
+          "barrier": "5",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "XTRAREVZ",
+          "jockey": "Koby Jennings",
+          "claimedWeight": 0,
+          "trainer": "Margot McDougal",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXABANOISE",
+          "jockey": "Ms Nadia Daniels",
+          "claimedWeight": 3,
+          "trainer": "Chris Calthorpe",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VERIFIER (NZ)",
+          "jockey": "Robert Whearty",
+          "claimedWeight": 0,
+          "trainer": "Nigel Blackiston",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REDWOOD SHADOW (NZ)",
+          "jockey": "Ms Bree Temple",
+          "claimedWeight": 4,
+          "trainer": "Frankie Stockdale",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNQUESTIONABLY",
+          "jockey": "Cian MacRedmond",
+          "claimedWeight": 0,
+          "trainer": "Neil Dyer",
+          "barrier": "10",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OLNEY",
+          "jockey": "Lachlan King",
+          "claimedWeight": 0,
+          "trainer": "Greg Eurell",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIERY DEAL",
+          "jockey": "Fred Kersley",
+          "claimedWeight": 0,
+          "trainer": "Peter Gelagotis",
+          "barrier": "12",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NORTHWOOD VAMOOSE (NZ)",
+          "jockey": "Ms Sally Wynne",
+          "claimedWeight": 0,
+          "trainer": "Sally Wynne",
+          "barrier": "14",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TACTFULL (NZ)",
+          "jockey": "Ms Sam Kennedy",
+          "claimedWeight": 3,
+          "trainer": "Rory Hunter",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JAKK’S FORTUNE (NZ)",
+          "jockey": "Ms Sheridan Clarke",
+          "claimedWeight": 1.5,
+          "trainer": "Adam Hanley",
+          "barrier": "16",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLAAZAY",
+          "jockey": "Ms Yoko Ota",
+          "claimedWeight": 0,
+          "trainer": "Yoko Ota",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MASTER POLANSKI",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Reece Goodwin",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 16,
+      "scratched": 0
+    }
+  ]
+}

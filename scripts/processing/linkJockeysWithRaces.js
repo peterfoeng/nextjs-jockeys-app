@@ -15,11 +15,15 @@ function ensureDir(dir) {
 }
 
 function loadAllJockeys() {
-  const jockeyFiles = fs.readdirSync(JOCKEY_DIR).filter(f => f.endsWith(".json"));
+  const jockeyFiles = fs
+    .readdirSync(JOCKEY_DIR)
+    .filter((f) => f.endsWith(".json"));
   const map = {};
   for (const file of jockeyFiles) {
     try {
-      const data = JSON.parse(fs.readFileSync(path.join(JOCKEY_DIR, file), "utf8"));
+      const data = JSON.parse(
+        fs.readFileSync(path.join(JOCKEY_DIR, file), "utf8"),
+      );
       map[data.name.toLowerCase()] = data;
     } catch (err) {
       console.warn("⚠️ Failed to parse jockey file:", file, err.message);
@@ -35,15 +39,17 @@ function loadRaceFilesByDate() {
   }
 
   const result = {};
-  const dateFolders = fs.readdirSync(RACES_DIR).filter(d => {
+  const dateFolders = fs.readdirSync(RACES_DIR).filter((d) => {
     const p = path.join(RACES_DIR, d);
     return fs.statSync(p).isDirectory();
   });
 
   for (const dateFolder of dateFolders) {
     const datePath = path.join(RACES_DIR, dateFolder);
-    const venueFiles = fs.readdirSync(datePath).filter(f => f.endsWith(".json"));
-    result[dateFolder] = venueFiles.map(v => path.join(datePath, v));
+    const venueFiles = fs
+      .readdirSync(datePath)
+      .filter((f) => f.endsWith(".json"));
+    result[dateFolder] = venueFiles.map((v) => path.join(datePath, v));
   }
 
   return result;
@@ -87,14 +93,16 @@ function processRaces() {
           const jockey = jockeyMap[jockeyName];
           const odds = horse.spValue ?? horse.sp ?? null;
 
-          console.log(`  - ${jockey.name} riding "${horse.horseName || horse.name || horse.horse}" in ${race.raceTitle || race.title}`);
+          console.log(
+            `  - ${jockey.name} riding "${horse.horseName || horse.name || horse.horse}" in ${race.raceTitle || race.title}`,
+          );
 
           if (!jockeyRides[jockey.name]) {
             jockeyRides[jockey.name] = {
               jockeyName: jockey.name,
               daysSinceLastWin: jockey.derived?.daysSinceLastWin ?? null,
               placeRate: jockey.derived?.placeRate ?? 0,
-              rides: []
+              rides: [],
             };
           }
 
@@ -103,22 +111,25 @@ function processRaces() {
             venue: venueName,
             raceTitle: race.raceTitle || race.title,
             horse: horse.horseName || horse.name || horse.horse,
-            odds
+            odds,
           });
         }
       }
     }
 
     const dueForWin = Object.values(jockeyRides)
-      .filter(j => j.daysSinceLastWin > 10 && j.rides.length > 0)
-      .map(j => {
+      .filter((j) => j.daysSinceLastWin > 10 && j.rides.length > 0)
+      .map((j) => {
         const bestOdds = Math.min(
-          ...j.rides.map(r => (typeof r.odds === "number" ? r.odds : Infinity))
+          ...j.rides.map((r) =>
+            typeof r.odds === "number" ? r.odds : Infinity,
+          ),
         );
         return { ...j, bestOdds };
       })
       .sort((a, b) => {
-        if (b.rides.length !== a.rides.length) return b.rides.length - a.rides.length;
+        if (b.rides.length !== a.rides.length)
+          return b.rides.length - a.rides.length;
         if (a.bestOdds !== b.bestOdds) return a.bestOdds - b.bestOdds;
         return b.daysSinceLastWin - a.daysSinceLastWin;
       })
@@ -130,18 +141,20 @@ function processRaces() {
     const dateOutput = path.join(dateDir, "dueForWin.json");
     fs.writeFileSync(dateOutput, JSON.stringify(dueForWin, null, 2));
 
-    console.log(`✅ ${date}: ${dueForWin.length} due-for-win jockeys → ${dateOutput}`);
-
-    globalResults.push(
-      ...dueForWin.map(j => ({ ...j, raceDate: date }))
+    console.log(
+      `✅ ${date}: ${dueForWin.length} due-for-win jockeys → ${dateOutput}`,
     );
+
+    globalResults.push(...dueForWin.map((j) => ({ ...j, raceDate: date })));
   }
 
   // Combine all dates into one big file
   const combined = globalResults
     .sort((a, b) => {
-      if (a.raceDate !== b.raceDate) return a.raceDate.localeCompare(b.raceDate);
-      if (b.rides.length !== a.rides.length) return b.rides.length - a.rides.length;
+      if (a.raceDate !== b.raceDate)
+        return a.raceDate.localeCompare(b.raceDate);
+      if (b.rides.length !== a.rides.length)
+        return b.rides.length - a.rides.length;
       return a.bestOdds - b.bestOdds;
     })
     .slice(0, MAX_RESULTS);

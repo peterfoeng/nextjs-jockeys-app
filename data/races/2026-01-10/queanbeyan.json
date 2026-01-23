@@ -1,0 +1,481 @@
+{
+  "venueInfo": {
+    "name": "Queanbeyan",
+    "location": "",
+    "clubName": "Queanbeyan",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CQueanbeyan&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "QUEANBEYAN LEAGUES CLASS 1 & MAIDEN PLATE",
+      "grade": "Class 1, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 2000,
+      "runners": [
+        {
+          "horse": "BO COUGAR",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Keith Dryden & Libby Snowden",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HARD GRUNT",
+          "jockey": "Ms Jessica Brookes",
+          "claimedWeight": 2,
+          "trainer": "Gratz Vella",
+          "barrier": "9",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHARE OUR SECRET",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "Tom Wilson",
+          "barrier": "3",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SON O’ WAR (NZ)",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Guntis Lukss",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CLASSICAL POWER",
+          "jockey": "Deon Le Roux",
+          "claimedWeight": 4,
+          "trainer": "John Thompson",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROSE DIAMOND",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Matthew Kelley",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOLAR SPEED",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "Garry Kirkup",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOLICITING",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "DALE & HITCHCOCK MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1460,
+      "runners": [
+        {
+          "horse": "BELGRANO",
+          "jockey": "Deon Le Roux",
+          "claimedWeight": 4,
+          "trainer": "Darryll Kell",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MR USHER",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "Robert Quinn",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROMANTIC TOM",
+          "jockey": "Damon Budler",
+          "claimedWeight": 0,
+          "trainer": "Darryl Rolfe",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AQUILINO",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "10",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LIBERTARIAN (NZ)",
+          "jockey": "Richard Bensley",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ELLE TEE",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOCUS POINT",
+          "jockey": "Ms Rochelle Wedrat-Kroezen",
+          "claimedWeight": 3,
+          "trainer": "Joe Cleary",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "TAB TAKEOVER BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 900,
+      "runners": [
+        {
+          "horse": "BOLD OFFA",
+          "jockey": "Nick Heywood",
+          "claimedWeight": 0,
+          "trainer": "Allan McRae",
+          "barrier": "1",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OAKEYS CHOICE",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Luke Musson",
+          "barrier": "2",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS MIKKI ISLE",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Todd Smart",
+          "barrier": "3",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AQUATEMPO",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "David Kelley",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TA LA MASCA",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Kerry Weir",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRAIRIE LEGEND",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "ALLBIDS BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "JUAN PABLO",
+          "jockey": "Ms Rochelle Wedrat-Kroezen",
+          "claimedWeight": 3,
+          "trainer": "Danielle Seib",
+          "barrier": "1",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANA CAROLINA",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GEOSTORM",
+          "jockey": "Ms Jessica Brookes",
+          "claimedWeight": 2,
+          "trainer": "Greg Stephens",
+          "barrier": "6",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SEBASTIAN’S FLYER",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INCANTATA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROBRAN",
+          "jockey": "Deep Shanker",
+          "claimedWeight": 0,
+          "trainer": "Luke Musson",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOLAR ORBIT",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Mary Bray",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BEOGRAD BOY",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOGOODTOBEACOD",
+          "jockey": "Damon Budler",
+          "claimedWeight": 0,
+          "trainer": "Scott Jamieson",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "TAB EVERY RACE LIVE BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "CRUCIAL WITNESS",
+          "jockey": "Ms Caitlin Sinclair",
+          "claimedWeight": 3,
+          "trainer": "Gratz Vella",
+          "barrier": "9",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WALK UP START",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "David Kelley",
+          "barrier": "10",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TABOR (NZ)",
+          "jockey": "Richard Bensley",
+          "claimedWeight": 0,
+          "trainer": "Joe Cleary",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANTHRACIA",
+          "jockey": "Andrew Banks",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAN OF REIGN",
+          "jockey": "Nick Heywood",
+          "claimedWeight": 0,
+          "trainer": "Luke Musson",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LIAMENA AVENUE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RANGATIRA",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SIR SUBLIME",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARINE GIRL",
+          "jockey": "Jack Martin",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AEROBATIC WARRIOR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PAPAVER MINER",
+          "jockey": "Deep Shanker",
+          "claimedWeight": 0,
+          "trainer": "Jack Van Duren",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

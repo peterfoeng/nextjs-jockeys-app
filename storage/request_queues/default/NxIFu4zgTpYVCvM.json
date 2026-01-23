@@ -1,0 +1,9 @@
+{
+  "id": "NxIFu4zgTpYVCvM",
+  "json": "{\"id\":\"NxIFu4zgTpYVCvM\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:47.029Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNT%2CDarwin&recentForm=Y"
+}

@@ -1,0 +1,5 @@
+.hero {
+  background: linear-gradient(to bottom, var(--mantine-color-default), var(--mantine-color-body));
+  padding: 3rem 0;
+  border-bottom: 1px solid var(--mantine-color-default-border);
+}

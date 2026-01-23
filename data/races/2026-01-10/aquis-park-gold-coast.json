@@ -1,0 +1,1511 @@
+{
+  "venueInfo": {
+    "name": "Aquis Park Gold Coast",
+    "location": "",
+    "clubName": "Aquis Park Gold Coast",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CQLD%2CAquis%20Park%20Gold%20Coast&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "AQUIS GOLD NUGGET QTIS 2YO Colts and Geldings",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "ITCHINTOGO",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BACIAMI",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Toby Edmonds",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DRAGON MAGIC",
+          "jockey": "Michael Rodd",
+          "claimedWeight": 0,
+          "trainer": "Shaun Dwyer",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXCLUSIVE ONE",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Marcus Wilson",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WOOTTON YOU KNOW",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WRITTEN ACLAIM",
+          "jockey": "Boris Thornton",
+          "claimedWeight": 0,
+          "trainer": "Marcus Wilson",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "AQUIS GOLD PEARL QTIS 2YO Fillies",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "SHIKI",
+          "jockey": "Tim Clark",
+          "claimedWeight": 0,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BY CHOICE",
+          "jockey": "Regan Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCARTOON",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Kelly Schweida",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REMEMBRALL",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Liam Birchley",
+          "barrier": "10",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LEAVES OF LORIEN",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "James Moore",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIGRONI",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INHABIT",
+          "jockey": "Todd Pannell",
+          "claimedWeight": 0,
+          "trainer": "Michael Hickmott",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "IRANSOFAR",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Desleigh Forster",
+          "barrier": "12",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RUN LIKE A GIRL",
+          "jockey": "Robbie Dolan",
+          "claimedWeight": 0,
+          "trainer": "Paul Butterworth",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOUBLE COOL",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ADORA DJON’S",
+          "jockey": "Jag Guthmann-Chester",
+          "claimedWeight": 0,
+          "trainer": "Peter Robl",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "CARBINE CLUB QUEENSLAND MAGIC MILLIONS MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "PIERANT",
+          "jockey": "Martin Harley",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "21",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AGRAFFE ROCKET",
+          "jockey": "Nash Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BELLO CAVALLO",
+          "jockey": "Tom Sherry",
+          "claimedWeight": 0,
+          "trainer": "Gerald Ryan & Sterling Alexiou",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIFRONZO",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FORGING AHEAD",
+          "jockey": "Tyler Schiller",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIT THE SWITCH",
+          "jockey": "Damian Lane",
+          "claimedWeight": 0,
+          "trainer": "Matthew Hoysted",
+          "barrier": "17",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OUR MATE LOCKY",
+          "jockey": "Regan Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Jamie Bayliss",
+          "barrier": "20",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PIERRO LAD",
+          "jockey": "Ethan Brown",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "18",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RUSTEMO",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SPANISH TREASURE",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "14",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWAG",
+          "jockey": "Jason Collett",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CRASH THE PARTY",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Toby Edmonds",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KOOLATAH QUEEN",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Chris Anderson",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MACHRIMORE",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "16",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RECONCILIATE",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNITZEL MISS",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TINKLEJAZZ",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YOU SEXY THING",
+          "jockey": "Ms Rachel King",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAUTIONARY TAIL",
+          "jockey": "Boris Thornton",
+          "claimedWeight": 0,
+          "trainer": "Marcus Wilson",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DASHING MARS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "19",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MONTE CARLO MISS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jonny Field",
+          "barrier": "15",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 21,
+      "scratched": 0
+    },
+    {
+      "title": "EXPERIENCE GOLD COAST MAGIC MILLIONS RISING STARS 3YO & 4YO Fillies & Mares Class 4 Plate",
+      "grade": "Class 4, Set Weights, Three-Years-Old and Four-Years-Old, Fillies and Mares, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "POSTER GIRL",
+          "jockey": "Martin Harley",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "5",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS KIM KAR",
+          "jockey": "Ms Rachel King",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "12",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "USEAPIN",
+          "jockey": "Damian Lane",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "3",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YES LULU",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PIERATA’S GEM",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAMUSHKA",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ATELIER",
+          "jockey": "Tom Sherry",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCRIPTED",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ALTERMATUM",
+          "jockey": "Ethan Brown",
+          "claimedWeight": 0,
+          "trainer": "Tony & Calvin McEvoy",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUTHERN HEIRESS",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "9",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KICKUPHIGH",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Desleigh Forster",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "SCONE RACE CLUB MAGIC MILLIONS RISING STARS 3YO & 4YO Colts, Geldings & Entires Class 4 Plate",
+      "grade": "Class 4, Set Weights, Three-Years-Old and Four-Years-Old, Colts, Geldings and Entires, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "AXIUS",
+          "jockey": "Nash Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "9",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GORBACHEV",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "I’M HEROIC",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Desleigh Forster",
+          "barrier": "10",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YOSHINOBU",
+          "jockey": "Tom Sherry",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "13",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NOW IS THE HOUR",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "14",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CONCESSION",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Barry Lockwood & Emma-Jane Vincent",
+          "barrier": "5",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLUEPINOT",
+          "jockey": "Damian Lane",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "19",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TRUE AMOR",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "18",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STARDEEL",
+          "jockey": "Ms Rachel King",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELL TO PAY",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELLA FAST",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Kelly Schweida",
+          "barrier": "12",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CASH",
+          "jockey": "Ethan Brown",
+          "claimedWeight": 0,
+          "trainer": "Michael Hickmott",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JOPPA LANE",
+          "jockey": "Boris Thornton",
+          "claimedWeight": 0,
+          "trainer": "Matthew Hoysted",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ABENDER",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "15",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SKORPIOS ISLE",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Lindsay Gough",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAYFAIR",
+          "jockey": "Jason Collett",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "17",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THEE CREEK",
+          "jockey": "Mark Du Plessis",
+          "claimedWeight": 0,
+          "trainer": "Peter & Will Hulbert",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HEAVENLY IMPACT",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Marcus Wilson",
+          "barrier": "16",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRUTAL BOWLER",
+          "jockey": "Tyler Schiller",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 19,
+      "scratched": 0
+    },
+    {
+      "title": "EXPERIENCE GOLD COAST SUNLIGHT CONSOLATION 3YO Plate",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "KING OF POP",
+          "jockey": "Jason Collett",
+          "claimedWeight": 0,
+          "trainer": "Gerald Ryan & Sterling Alexiou",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TORQUE TO BE SURE",
+          "jockey": "Ben Melham",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JOHNNY",
+          "jockey": "Damian Lane",
+          "claimedWeight": 0,
+          "trainer": "Peter Snowden",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NORTHLANDER",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Richard Litt",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MANPOWER",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DA SNOOP DOG",
+          "jockey": "Ms Rachel King",
+          "claimedWeight": 0,
+          "trainer": "Simon Foster",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOLIDUDE",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Allan Chau",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS FREELOVE",
+          "jockey": "Tim Clark",
+          "claimedWeight": 0,
+          "trainer": "Peter Snowden",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SISSTAINABLE",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Tony & Calvin McEvoy",
+          "barrier": "14",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIATUS",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony & Calvin McEvoy",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FORGOTTEN SPIRIT",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "15",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRADA VARENNA",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOLDARNIE",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXCELOQUENT",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOTTLES OF SHELLS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    },
+    {
+      "title": "TAB MAGIC MILLIONS THE WAVE",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1800,
+      "runners": [
+        {
+          "horse": "PORT LOCKROY",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ENCODER",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WYMARK (NZ)",
+          "jockey": "Jamie Mott",
+          "claimedWeight": 0,
+          "trainer": "Gavin Bedggood",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEMON DARB",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUNNAMULLA FELLA",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "6",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SLY BOOTS",
+          "jockey": "Regan Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "13",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PASIMA",
+          "jockey": "Michael Rodd",
+          "claimedWeight": 0,
+          "trainer": "Gillian Heinrich & Ben Rodgers",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAST CHANCE SALOON",
+          "jockey": "Nash Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "12",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CARPACCIO",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Barry Lockwood & Emma-Jane Vincent",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS JOELENE",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Kelly Schweida",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOROS",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Paula Barron",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YOU WAHNG",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNITZANOVA",
+          "jockey": "Ethan Brown",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "TAB MAGIC MILLIONS THE SYNDICATE",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "PAYLINE",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "3",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOLDEN BOOM",
+          "jockey": "Ryan Maloney",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING KAPA",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRINCE OF BOOM",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "12",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EPIC PROPORTIONS",
+          "jockey": "Ben Melham",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "5",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STORM THE RAMPARTS",
+          "jockey": "Nash Rawiller",
+          "claimedWeight": 0,
+          "trainer": "Joseph Pride",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SPYWIRE",
+          "jockey": "Ethan Brown",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "10",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHINQUI",
+          "jockey": "Tim Clark",
+          "claimedWeight": 0,
+          "trainer": "Anthony & Sam Freedman",
+          "barrier": "1",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CASPERNOVA",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWISS EXILE",
+          "jockey": "Jamie Mott",
+          "claimedWeight": 0,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRERETON",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCAMPI",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "9",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "TAB MAGIC MILLIONS SUNLIGHT 3YO Plate",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "NORTH ENGLAND",
+          "jockey": "Tim Clark",
+          "claimedWeight": 0,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GRAFTERBURNERS",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Kelly Schweida",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLITZBURG",
+          "jockey": "Damian Lane",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NASHVILLE JACK",
+          "jockey": "Tyler Schiller",
+          "claimedWeight": 0,
+          "trainer": "Brad Widdup",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ICE KOOL",
+          "jockey": "Jason Collett",
+          "claimedWeight": 0,
+          "trainer": "David Pfieffer",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAVVY HALLIE",
+          "jockey": "Tommy Berry",
+          "claimedWeight": 0,
+          "trainer": "Brad Widdup",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AKAYSHA",
+          "jockey": "Tom Sherry",
+          "claimedWeight": 0,
+          "trainer": "Peter Snowden",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOREIGN PRESS",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWORDPLAY",
+          "jockey": "Ms Rachel King",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GET READY LASS",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Chris Anderson",
+          "barrier": "11",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SYLPH",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KISS GOODNIGHT",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Clarry Conners",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING OF POP",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Gerald Ryan & Sterling Alexiou",
+          "barrier": "0",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS FREELOVE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Peter Snowden",
+          "barrier": "0",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SISSTAINABLE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tony & Calvin McEvoy",
+          "barrier": "0",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIATUS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tony & Calvin McEvoy",
+          "barrier": "0",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FORGOTTEN SPIRIT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "0",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRADA VARENNA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "0",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 18,
+      "scratched": 0
+    },
+    {
+      "title": "RACING QUEENSLAND MAGIC MILLIONS QTIS OPEN",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "YELLOW BRICK",
+          "jockey": "James McDonald",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "7",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CORFE CASTLE",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Toby Edmonds",
+          "barrier": "10",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "READY TO SCHIPP",
+          "jockey": "Kyle Wilson-Taylor",
+          "claimedWeight": 0,
+          "trainer": "Toby Edmonds",
+          "barrier": "2",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOOM TORQUE",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "9",
+          "weight": "53.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOOMTOWN BOSS",
+          "jockey": "Craig Williams",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "11",
+          "weight": "53.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HATCHET",
+          "jockey": "Tyler Schiller",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "5",
+          "weight": "53",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAFEWORK",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Scott Morrisey",
+          "barrier": "6",
+          "weight": "53",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JOHN RAMBO",
+          "jockey": "Ms Angela Jones",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "1",
+          "weight": "52",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOSSED UP",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "4",
+          "weight": "52",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOHEMIAN LAD",
+          "jockey": "Zac Lloyd",
+          "claimedWeight": 0,
+          "trainer": "David Vandyke",
+          "barrier": "3",
+          "weight": "52",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HOOT ’N’ HOLLER",
+          "jockey": "Ron Stewart",
+          "claimedWeight": 0,
+          "trainer": "Troy Pascoe",
+          "barrier": "8",
+          "weight": "52",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GLASS OF ROSE",
+          "jockey": "Robbie Dolan",
+          "claimedWeight": 0,
+          "trainer": "Jeff Dunn",
+          "barrier": "12",
+          "weight": "52",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    }
+  ]
+}

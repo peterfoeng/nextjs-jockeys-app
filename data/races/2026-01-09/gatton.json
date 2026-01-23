@@ -1,0 +1,1159 @@
+{
+  "venueInfo": {
+    "name": "Gatton",
+    "location": "",
+    "clubName": "Gatton",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Race 1 - 11:50AM HAPPY NEW YEAR TO ALL Maiden Plate (1100 METRES)",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "FRENCH LINER",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Alan Boyd",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOLAR SURFER",
+          "jockey": "Damien Boche",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "9",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUTHAMPTON NICCO",
+          "jockey": "Ms Bailie Baker",
+          "claimedWeight": 3,
+          "trainer": "Leo Roche",
+          "barrier": "1",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "APOLLO MOON",
+          "jockey": "Gary Geran",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BAD SANTA",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXCELBOOM",
+          "jockey": "Ms Emily Lang",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KISS OF LIFE",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Joe Gleeson",
+          "barrier": "17",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEARL OF SICILY (NZ)",
+          "jockey": "Les Tilley",
+          "claimedWeight": null,
+          "trainer": "Ben Ahrens",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RADIO WAVES",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "3",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRINCE PHOENIX",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Greg Cornish",
+          "barrier": "14",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GLOBAL CURRENCY",
+          "jockey": "Scott Sheargold",
+          "claimedWeight": null,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HANAA BOY",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": null,
+          "trainer": "Sharon Croxford",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "LADBROKES ODDS SURGE Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CONCADOR",
+          "jockey": "Ms Amy Graham",
+          "claimedWeight": 1.5,
+          "trainer": "Greg Wright",
+          "barrier": "19",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRINCE OF SYNERGY",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Sharon Croxford",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXODINI",
+          "jockey": "Scott Sheargold",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NASIRON",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 2,
+          "trainer": "Roger Milne",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HEROIC DELANEYS",
+          "jockey": "Brandon Lerena",
+          "claimedWeight": null,
+          "trainer": "Matt Kropp",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PREACHABULL",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Doug & Graeme Lane",
+          "barrier": "13",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHAKEN MARTINI",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Paula Davidson",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WORTH A GAMBLE",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "16",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "I’M SO ELEGANT (NZ)",
+          "jockey": "Gary Geran",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "12",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FYANSFORD FLYER",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DASHING SHANGHAI",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Lindsay Gough",
+          "barrier": "14",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OUR ESPRIT",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Doug & Graeme Lane",
+          "barrier": "9",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "FALVEY'S HOTEL GATTON RATINGS BAND 0 - 55 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "GOLD DAZZLER",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Phil Bobic",
+          "barrier": "5",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOBA",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Rex Lipp",
+          "barrier": "4",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CLEARLY GEORGE",
+          "jockey": "Heavelon Van Der Hoven",
+          "claimedWeight": 0,
+          "trainer": "Vic Heading",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JEDIAH",
+          "jockey": "Paul Hamblin",
+          "claimedWeight": 0,
+          "trainer": "Leigh-Ann Derecourt",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHOT DOWN BY LOVE",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Ashtyn Reedy",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STATE A FACT",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Tim Hurley",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INVISIBLE TARGET",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Rochelle Pereira",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEACH GALANTES",
+          "jockey": "Anthony Allen",
+          "claimedWeight": 0,
+          "trainer": "Kevin Kemp",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ONOMATOPOEIA",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 2,
+          "trainer": "Doug & Graeme Lane",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HALF MOON ROO",
+          "jockey": "Ms Kayla Johnston",
+          "claimedWeight": 2,
+          "trainer": "John Johnston",
+          "barrier": "8",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "BARRIER REEF POOLS RATINGS BAND 0 - 55 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "MISHANI PERSUASION",
+          "jockey": "Ms Bailie Baker",
+          "claimedWeight": 3,
+          "trainer": "Donna Stanbridge",
+          "barrier": "8",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TREASURER",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Mark Renehan",
+          "barrier": "6",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HAYAKU",
+          "jockey": "Scott Sheargold",
+          "claimedWeight": 0,
+          "trainer": "Allan Chau",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HUSSON’S REVENGE",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Rochelle Pereira",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEFYING",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHOW ME THE STARS",
+          "jockey": "Ms Montana Philpot",
+          "claimedWeight": 0,
+          "trainer": "Brendan Jones",
+          "barrier": "10",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LITTLE VAIN",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 2,
+          "trainer": "Leo Roche",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ORCA",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Ravyn Warzecha",
+          "barrier": "11",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TRUCK STOP HONEY",
+          "jockey": "Brandon Lerena",
+          "claimedWeight": 0,
+          "trainer": "William Kropp",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIELD AGENT",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Stephanie Sixtus",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REACHOVER",
+          "jockey": "Wayne O'Connell",
+          "claimedWeight": 0,
+          "trainer": "Wayne O'Connell",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIDLER’S WISH",
+          "jockey": "Damien Boche",
+          "claimedWeight": 0,
+          "trainer": "Rob Goodwin",
+          "barrier": "7",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "QN HOTEL LAIDLEY Class 2 Handicap",
+      "grade": "Class 2, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "JOHNNY THE KID",
+          "jockey": "Gary Geran",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "5",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIRE AND LIGHT",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 2,
+          "trainer": "William Kropp",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUCONI",
+          "jockey": "Brandon Lerena",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAMURAI WARRIOR (NZ)",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AOOM’S CHOICE",
+          "jockey": "Ms Kayla Barker",
+          "claimedWeight": 2,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "12",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STANDLEE",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Tom Dougall",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GLENRAY’S MATE",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Spike Deacon",
+          "barrier": "11",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAURITA",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Ruby Chatterton",
+          "barrier": "7",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOLD TYRANT",
+          "jockey": "Ms Bailie Baker",
+          "claimedWeight": 3,
+          "trainer": "Garnett Taylor",
+          "barrier": "2",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OAKFIELD EAGLE",
+          "jockey": "Jason Taylor",
+          "claimedWeight": null,
+          "trainer": "Taryn Churchill",
+          "barrier": "13",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCK LOBSTER",
+          "jockey": "Micheal Hellyer",
+          "claimedWeight": null,
+          "trainer": "Ron Kelly",
+          "barrier": "6",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "LADBROKES TOP 2/3/4 BETTING RATINGS BAND 0 - 55 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "DOITLIKEMAXWELL",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Pat Webster",
+          "barrier": "1",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MEKANIC",
+          "jockey": "Paul Hamblin",
+          "claimedWeight": 0,
+          "trainer": "Dale Groves",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS ZERMATT",
+          "jockey": "Ms Shakira Bailey",
+          "claimedWeight": 2,
+          "trainer": "Greg Cornish",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SO BE INSPIRED",
+          "jockey": "Matthew Palmer",
+          "claimedWeight": 0,
+          "trainer": "Kris Lees",
+          "barrier": "12",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FANCI FLEUR",
+          "jockey": "Ms Hannah Richardson",
+          "claimedWeight": 0,
+          "trainer": "Brooke Ainsworth",
+          "barrier": "14",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISTER TUDOR",
+          "jockey": "Ms Montanna Savva",
+          "claimedWeight": 0,
+          "trainer": "Leigh-Ann Derecourt",
+          "barrier": "7",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WANTSOMEMOREOFIT",
+          "jockey": "Ms Bailie Baker",
+          "claimedWeight": 3,
+          "trainer": "Kevin Kemp",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PERFECT BETH",
+          "jockey": "Scott Sheargold",
+          "claimedWeight": 0,
+          "trainer": "Leanne McCormick",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHE’S A BAD GIRL",
+          "jockey": "Michael Murphy",
+          "claimedWeight": 0,
+          "trainer": "Jamaica Atkinson",
+          "barrier": "9",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DUBBLE HUSSLE",
+          "jockey": "Sean Cormack",
+          "claimedWeight": 0,
+          "trainer": "Rochelle Pereira",
+          "barrier": "10",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISHANI STELLER",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Donna Stanbridge",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GALLERY MASTER",
+          "jockey": "Ms Kayla Johnston",
+          "claimedWeight": 2,
+          "trainer": "Julie Harris",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "NATIONAL BLOOD DONOR MONTH RATINGS BAND 0 - 55 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "BRAVE COWBOY BILL",
+          "jockey": "Scott Sheargold",
+          "claimedWeight": 0,
+          "trainer": "Olivia Cairns",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCONONO",
+          "jockey": "Jason Taylor",
+          "claimedWeight": 0,
+          "trainer": "Ravyn Warzecha",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QICKWIT",
+          "jockey": "Ms Colleen Krahnen",
+          "claimedWeight": 2,
+          "trainer": "Mark Palmer",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OYSTERCATCHER",
+          "jockey": "Ms Chelsea Francis",
+          "claimedWeight": 3,
+          "trainer": "Darren Bell",
+          "barrier": "16",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOVE TO ALL",
+          "jockey": "Micheal Hellyer",
+          "claimedWeight": 0,
+          "trainer": "Michael G Nolan",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXTREME ALLY",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Beau Gorman",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANCIENT MISSION",
+          "jockey": "Anthony Allen",
+          "claimedWeight": null,
+          "trainer": "Maryann Brosnan",
+          "barrier": "12",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JIDAYUBORI",
+          "jockey": "Les Tilley",
+          "claimedWeight": null,
+          "trainer": "Ben Ahrens",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISHANI BREEZE",
+          "jockey": "Ms Chloe Lowe",
+          "claimedWeight": 0,
+          "trainer": "Donna Stanbridge",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WORLDY SPIRIT",
+          "jockey": "Adin Thompson",
+          "claimedWeight": 0,
+          "trainer": "Jim Hanna",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHELLY’S ACE",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": null,
+          "trainer": "Taryn Churchill",
+          "barrier": "2",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JAMAICAN",
+          "jockey": "Ms Rhiannon Payne",
+          "claimedWeight": 0,
+          "trainer": "Gilbert Baker",
+          "barrier": "15",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "MCNEIL FARMS BENCHMARK 60 Handicap",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "HEROIC CHIEF",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Dale Groves",
+          "barrier": "16",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DRANITZELLE",
+          "jockey": "Ms Emily Lang",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RED FEATHER BOA",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Lindsay Gough",
+          "barrier": "10",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BETTA BEING SINGLE",
+          "jockey": "Justin Huxtable",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BONNIE AMORE",
+          "jockey": "Dale Smith",
+          "claimedWeight": 0,
+          "trainer": "John Wallace",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CEEKAY’S CHOICE",
+          "jockey": "Brandon Lerena",
+          "claimedWeight": null,
+          "trainer": "Matt Kropp",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELIKEDEMPRETTY",
+          "jockey": "Les Tilley",
+          "claimedWeight": 0,
+          "trainer": "Maleah Hill",
+          "barrier": "12",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COUNT NICHOLAS",
+          "jockey": "Ms Bailie Baker",
+          "claimedWeight": 3,
+          "trainer": "Adam Campton",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VEGA NOVA",
+          "jockey": "Micheal Hellyer",
+          "claimedWeight": null,
+          "trainer": "Michael G Nolan",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PUROSANGUE",
+          "jockey": "Anthony Allen",
+          "claimedWeight": null,
+          "trainer": "Mark Currie",
+          "barrier": "3",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EVERYWHERE",
+          "jockey": "Ron Stewart",
+          "claimedWeight": null,
+          "trainer": "Paul Nolan (Jnr)",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "SAVE THE DATE - AUSTRALIA DAY LONG WEEKEND RACEDAY 25TH JANUARY BENCHMARK 60 Handicap",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "HEAVENLY LOVE",
+          "jockey": "Ms Samantha Pointon",
+          "claimedWeight": 2,
+          "trainer": "Michael Frappell",
+          "barrier": "2",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAN IN THE MIRROR",
+          "jockey": "Ms Chelsea Francis",
+          "claimedWeight": 3,
+          "trainer": "Rodney Hay",
+          "barrier": "11",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OUR ORATOR",
+          "jockey": "Ms Julie Busuttin",
+          "claimedWeight": 2,
+          "trainer": "Patrick Busuttin",
+          "barrier": "14",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KINGSLAND",
+          "jockey": "Ron Stewart",
+          "claimedWeight": 0,
+          "trainer": "Troy Pascoe",
+          "barrier": "1",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MOOTESSA",
+          "jockey": "Ms Stephanie Tierney",
+          "claimedWeight": 2,
+          "trainer": "Wayne Nugent",
+          "barrier": "4",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ARIAT",
+          "jockey": "Reece O'Connell",
+          "claimedWeight": 3,
+          "trainer": "Anthony Freeman",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "I’LLTELLYOUSO",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Olivia Cairns",
+          "barrier": "7",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ELEANOR NANCY",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 1.5,
+          "trainer": "Mark Currie",
+          "barrier": "12",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RARE MOON",
+          "jockey": "Gary Geran",
+          "claimedWeight": null,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COOL PANELS",
+          "jockey": "Ms Georgina Cartwright",
+          "claimedWeight": 0,
+          "trainer": "Lindsay Gough",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ALLEZIZZY",
+          "jockey": "Adin Thompson",
+          "claimedWeight": 0,
+          "trainer": "Harry Schwenke",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS DE MEDICI",
+          "jockey": "Ms Emily Lang",
+          "claimedWeight": 0,
+          "trainer": "Rex Lipp",
+          "barrier": "10",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    }
+  ]
+}

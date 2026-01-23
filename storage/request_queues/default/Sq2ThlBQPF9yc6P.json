@@ -1,9 +1,0 @@
-{
-	"id": "Sq2ThlBQPF9yc6P",
-	"json": "{\"id\":\"Sq2ThlBQPF9yc6P\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec28,WA,Bunbury\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec28,WA,Bunbury\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec28%2CWA%2CBunbury\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:41.132Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec28%2CWA%2CBunbury",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec28,WA,Bunbury"
-}

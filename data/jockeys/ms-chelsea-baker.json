@@ -1,0 +1,44 @@
+{
+  "name": "Ms Chelsea Baker",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-04",
+      "raceTitle": "XXXX GOLD MAIDEN PLATE",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1120,
+      "horse": "BAY OF THE SOUTH",
+      "trainerName": "Tony Gollan",
+      "spValue": 3.7,
+      "spString": "$3.70",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 4,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 6
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

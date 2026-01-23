@@ -1,0 +1,44 @@
+{
+  "name": "Ms Jessica Booth",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-02",
+      "raceTitle": "OPEN TRIAL",
+      "raceVenue": "Gundagai",
+      "raceState": "NSW",
+      "raceNumber": 1,
+      "raceGrade": "N/A",
+      "distance": 1000,
+      "horse": "OVERTOUX",
+      "trainerName": "Marcus O'Connor",
+      "spValue": null,
+      "spString": "",
+      "weight": 0,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 3,
+      "fieldSize": 5,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 5,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

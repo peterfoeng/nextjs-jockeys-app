@@ -1,0 +1,643 @@
+{
+  "venueInfo": {
+    "name": "Parkes",
+    "location": "",
+    "clubName": "Parkes",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Race 1 - 11:52AM COMMERCIAL HOTEL | KENNARDS HIRE MAIDEN PLATE (1400 METRES)",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "BON GHADA",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Natalie Pearce",
+          "barrier": "6",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FROSTY THE SHOWMAN",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": null,
+          "trainer": "Ian Holland",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THE BULLET",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Jim McMillan",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIERCE LUVA",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NORTOKO",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Bill Hayes",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FLAMEON",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Melissa Harrison",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISHPAT",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": null,
+          "trainer": "Dean Mirfin",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "MCPHERSON'S PARTS & SERVICE \"MEMPHIS MILE\" BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "HARDYO",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "6",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HUTT STREET",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "11",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JOSHUA",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "10",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIFFERENT ROAD",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Debbie Prest",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BILL PEYTO (IRE)",
+          "jockey": "Ms Grace Palmer",
+          "claimedWeight": 4,
+          "trainer": "Jane Clement",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INCANTATA",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BEG ME",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Kieren Hazelton",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FELIS",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "Wayne Martyn",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HASIME",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Melissa Harrison",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NAPOLI",
+          "jockey": "Ms Ashleigh Stanley",
+          "claimedWeight": null,
+          "trainer": "Kylie Kennedy",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "PARKES COURIER SERVICE | PFD FOODS CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "IN THE NIC OF TIME",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Todd Smart",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VASTLY",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BILLABONG ALVIN",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIRST CLASS BABY",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Connie Greig",
+          "barrier": "9",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NOTLEANORMEAN",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WE SHALL OVERCOME",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Gratz Vella",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWEET AND SOUR",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": null,
+          "trainer": "Trevor McIlrick",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PAMPUNI",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Kieren Hazelton",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INTENSE",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "Wayne Martyn",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "RAILWAY HOTEL | ORANGE VET HOSPITAL MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ARGYLE LAIRD",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Alison Smith",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BIG BAD BOB",
+          "jockey": "Ms Ellen Hennessy",
+          "claimedWeight": 0,
+          "trainer": "Terry J Fahey",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARY LE BONE",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Bill Hayes",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PLUCK ’N’ SPY",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Melissa Harrison",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RODEO DEALER",
+          "jockey": "Ms Ashleigh Stanley",
+          "claimedWeight": null,
+          "trainer": "Peter Kirby",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUPREME HONOURS",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Trevor McIlrick",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SPECTACULAR STAR",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": null,
+          "trainer": "Brett Thompson",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HAPPY GEE GEE",
+          "jockey": "Adrian Layt",
+          "claimedWeight": 0,
+          "trainer": "Melissa Harrison",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SPUNKY REWARD",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Melissa Harrison",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "TELESCOPE TYRES | PARKES REAL PROPERTY BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "MISS TORONADO",
+          "jockey": "Billy Owen",
+          "claimedWeight": 0,
+          "trainer": "Todd Smart",
+          "barrier": "4",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHARLIE MAGIC",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "11",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHICKEN LEGS",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Jane Clement",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLACKHILL KITTY",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ONE MORE THING",
+          "jockey": "Ms Ashleigh Stanley",
+          "claimedWeight": 0,
+          "trainer": "Alison Smith",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HOUDINI SPIRIT",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Cindy Monaghan",
+          "barrier": "2",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRESS GAZE",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": null,
+          "trainer": "Brett Thompson",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PROPHET TIME",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Gratz Vella",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ACOTANGO",
+          "jockey": "Ms Grace Palmer",
+          "claimedWeight": 4,
+          "trainer": "Jane Clement",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ADVISER",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "PARKES ELVIS FESTIVAL – ANNUALLY IN JANUARY BENCHMARK 50 HANDICAP",
+      "grade": "BenchMark 50, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "JADE DIVISION",
+          "jockey": "Dylan Stanley",
+          "claimedWeight": 2,
+          "trainer": "Brett Thompson",
+          "barrier": "3",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SIDENAY",
+          "jockey": "Ms Grace Palmer",
+          "claimedWeight": 4,
+          "trainer": "Jane Clement",
+          "barrier": "1",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BILLABONG ROSE",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": null,
+          "trainer": "Brett Thompson",
+          "barrier": "2",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOBBY’S SECRET",
+          "jockey": "Adrian Layt",
+          "claimedWeight": 0,
+          "trainer": "Melissa Harrison",
+          "barrier": "12",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MEMORIALISE",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Peter Kirby",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FRUIT OF DE VINE",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Angus Stewart",
+          "barrier": "13",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GAMOLINA",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOUD (NZ)",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Peter Reynolds",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOX OF CRACKERS",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOCKADENTE",
+          "jockey": "Ms Coriah Keatings",
+          "claimedWeight": 0,
+          "trainer": "Dennis Bush",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ST ROY",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

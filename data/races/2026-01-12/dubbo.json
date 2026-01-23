@@ -1,0 +1,885 @@
+{
+  "venueInfo": {
+    "name": "Dubbo",
+    "location": "",
+    "clubName": "Dubbo",
+    "date": "2026-01-12",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan12%2CNSW%2CDubbo&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "BEN WALKER & SARAH MASONWELLS APPRECIATION BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 2218,
+      "runners": [
+        {
+          "horse": "WILL TO EXCEL",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "James Ponsonby",
+          "barrier": "8",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DASH BY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "6",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DRUNKEN SAILOR (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "James Ponsonby",
+          "barrier": "2",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DUNEDIN",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Janelle Galea",
+          "barrier": "7",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TROPICANA’S CUBE",
+          "jockey": "Braith Nock",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHYLOCK",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Kathryn Cahill",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHEEKY SECRETS",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Wayne Martyn",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "ANDY SINGLE APPRECIATION BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1418,
+      "runners": [
+        {
+          "horse": "BURROWA",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Rob Potter",
+          "barrier": "5",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AWESOME TYCOON",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "6",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHADOW DANE",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Michael Mulholland",
+          "barrier": "2",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MACLEAY",
+          "jockey": "Ms Gabrielle Johnston",
+          "claimedWeight": 3,
+          "trainer": "Jane Clement",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DRUNKEN SAILOR (NZ)",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "James Ponsonby",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STARLINK",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Clint Lundholm",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS BARILOCHE",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COMMANDO JACK",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "David J Smith",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "MARTIN COLLINS AUSTRALIA COUNTRY BOOSTED MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1318,
+      "runners": [
+        {
+          "horse": "CASTRO (NZ)",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Kylie Kennedy",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CODONAS",
+          "jockey": "Nick Heywood",
+          "claimedWeight": 0,
+          "trainer": "Clint Lundholm",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KAHU",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STUCK IN THE GORGE",
+          "jockey": "Nick Palmer",
+          "claimedWeight": 2,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "1",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLACK NATURE",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Dar Lunn",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAGURTZ",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Scott Singleton",
+          "barrier": "10",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MR BAZZA",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VICIOUS RUMOUR",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Michael Mulholland",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZECCHINI",
+          "jockey": "Braith Nock",
+          "claimedWeight": 0,
+          "trainer": "Justin Drake",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SELLINYA",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Dar Lunn",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "INLAND PETROLEUM MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1018,
+      "runners": [
+        {
+          "horse": "BARON OF BUTTER",
+          "jockey": "Ken Dunbar",
+          "claimedWeight": 0,
+          "trainer": "Ashley Gibson",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REBEL FLYER",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Sharon Jeffries",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNOW DOG",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRAIGHT SOUTH",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Alex Martyn",
+          "barrier": "13",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THE CONTRACTOR",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "David J Smith",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEVILISH SUN",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Tim McIntosh",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JUSTO’S ROCKET",
+          "jockey": "Braith Nock",
+          "claimedWeight": 0,
+          "trainer": "Wayne Martyn",
+          "barrier": "12",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JUST JOAN",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Toby Pracey",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STAR WHISPERER",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Rodney Northam",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCATPAK",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Bernie Kelly",
+          "barrier": "11",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NICCOLINA",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Sarah McIlrick",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "DUBBO CITY & GILGANDRA TOYOTA CLASS 1 & MAIDEN PLATE",
+      "grade": "Class 1, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1618,
+      "runners": [
+        {
+          "horse": "ELITE POWER",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Michael Mulholland",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIMEROS",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Kylie Kennedy",
+          "barrier": "14",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STREET SKATER",
+          "jockey": "Ms Wendy Peel",
+          "claimedWeight": 0,
+          "trainer": "Wendy Peel",
+          "barrier": "15",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWIFT GUN",
+          "jockey": "Nick Heywood",
+          "claimedWeight": 0,
+          "trainer": "Danielle Seib",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YORKEL (NZ)",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Mark Jones",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JUST BREATHE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Joseph Craig",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SABATINA",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Michael Lynch",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TAKE THE CHANCE",
+          "jockey": "Ken Dunbar",
+          "claimedWeight": 0,
+          "trainer": "Michael Lynch",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VINO RAPIDO",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "3",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COBOCCO",
+          "jockey": "Braith Nock",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DISGRUNTLED",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LA CHAPARRON",
+          "jockey": "Ms Ashleigh Stanley",
+          "claimedWeight": null,
+          "trainer": "Alison Smith",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CALLE",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Jane Clement",
+          "barrier": "6",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TRUST A KITTY",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Cindy Monaghan",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOLDEN FAIRY",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    },
+    {
+      "title": "JOHN DE LYALL APPRECIATION BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1018,
+      "runners": [
+        {
+          "horse": "CUMBOOGLE",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Brett Thompson",
+          "barrier": "12",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OBSESSIVE NATURE",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Sharon Jeffries",
+          "barrier": "9",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRIEF STATEMENT",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Alison Smith",
+          "barrier": "5",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CROOK",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MINNEWATER",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Gayna Williams",
+          "barrier": "13",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WASTED DAYS",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "1",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRESS FORWARD",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANAMBLE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Damien Lane",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANNY PROSPECT",
+          "jockey": "Nick Heywood",
+          "claimedWeight": 0,
+          "trainer": "Todd Howlett",
+          "barrier": "10",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS CAPRICORN",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Connie Greig",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NOR NOR WEST",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Alex Martyn",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCK ’N’ REIGN",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Cassandra Stummer",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAN DO IT",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Alison Smith",
+          "barrier": "11",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "LOCAL SEARCH COUNTRY BOOSTED CLASS 2 HANDICAP",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1318,
+      "runners": [
+        {
+          "horse": "ROMANTIC LOVE",
+          "jockey": "Ms Izzy Neale",
+          "claimedWeight": 2,
+          "trainer": "Brett Robb",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SILENT ACE (NZ)",
+          "jockey": "Braith Nock",
+          "claimedWeight": 0,
+          "trainer": "Mack Griffith",
+          "barrier": "14",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOM VEGAS",
+          "jockey": "Mathew Cahill",
+          "claimedWeight": 0,
+          "trainer": "Dean Mirfin",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HANNAH’S BRIDGE",
+          "jockey": "Kody Nestor",
+          "claimedWeight": 0,
+          "trainer": "Derek Piper",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REGATTA",
+          "jockey": "Ms Chelsea Hillier",
+          "claimedWeight": 0,
+          "trainer": "Justin Drake",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NAFTALI",
+          "jockey": "Nick Palmer",
+          "claimedWeight": 2,
+          "trainer": "Brett & Georgie Cavanough",
+          "barrier": "15",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PODCAST",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Dar Lunn",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BATTLE REIGN",
+          "jockey": "Ms Grace Palmer",
+          "claimedWeight": 4,
+          "trainer": "John Collison",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RIVER ROGUE",
+          "jockey": "Jacob Stiff",
+          "claimedWeight": 3,
+          "trainer": "Cindy Monaghan",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BYLONG",
+          "jockey": "Ms Mikayla Weir",
+          "claimedWeight": 0,
+          "trainer": "Brett Robb",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YIASOU",
+          "jockey": "Jake Pracey-Holmes",
+          "claimedWeight": 0,
+          "trainer": "Brett Thompson",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STATE OF GRACE",
+          "jockey": "Ms Zoe Hunt",
+          "claimedWeight": 1.5,
+          "trainer": "Clint Lundholm",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DARK THINKER",
+          "jockey": "Ms Ashleigh Stanley",
+          "claimedWeight": 0,
+          "trainer": "Alison Smith",
+          "barrier": "12",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "READY FOR LIFT OFF",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Kylie Kennedy",
+          "barrier": "16",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOCKADENTE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Dennis Bush",
+          "barrier": "11",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    }
+  ]
+}

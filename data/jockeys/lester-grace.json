@@ -1,0 +1,44 @@
+{
+  "name": "Lester Grace",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-31",
+      "raceTitle": "Woodford Racing Club Life Members Maiden Plate",
+      "raceVenue": "Warrnambool",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2000,
+      "horse": "COWARRIE",
+      "trainerName": "Matt & Louise Cooper",
+      "spValue": 20,
+      "spString": "$20",
+      "weight": 59.5,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 6,
+      "fieldSize": 13,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 14,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Ms Tiffani Brooker",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-04",
+      "raceTitle": "M&T TYRES CLASS 1 & MAIDEN PLATE",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Class 1, Set Weights, Apprentices can claim.",
+      "distance": 2120,
+      "horse": "LOVE ’N’ GAMES",
+      "trainerName": "Natalie McCall",
+      "spValue": 7,
+      "spString": "$7",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 5,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 13,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-12-19",
+      "raceTitle": "CLH PLUMBING CHRISTMAS SPRINT BENCHMARK 82 HANDICAP",
+      "raceVenue": "Lismore",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 82, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1110,
+      "horse": "MIO SORRENTO",
+      "trainerName": "James Healy",
+      "spValue": 9.5,
+      "spString": "$9.50",
+      "weight": 55.5,
+      "claimedWeight": null,
+      "finishingPosition": 3,
+      "barrier": 2,
+      "fieldSize": 5,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 8,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "3-3",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

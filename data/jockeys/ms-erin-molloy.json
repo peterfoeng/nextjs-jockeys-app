@@ -1,0 +1,66 @@
+{
+  "name": "Ms Erin Molloy",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-26",
+      "raceTitle": "WELLINGTON SOLDIERS MEMORIAL CLUB BENCHMARK 50 HANDICAP",
+      "raceVenue": "Wellington",
+      "raceState": "NSW",
+      "raceNumber": 2,
+      "raceGrade": "BenchMark 50, Handicap, Minimum Weight 59kg, Apprentices can claim.",
+      "distance": 900,
+      "horse": "ZILLIONS",
+      "trainerName": "Sharon Jeffries",
+      "spValue": 8,
+      "spString": "$8",
+      "weight": 60,
+      "claimedWeight": 2,
+      "finishingPosition": 1,
+      "barrier": 3,
+      "fieldSize": 4,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 5,
+      "scratchedHorses": 1
+    },
+    {
+      "raceDate": "2025-12-26",
+      "raceTitle": "ELDERS INSURANCE WESTERN PLAINS CLASS 1 HANDICAP",
+      "raceVenue": "Wellington",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1100,
+      "horse": "THE HOFF",
+      "trainerName": "Wayne Martyn",
+      "spValue": 21,
+      "spString": "$21",
+      "weight": 53,
+      "claimedWeight": 2,
+      "finishingPosition": 2,
+      "barrier": 3,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 7,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 2,
+    "winRate": 0.5,
+    "placeRate": 1,
+    "daysSinceLastWin": 13,
+    "recentForm": "1-2",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

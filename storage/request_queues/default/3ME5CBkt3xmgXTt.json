@@ -1,0 +1,9 @@
+{
+  "id": "3ME5CBkt3xmgXTt",
+  "json": "{\"id\":\"3ME5CBkt3xmgXTt\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CGlen%20Innes\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CGlen%20Innes\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CGlen+Innes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.392Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CGlen+Innes",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CGlen%20Innes"
+}

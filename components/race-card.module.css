@@ -1,0 +1,21 @@
+.raceNumber {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--mantine-radius-lg);
+  background: var(--mantine-color-blue-6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.silkSquare {
+  width: 24px;
+  height: 24px;
+  border-radius: var(--mantine-radius-xs);
+}
+
+.participantRow:hover {
+  background: color-mix(in srgb, var(--mantine-color-default-hover) 20%, transparent);
+  transition: background-color 0.2s;
+}

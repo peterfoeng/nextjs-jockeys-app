@@ -1,0 +1,9 @@
+{
+  "id": "AGnEnCRU6bee3MB",
+  "json": "{\"id\":\"AGnEnCRU6bee3MB\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CCoffs%20Harbour\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CCoffs%20Harbour\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CCoffs+Harbour\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:46.189Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CCoffs+Harbour",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CCoffs%20Harbour"
+}

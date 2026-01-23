@@ -49,5 +49,18 @@
       "originalFieldSize": 15,
       "scratchedHorses": 4
     }
-  ]
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 2,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2-2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
 }

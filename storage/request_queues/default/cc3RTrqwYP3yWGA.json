@@ -1,9 +1,0 @@
-{
-	"id": "cc3RTrqwYP3yWGA",
-	"json": "{\"id\":\"cc3RTrqwYP3yWGA\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec27,WA,Esperance\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec27,WA,Esperance\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec27%2CWA%2CEsperance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:40.450Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec27%2CWA%2CEsperance",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec27,WA,Esperance"
-}

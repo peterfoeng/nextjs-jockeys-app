@@ -1,0 +1,132 @@
+{
+  "dateGenerated": "2026-01-08T23:20:50.144Z",
+  "jockeyCount": 399,
+  "averages": {
+    "winRate": 0.1,
+    "placeRate": 0.3
+  },
+  "topInFormJockeys": [
+    {
+      "name": "Ben Kennedy",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    },
+    {
+      "name": "Boris Thornton",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    },
+    {
+      "name": "Craig Kirkpatrick",
+      "winRate": 1,
+      "placeRate": 1,
+      "recentForm": "1-1"
+    },
+    {
+      "name": "Craig Staples",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-2"
+    },
+    {
+      "name": "Ms Catherine Masters",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2"
+    },
+    {
+      "name": "Ms Chelsea Baker",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "3"
+    },
+    {
+      "name": "Ms Danica Munro",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "2-2"
+    },
+    {
+      "name": "Ms Erin Molloy",
+      "winRate": 0.5,
+      "placeRate": 1,
+      "recentForm": "1-2"
+    },
+    {
+      "name": "Ms Jasmine Trenwith",
+      "winRate": 0.25,
+      "placeRate": 1,
+      "recentForm": "3-1-3-3"
+    },
+    {
+      "name": "Ms Jessica Booth",
+      "winRate": 0,
+      "placeRate": 1,
+      "recentForm": "3"
+    }
+  ],
+  "dueForWinJockeys": [
+    {
+      "name": "Patrick Carbery",
+      "daysSinceLastWin": 96,
+      "placeRate": 0.23,
+      "recentForm": "4-4-4-4-4"
+    },
+    {
+      "name": "Ms Sasha Starley",
+      "daysSinceLastWin": 95,
+      "placeRate": 0.25,
+      "recentForm": "4-X-X-X-X"
+    },
+    {
+      "name": "Ms Chloe Azzopardi",
+      "daysSinceLastWin": 92,
+      "placeRate": 0.32,
+      "recentForm": "4-8-2-7-7"
+    },
+    {
+      "name": "Bailey Webster",
+      "daysSinceLastWin": 89,
+      "placeRate": 0.24,
+      "recentForm": "7-X-6-X-6"
+    },
+    {
+      "name": "Joseph See",
+      "daysSinceLastWin": 88,
+      "placeRate": 0.25,
+      "recentForm": "X-X-6-X-X"
+    },
+    {
+      "name": "Ms Mollie Clark",
+      "daysSinceLastWin": 82,
+      "placeRate": 0.45,
+      "recentForm": "1-2-6-5-5"
+    },
+    {
+      "name": "Ms Kate Pateman",
+      "daysSinceLastWin": 75,
+      "placeRate": 0.29,
+      "recentForm": "6-6-8-X-3"
+    },
+    {
+      "name": "Ms Sharni Webster",
+      "daysSinceLastWin": 75,
+      "placeRate": 0.31,
+      "recentForm": "2-1-6-7-5"
+    },
+    {
+      "name": "Jai Williams",
+      "daysSinceLastWin": 30,
+      "placeRate": 0.2,
+      "recentForm": "7-1-8-4-6"
+    },
+    {
+      "name": "Beau Mertens",
+      "daysSinceLastWin": 28,
+      "placeRate": 0.64,
+      "recentForm": "2-X-2-5-4"
+    }
+  ]
+}

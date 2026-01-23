@@ -1,0 +1,66 @@
+{
+  "name": "Ms Georgina Cartwright",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-29",
+      "raceTitle": "TWEED VALLEY WEEKLY CLASS 1 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "BRAVE JET",
+      "trainerName": "Simon Foster",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 55,
+      "claimedWeight": null,
+      "finishingPosition": 10,
+      "barrier": 11,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 4
+    },
+    {
+      "raceDate": "2025-12-29",
+      "raceTitle": "HERITAGE BROTHERS FUNERAL SERVICES TWEED COAST CLASSIC BENCHMARK 58 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 7,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "ZIMBARA (NZ)",
+      "trainerName": "Darren Bell",
+      "spValue": 9.5,
+      "spString": "$9.50",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 4,
+      "barrier": 2,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 9
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-4",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

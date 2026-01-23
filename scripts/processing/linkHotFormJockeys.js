@@ -15,11 +15,15 @@ function ensureDir(dir) {
 }
 
 function loadAllJockeys() {
-  const jockeyFiles = fs.readdirSync(JOCKEY_DIR).filter(f => f.endsWith(".json"));
+  const jockeyFiles = fs
+    .readdirSync(JOCKEY_DIR)
+    .filter((f) => f.endsWith(".json"));
   const map = {};
   for (const file of jockeyFiles) {
     try {
-      const data = JSON.parse(fs.readFileSync(path.join(JOCKEY_DIR, file), "utf8"));
+      const data = JSON.parse(
+        fs.readFileSync(path.join(JOCKEY_DIR, file), "utf8"),
+      );
       map[data.name.toLowerCase()] = data;
     } catch (err) {
       console.warn("⚠️ Failed to parse jockey file:", file, err.message);
@@ -30,15 +34,17 @@ function loadAllJockeys() {
 
 function loadRaceFilesByDate() {
   const result = {};
-  const dateFolders = fs.readdirSync(RACES_DIR).filter(d => {
+  const dateFolders = fs.readdirSync(RACES_DIR).filter((d) => {
     const p = path.join(RACES_DIR, d);
     return fs.statSync(p).isDirectory();
   });
 
   for (const dateFolder of dateFolders) {
     const datePath = path.join(RACES_DIR, dateFolder);
-    const venueFiles = fs.readdirSync(datePath).filter(f => f.endsWith(".json"));
-    result[dateFolder] = venueFiles.map(v => path.join(datePath, v));
+    const venueFiles = fs
+      .readdirSync(datePath)
+      .filter((f) => f.endsWith(".json"));
+    result[dateFolder] = venueFiles.map((v) => path.join(datePath, v));
   }
 
   return result;
@@ -89,7 +95,7 @@ function processHotForm() {
               placeRate: jockey.derived?.placeRate ?? 0,
               daysSinceLastWin: jockey.derived?.daysSinceLastWin ?? null,
               streak: jockey.derived?.currentStreak ?? null,
-              rides: []
+              rides: [],
             };
           }
 
@@ -98,22 +104,25 @@ function processHotForm() {
             venue: venueName,
             raceTitle: race.raceTitle || race.title,
             horse: horse.horseName || horse.name || horse.horse,
-            odds
+            odds,
           });
         }
       }
     }
 
     const hotForm = Object.values(jockeyRides)
-      .filter(j => {
+      .filter((j) => {
         const inFormByRate = j.winRate >= 0.2 || j.placeRate >= 0.5;
-        const recentWin = j.daysSinceLastWin !== null && j.daysSinceLastWin <= 7;
+        const recentWin =
+          j.daysSinceLastWin !== null && j.daysSinceLastWin <= 7;
         const streaking = j.streak?.type === "win" && j.streak.count >= 2;
         return (inFormByRate || recentWin || streaking) && j.rides.length > 0;
       })
-      .map(j => {
+      .map((j) => {
         const bestOdds = Math.min(
-          ...j.rides.map(r => (typeof r.odds === "number" ? r.odds : Infinity))
+          ...j.rides.map((r) =>
+            typeof r.odds === "number" ? r.odds : Infinity,
+          ),
         );
         return { ...j, bestOdds };
       })
@@ -130,14 +139,17 @@ function processHotForm() {
     const dateOutput = path.join(dateDir, "hotForm.json");
     fs.writeFileSync(dateOutput, JSON.stringify(hotForm, null, 2));
 
-    console.log(`✅ ${date}: ${hotForm.length} in-form jockeys → ${dateOutput}`);
+    console.log(
+      `✅ ${date}: ${hotForm.length} in-form jockeys → ${dateOutput}`,
+    );
 
-    globalResults.push(...hotForm.map(j => ({ ...j, raceDate: date })));
+    globalResults.push(...hotForm.map((j) => ({ ...j, raceDate: date })));
   }
 
   const combined = globalResults
     .sort((a, b) => {
-      if (a.raceDate !== b.raceDate) return a.raceDate.localeCompare(b.raceDate);
+      if (a.raceDate !== b.raceDate)
+        return a.raceDate.localeCompare(b.raceDate);
       if (a.bestOdds !== b.bestOdds) return a.bestOdds - b.bestOdds;
       return b.winRate - a.winRate;
     })

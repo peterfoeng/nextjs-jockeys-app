@@ -1,0 +1,875 @@
+{
+  "venueInfo": {
+    "name": "Kembla Grange",
+    "location": "",
+    "clubName": "Kembla Grange",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CNSW%2CKembla%20Grange&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "BLINKY'S BIRTHDAY DASH MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "LOPE DE FORTUNE",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "5",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CARAFE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ALL SAINTS",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "13",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ECLATER",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Stephen O'Halloran",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AT HER MERCY",
+          "jockey": "Shaun Guymer",
+          "claimedWeight": 0,
+          "trainer": "David Pfieffer",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CINCERITAS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jason Attard",
+          "barrier": "14",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NUNS CHORUS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Richard Litt",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PAZYRYK",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROMANCASTLE",
+          "jockey": "Ms Louise Day",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANDHE’S BRAVE",
+          "jockey": "Chad Lever",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INFANT WARRIOR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Marc & Mitchell Conners",
+          "barrier": "12",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAJESTIC LEGEND",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Les Bridge",
+          "barrier": "11",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MEDITERRA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "10",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VINGT NEUF NOIR",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 14,
+      "scratched": 0
+    },
+    {
+      "title": "DEAN GROUP MIDWAY MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1500,
+      "runners": [
+        {
+          "horse": "ATTESTOR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jason Attard",
+          "barrier": "14",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CATHEDRAL COVE",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 1.5,
+          "trainer": "Edward Cummings",
+          "barrier": "15",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DON’S PARTY",
+          "jockey": "Andrew Calder",
+          "claimedWeight": 0,
+          "trainer": "Paul & Martha Cave",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STOCK ROAD",
+          "jockey": "Ms Louise Day",
+          "claimedWeight": null,
+          "trainer": "Gregory Hickman",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "YESGLENN",
+          "jockey": "Ms Olivia Chambers",
+          "claimedWeight": 2,
+          "trainer": "John Steinmetz",
+          "barrier": "11",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLAZING STATEMENT",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Nikki Hodgson",
+          "barrier": "12",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHIEF ORATOR",
+          "jockey": "Chad Lever",
+          "claimedWeight": 0,
+          "trainer": "Craig Carmody",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WORMINGTON",
+          "jockey": "Shaun Guymer",
+          "claimedWeight": 0,
+          "trainer": "Ross McConville",
+          "barrier": "10",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JEWEL COUNTY (NZ)",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Jarrod Austin",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MERITAGE",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Bryce Heys",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANJUSTIFY",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Richard Litt",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LA MORRA",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "2",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OLE’S DIVA",
+          "jockey": "Mitch Stapleford",
+          "claimedWeight": 2,
+          "trainer": "John Sargent",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SWEET TWILIGHT",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INVINCIBLE VECCHIO",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Joseph Ible",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    },
+    {
+      "title": "MATT SMITH BENCHMARK 64 HANDICAP",
+      "grade": "BenchMark 64, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 2400,
+      "runners": [
+        {
+          "horse": "FINAL RESET",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MR FABULOUS",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OLD GREGG (NZ)",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GATCHAN",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 3,
+          "trainer": "Norm Gardner",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STAY TUNED",
+          "jockey": "Andrew Calder",
+          "claimedWeight": 0,
+          "trainer": "Paul & Martha Cave",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISSION BRAVO",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 1.5,
+          "trainer": "Adam Duggan",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POWERFUL PRAYER",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WINNING POINT",
+          "jockey": "Chad Lever",
+          "claimedWeight": 0,
+          "trainer": "Paul Murray",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KONING",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "KENNARDS HIRE PROVINCIAL BENCHMARK 64 HANDICAP",
+      "grade": "BenchMark 64, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "APOLLO MISSION",
+          "jockey": "Ryan Bradley",
+          "claimedWeight": 3,
+          "trainer": "Mitchell Beer & George Carpenter",
+          "barrier": "7",
+          "weight": "63.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SATNESS (NZ)",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 3,
+          "trainer": "Robert & Luke Price",
+          "barrier": "4",
+          "weight": "62",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HYDROMETER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tracey Bartley",
+          "barrier": "3",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AUDENZIA",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Diane Poidevin Laine",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "IVANA",
+          "jockey": "Mitch Stapleford",
+          "claimedWeight": 2,
+          "trainer": "Edward O'Rourke",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUBAN CIGAR",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Tracey Bartley",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KEN’KER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUBAN RAIN",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "5",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EGYPITIAN’S REWARD",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Joseph Ible",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VICTORY AT OMAHA",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "WOLLONGONG CRANE TRUCKS CONDITIONAL BENCHMARK 68 HANDICAP",
+      "grade": "BenchMark 68, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "EXTRAVAGANT CHOICE",
+          "jockey": "Ms Louise Day",
+          "claimedWeight": 0,
+          "trainer": "Nick Olive",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCORCHED LANE",
+          "jockey": "Jeff Penza",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DARK VADOR",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WHACK ATTACK",
+          "jockey": "Zac Wadick",
+          "claimedWeight": 1.5,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEVINE OUTCAST",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAH ALI",
+          "jockey": "Pierre Boudvillain",
+          "claimedWeight": 0,
+          "trainer": "Diane Poidevin Laine",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUTHERN SKY",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIP TOP TIMING",
+          "jockey": "Ms Deanne Panya",
+          "claimedWeight": 0,
+          "trainer": "Clarry Conners",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNWRITTEN",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 1.5,
+          "trainer": "Gregory Hickman",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "ILLAWARRA PRODUCTION SERVICES SUPER MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "COLD MIST",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Paul Murray",
+          "barrier": "9",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DON’T",
+          "jockey": "Ms Jess Taylor",
+          "claimedWeight": 0,
+          "trainer": "Jason Coyle",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MY STAR",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 1.5,
+          "trainer": "Craig Carmody",
+          "barrier": "12",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INVINCIBLE VECCHIO",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Joseph Ible",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WATSON",
+          "jockey": "Zac Wadick",
+          "claimedWeight": 1.5,
+          "trainer": "Gai Waterhouse & Adrian Bott",
+          "barrier": "11",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS BUGATTI",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "APERITAS",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "5",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIVINE TIMING",
+          "jockey": "Andrew Calder",
+          "claimedWeight": 0,
+          "trainer": "Richard Collett",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARK OF GLORY",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCKTHEVELIO",
+          "jockey": "Ms Louise Day",
+          "claimedWeight": 0,
+          "trainer": "David Pfieffer",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "PAUL LOVESMAN CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 56kg, Weight Raised 1kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "ARISTOCRAT",
+          "jockey": "Jeff Penza",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPTIVATING TYCOON",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIPPOLYTE ROCK",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Paul Murray",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LI’L GRUG",
+          "jockey": "Grant Buckley",
+          "claimedWeight": 0,
+          "trainer": "Diane Poidevin Laine",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIVA LAS VEGAS",
+          "jockey": "Will Price",
+          "claimedWeight": 0,
+          "trainer": "Michael Freedman",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ATTRACTIVENESS (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CRIMSON WINGS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUBAN CIGAR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tracey Bartley",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GRAINNE",
+          "jockey": "Mitchell Bell",
+          "claimedWeight": 0,
+          "trainer": "Les Bridge",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEEP EMOTION",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FIRE ’N’ STONE",
+          "jockey": "Ms Mollie Fitzgerald",
+          "claimedWeight": 1.5,
+          "trainer": "Annabel & Rob Archibald",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

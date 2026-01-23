@@ -1,0 +1,11 @@
+.hero {
+  position: relative;
+  background: linear-gradient(to bottom, var(--mantine-color-default), var(--mantine-color-body));
+  padding: 2rem 0;
+}
+
+@media (min-width: 768px) {
+  .hero {
+    padding: 3rem 0;
+  }
+}

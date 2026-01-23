@@ -1,0 +1,9 @@
+{
+  "id": "ubbbty9pg6upn5W",
+  "json": "{\"id\":\"ubbbty9pg6upn5W\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CWagga\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CWagga\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CWagga\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:46.844Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CWagga",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CWagga"
+}

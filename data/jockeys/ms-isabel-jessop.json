@@ -1,0 +1,66 @@
+{
+  "name": "Ms Isabel Jessop",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-26",
+      "raceTitle": "INVERELL SPORTIES BENCHMARK 58 HANDICAP",
+      "raceVenue": "Inverell",
+      "raceState": "NSW",
+      "raceNumber": 4,
+      "raceGrade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "FIELD AGENT",
+      "trainerName": "Stephanie Sixtus",
+      "spValue": 10,
+      "spString": "$10",
+      "weight": 53,
+      "claimedWeight": 2,
+      "finishingPosition": 5,
+      "barrier": 1,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 7,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-12-26",
+      "raceTitle": "INVERELL FORD MAIDEN PLATE",
+      "raceVenue": "Inverell",
+      "raceState": "NSW",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1050,
+      "horse": "MISTER TUDOR",
+      "trainerName": "Leigh-Ann Derecourt",
+      "spValue": 3,
+      "spString": "$3",
+      "weight": 57,
+      "claimedWeight": 2,
+      "finishingPosition": 1,
+      "barrier": 1,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Soft 5",
+      "originalFieldSize": 8,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
+    "daysSinceLastWin": 13,
+    "recentForm": "5-1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

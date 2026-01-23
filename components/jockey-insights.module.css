@@ -1,0 +1,71 @@
+.insightCard {
+  background: var(--mantine-color-default-hover);
+  border: 1px solid color-mix(in srgb, var(--mantine-color-default-border) 50%, transparent);
+  border-radius: var(--mantine-radius-md);
+  padding: var(--mantine-spacing-md);
+  transition: all 0.2s;
+}
+
+.insightCard:hover {
+  background: color-mix(in srgb, var(--mantine-color-default-hover) 80%, var(--mantine-color-default));
+  border-color: color-mix(in srgb, var(--mantine-color-blue-6) 50%, transparent);
+  cursor: pointer;
+}
+
+.insightCardNonClickable {
+  background: var(--mantine-color-default-hover);
+  border: 1px solid color-mix(in srgb, var(--mantine-color-default-border) 50%, transparent);
+  border-radius: var(--mantine-radius-md);
+  padding: var(--mantine-spacing-md);
+}
+
+.headerContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: var(--mantine-spacing-sm);
+}
+
+.formBarContainer {
+  display: flex;
+  gap: 2px;
+  height: 8px;
+  border-radius: 9999px;
+  overflow: hidden;
+  background: var(--mantine-color-default);
+}
+
+.formBarWin {
+  background: var(--mantine-color-blue-6);
+  height: 100%;
+  transition: all 0.2s;
+}
+
+.formBarPlace {
+  background: var(--mantine-color-cyan-6);
+  height: 100%;
+  transition: all 0.2s;
+}
+
+.lastWinSection {
+  background: color-mix(in srgb, var(--mantine-color-body) 50%, transparent);
+  border-radius: var(--mantine-radius-sm);
+  padding: 10px;
+  margin-bottom: var(--mantine-spacing-sm);
+}
+
+.trainerGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--mantine-spacing-xs);
+}
+
+.trainerRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.twoColSpan {
+  grid-column: span 2;
+}

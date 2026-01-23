@@ -1,0 +1,9 @@
+{
+  "id": "NUBk7JCxXI6lRuW",
+  "json": "{\"id\":\"NUBk7JCxXI6lRuW\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.086Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CGatton"
+}

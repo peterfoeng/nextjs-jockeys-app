@@ -1,0 +1,66 @@
+{
+  "name": "Cameron Quilty",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-18",
+      "raceTitle": "Yarran Maiden Plate",
+      "raceVenue": "bet365 Seymour",
+      "raceState": "VIC",
+      "raceNumber": 5,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1300,
+      "horse": "SHE’S ELUSIVE",
+      "trainerName": "Saab Hasan",
+      "spValue": 8.5,
+      "spString": "$8.50",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 1,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 17,
+      "scratchedHorses": 7
+    },
+    {
+      "raceDate": "2025-12-10",
+      "raceTitle": "Sportsbet BlackBook Plate",
+      "raceVenue": "Sportsbet Sandown Lakeside",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "SHE’S ELUSIVE",
+      "trainerName": "Saab Hasan",
+      "spValue": 201,
+      "spString": "$201",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 11,
+      "barrier": 7,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "X-9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

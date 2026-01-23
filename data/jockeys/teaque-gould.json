@@ -1,0 +1,44 @@
+{
+  "name": "Teaque Gould",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-31",
+      "raceTitle": "STROUD HOMES MAIDEN PLATE",
+      "raceVenue": "Nowra",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1600,
+      "horse": "SIR TUA (NZ)",
+      "trainerName": "Richard & Will Freedman",
+      "spValue": 17,
+      "spString": "$17",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 8,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 13,
+      "scratchedHorses": 2
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 1,
+    "totalPlaces": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 8,
+    "recentForm": "1",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
+}

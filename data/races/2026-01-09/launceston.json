@@ -1,0 +1,777 @@
+{
+  "venueInfo": {
+    "name": "Launceston",
+    "location": "",
+    "clubName": "Launceston",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CTAS%2CLaunceston&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Ladbrokes Launceston Cup Day Wednesday 25th February 2YO Hcp",
+      "grade": "Handicap, Minimum Weight 55kg, Two-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "ARISTOPOLOS",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING CANDY",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "Graeme McCulloch",
+          "barrier": "7",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MOMENTSLIKETHESE",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OLINDAH",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "Logan McGill",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRECIOUS ILLUSION",
+          "jockey": "Troy Baker",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "5",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOO POETIC",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 6,
+      "scratched": 0
+    },
+    {
+      "title": "House of Arras Corporate Marquee Cup Day Maiden",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "DAD SAID YES",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DARK WINTER",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Graeme McCulloch",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VINRAAM",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Brendan McShane",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZUVELA",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "Graeme McCulloch",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COLLEEN’S CROWN",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Sarah Cotton",
+          "barrier": "3",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOMMERREGEN",
+          "jockey": "Ms Lizzie Annells",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "6",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIGERS ON TOP",
+          "jockey": "Ms Lauryn Bingley",
+          "claimedWeight": 1.5,
+          "trainer": "Barry Baker",
+          "barrier": "11",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VANSITTART",
+          "jockey": "Ms Chloe Wells",
+          "claimedWeight": 0,
+          "trainer": "Barry Baker",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BAD ALIBI",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REDAIR",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "Ladbrokes Punters Marquee Maiden",
+      "grade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CALLED THROUGH",
+          "jockey": "Ms Lizzie Annells",
+          "claimedWeight": 0,
+          "trainer": "Alana Fulton",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DARK NIGHT",
+          "jockey": "Ms Lauryn Bingley",
+          "claimedWeight": 1.5,
+          "trainer": "John Blacker",
+          "barrier": "14",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INFRINGEMENT (NZ)",
+          "jockey": "Ms Georgie Catania",
+          "claimedWeight": 0,
+          "trainer": "John Keys",
+          "barrier": "9",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NO SURPRISES",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "Stephen Lockhart",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SURF SOUL",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "Dylan Clark",
+          "barrier": "15",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FAVOURITE DEPUTY",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FRENCH SOUL",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Gaetan Delon",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VORTISTAR",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "Adam Trinder",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SEDITIOUS AWARD",
+          "jockey": "Ms Chloe Wells",
+          "claimedWeight": 0,
+          "trainer": "Peter Luttrell",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TALL TALES",
+          "jockey": "Troy Baker",
+          "claimedWeight": null,
+          "trainer": "Sarah Cotton",
+          "barrier": "4",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "A QUEENS BUZZ",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "11",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISS MABEL",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Patrick Dargan",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NATALDI",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Graeme McCulloch",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "Ladbrokes Spring Hosted Pots BM60 Hcp",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "ROYAL DISPATCH (NZ)",
+          "jockey": "Ms Kirra-Lee Lane",
+          "claimedWeight": 4,
+          "trainer": "Ashley Meaburn",
+          "barrier": "6",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LINDRUM",
+          "jockey": "Troy Baker",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "5",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MONTEZULU",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TASSIE POWER",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "8",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CORSA VELOCE",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAUNNIE NIGHTS",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "John Blacker",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SKY EAGLE",
+          "jockey": "Ms Lauryn Bingley",
+          "claimedWeight": 1.5,
+          "trainer": "John Blacker",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VALIANT KHAN",
+          "jockey": "Ms Chloe Wells",
+          "claimedWeight": 0,
+          "trainer": "Peter Luttrell",
+          "barrier": "14",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOONICAN (IRE)",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TAHITIAN WARRIOR (NZ)",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Peter Luttrell",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WILLINGLY",
+          "jockey": "Ms Georgie Catania",
+          "claimedWeight": 0,
+          "trainer": "Brendan McShane",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "BWS C1 Hcp",
+      "grade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "OUR PEPMENARTIE",
+          "jockey": "Ms Shayleigh Ingelse",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "8",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GEEGEES DOWNPOUR",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROUNDLE PARK",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OBVIOUSLY GOOD",
+          "jockey": "Troy Baker",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THEM’S THE BREAKS",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "Monica Ryan",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAST TREMBLE",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "9",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THE PIRATE QUEEN",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Terence Evans",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ICE CRYSTAL",
+          "jockey": "Ms Georgie Catania",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "11",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZULU FIELDS",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "Patrick Dargan",
+          "barrier": "3",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WILD NIGHTS",
+          "jockey": "Ms Chloe Wells",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "4",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "The Agency BM60 Hcp",
+      "grade": "BenchMark 60, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "HIGH TAIL EAGLE",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ETHICAL DILEMMA",
+          "jockey": "Ms Kirra-Lee Lane",
+          "claimedWeight": 4,
+          "trainer": "Peter Luttrell",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SANDUAL",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GEEGEES LEGACY",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Stuart Gandy",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NAZORIAN",
+          "jockey": "Ms Lauryn Bingley",
+          "claimedWeight": 1.5,
+          "trainer": "Mark Ganderton",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "I’M KEEFE",
+          "jockey": "Stan Tsaikos",
+          "claimedWeight": 0,
+          "trainer": "Brendan McShane",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POWER MAGNUM",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPABELLE",
+          "jockey": "Ms Lizzie Annells",
+          "claimedWeight": 0,
+          "trainer": "Patrick Dargan",
+          "barrier": "10",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Westbury Cricket Club Class 6",
+      "grade": "Class 6, Set Weights, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "IN THE OCEAN",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": null,
+          "trainer": "Sarah Cotton",
+          "barrier": "6",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WHEELING",
+          "jockey": "Ms Lauryn Bingley",
+          "claimedWeight": null,
+          "trainer": "Graeme McCulloch",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JAGUAR STONE",
+          "jockey": "Ms Erica Byrne Burke",
+          "claimedWeight": 0,
+          "trainer": "Adam Trinder",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MS TASMANIA",
+          "jockey": "Troy Baker",
+          "claimedWeight": 0,
+          "trainer": "Sigrid Carr",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SILVER DAGGER",
+          "jockey": "Bulent Muhcu",
+          "claimedWeight": 0,
+          "trainer": "Jessie Bazan",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Art Hotel BM64 Hcp Fillies & Mares",
+      "grade": "BenchMark 64, Handicap, Minimum Weight 55kg, Fillies and Mares, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "TAS",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "WHIPPIN PICCADILLY",
+          "jockey": "Jabez Johnstone",
+          "claimedWeight": 1.5,
+          "trainer": "Leanne Gaffney",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BAYBOUGG",
+          "jockey": "Ms Lauren Burke",
+          "claimedWeight": 2,
+          "trainer": "John Blacker",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WITHIN SIGHT",
+          "jockey": "David Pires",
+          "claimedWeight": 0,
+          "trainer": "John Blacker",
+          "barrier": "2",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HUBUBBAJAHN",
+          "jockey": "Anthony Darmanin",
+          "claimedWeight": 0,
+          "trainer": "Brendan McShane",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 4,
+      "scratched": 0
+    }
+  ]
+}

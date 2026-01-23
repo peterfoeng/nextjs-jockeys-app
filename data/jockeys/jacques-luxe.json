@@ -1,0 +1,44 @@
+{
+  "name": "Jacques Luxe",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-19",
+      "raceTitle": "Reed Cranes & Haulage 3YO Fillies Maiden Plate",
+      "raceVenue": "Southside Cranbourne",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old, Fillies, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "HEAD BOBBER",
+      "trainerName": "Ricardo Meunier",
+      "spValue": 151,
+      "spString": "$151",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 7,
+      "fieldSize": 9,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 12,
+      "scratchedHorses": 3
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

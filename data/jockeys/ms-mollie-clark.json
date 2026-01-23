@@ -466,6 +466,41 @@
       "trackCondition": "Good 3",
       "originalFieldSize": 10,
       "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-12-11",
+      "raceTitle": "TABTOUCH SHARE MY BET HANDICAP",
+      "raceVenue": "Pinjarra Park",
+      "raceState": "WA",
+      "raceNumber": 5,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 54kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "GANGGAJANG",
+      "trainerName": "Steele Casey",
+      "spValue": 18,
+      "spString": "$18",
+      "weight": 58,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 4,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 10,
+      "scratchedHorses": 0
     }
-  ]
+  ],
+  "derived": {
+    "totalRides": 22,
+    "totalWins": 4,
+    "totalPlaces": 10,
+    "winRate": 0.18,
+    "placeRate": 0.45,
+    "daysSinceLastWin": 82,
+    "recentForm": "1-2-6-5-5",
+    "currentStreak": {
+      "type": "win",
+      "count": 1
+    }
+  }
 }

@@ -1,0 +1,38 @@
+.header {
+  background: var(--mantine-color-body);
+  border-bottom: 1px solid var(--mantine-color-default-border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.logoContainer {
+  text-decoration: none;
+}
+
+.logoIcon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--mantine-radius-md);
+  background: var(--mantine-color-blue-6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoEmoji {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.navButton {
+  text-decoration: none;
+}
+
+.navButtonActive {
+  color: var(--mantine-color-text);
+}
+
+.navButtonInactive {
+  color: var(--mantine-color-dimmed);
+}

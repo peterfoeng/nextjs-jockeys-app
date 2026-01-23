@@ -1,0 +1,66 @@
+{
+  "name": "Craig Kirkpatrick",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-13",
+      "raceTitle": "The Thank you Laurie Tennant Maiden Plate",
+      "raceVenue": "Healesville",
+      "raceState": "VIC",
+      "raceNumber": 2,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1650,
+      "horse": "GEMMA NASCOSTA",
+      "trainerName": "Stacey Kirkpatrick",
+      "spValue": 4.8,
+      "spString": "$4.80",
+      "weight": 65,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 8,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 8,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2025-12-13",
+      "raceTitle": "The Nicholas Peachley Cambridge Scholarship Fund Open Trophy",
+      "raceVenue": "Healesville",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "N/A",
+      "distance": 2350,
+      "horse": "MASH AND GRAVY",
+      "trainerName": "Reece Goodwin",
+      "spValue": 2.9,
+      "spString": "$2.90F",
+      "weight": 64.5,
+      "claimedWeight": null,
+      "finishingPosition": 1,
+      "barrier": 3,
+      "fieldSize": 6,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 6,
+      "scratchedHorses": 0
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 2,
+    "totalPlaces": 2,
+    "winRate": 1,
+    "placeRate": 1,
+    "daysSinceLastWin": 26,
+    "recentForm": "1-1",
+    "currentStreak": {
+      "type": "win",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GBGifu9AtxuX6xq",
+  "json": "{\"id\":\"GBGifu9AtxuX6xq\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:45.057Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CParkes"
+}

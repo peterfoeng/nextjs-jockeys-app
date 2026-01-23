@@ -1,0 +1,767 @@
+{
+  "venueInfo": {
+    "name": "Ballina",
+    "location": "",
+    "clubName": "Ballina",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CNSW%2CBallina&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "TAB COUNTRY BOOSTED CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 56.5kg, Weight Raised 1.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1265,
+      "runners": [
+        {
+          "horse": "PATRIOTICINTENTION",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Samantha McGuren",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZAINDARA",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MANHATTAN DRESS",
+          "jockey": "Jai Williams",
+          "claimedWeight": 0,
+          "trainer": "Stephen Lee",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANOTHER WISH",
+          "jockey": "Jon Grisedale",
+          "claimedWeight": 0,
+          "trainer": "John Shelton",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FERRY ROAD",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "Leo Clapham",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MOANA KOHALA (NZ)",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "John Shelton",
+          "barrier": "2",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NO RAGRETS",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Carolyn Halliday",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "NBN NEWS COUNTRY BOOSTED MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1015,
+      "runners": [
+        {
+          "horse": "MR HOT STEPPER",
+          "jockey": "Ms Jodi Worley",
+          "claimedWeight": 0,
+          "trainer": "Daniel Stanley",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUTHAMPTON FLARE",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DANCE GAVIN DANCE",
+          "jockey": "Danny Peisley",
+          "claimedWeight": 0,
+          "trainer": "Owen Glue",
+          "barrier": "7",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUCK OF THE DRAW",
+          "jockey": "Jai Williams",
+          "claimedWeight": 0,
+          "trainer": "Stephen Lee",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CIANWOOD CITY",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Shane Everson",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TERZIMA",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Carolyn Halliday",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AUSTRALASIA",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Daniel S Bowen",
+          "barrier": "9",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COSMIC FUN",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Andrew Parramore",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "FRANGIPANI SKIN & MEDISPA CLASS 1 HANDICAP",
+      "grade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1015,
+      "runners": [
+        {
+          "horse": "EXTREME SPIRIT",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "3",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AQUATIER",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Gary Doughty",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DARLING TAKE CARE",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Marcus Wilson",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ELRONTE",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "10",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CALL TO COURAGE",
+          "jockey": "Luke Rolls",
+          "claimedWeight": null,
+          "trainer": "Toby Edmonds",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NASDAQ DUBAI",
+          "jockey": "Jasen Watkins",
+          "claimedWeight": 0,
+          "trainer": "David Matts",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PICUPSTIXX",
+          "jockey": "Dylan Turner",
+          "claimedWeight": 0,
+          "trainer": "Wayne Lawson",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "MANCAVE BALLINA FAIR MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1265,
+      "runners": [
+        {
+          "horse": "DUBIOUS ROSE (NZ)",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "12",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SARAH’S SONNETS",
+          "jockey": "Nozi Tomizawa",
+          "claimedWeight": 0,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AVARIELLA",
+          "jockey": "Dylan Turner",
+          "claimedWeight": 0,
+          "trainer": "Renita Beaton",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ESPADA ROPERA",
+          "jockey": "Danny Peisley",
+          "claimedWeight": 0,
+          "trainer": "Chris Waller",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ARABIAN LEGACY",
+          "jockey": "Raymond Spokes",
+          "claimedWeight": 0,
+          "trainer": "Stephen Bennett",
+          "barrier": "6",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JOANJETT",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "11",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NAVY SLIPPERS",
+          "jockey": "Damien Boutet",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "1",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEROXIDE",
+          "jockey": "Ben Looker",
+          "claimedWeight": null,
+          "trainer": "Ciaron Maher",
+          "barrier": "4",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SATURDAYS GIRL",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Chris Waller",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOUND THE BUGLE",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 3,
+          "trainer": "Olivia Cairns",
+          "barrier": "13",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "VIRTUAL GOLF CENTRE BALLINA CLASS 3 BENCHMARK 66 HANDICAP",
+      "grade": "Class 3, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1015,
+      "runners": [
+        {
+          "horse": "EAGLE HAWK STAR",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 3,
+          "trainer": "Jordan Lee",
+          "barrier": "5",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOAMBEE BEACH",
+          "jockey": "Grady Spokes",
+          "claimedWeight": 2,
+          "trainer": "Brett Bellamy",
+          "barrier": "1",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TWIN TELEPATHY",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Peter Sinclair",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "IMMORTALITY",
+          "jockey": "Dylan Turner",
+          "claimedWeight": 0,
+          "trainer": "Jordan Lee",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POSEIDON’S SON",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dunn",
+          "barrier": "3",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EAGLE’S FIRE",
+          "jockey": "Nozi Tomizawa",
+          "claimedWeight": 0,
+          "trainer": "Shirley Batten",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BACK ON DE QUO",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Stephen Lee",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KIRRA’S SISTER",
+          "jockey": "Jai Williams",
+          "claimedWeight": 0,
+          "trainer": "Jordan Lee",
+          "barrier": "9",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUPERSONIC MAN (GB)",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "10",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INSPIRED DREAM",
+          "jockey": "Ben Looker",
+          "claimedWeight": null,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "HARTLEYS FRESH MARKET BALLINA FAIR BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1920,
+      "runners": [
+        {
+          "horse": "MISHANI REACTOR",
+          "jockey": "Mitch Goring",
+          "claimedWeight": 2,
+          "trainer": "Beau Gorman",
+          "barrier": "1",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAD ANA",
+          "jockey": "Grady Spokes",
+          "claimedWeight": 2,
+          "trainer": "Michael Morrison",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BORN TO BE ALIVE",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Allan Chau",
+          "barrier": "12",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOKUDEN",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Greg Cornish",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HARRIET (NZ)",
+          "jockey": "Dylan Turner",
+          "claimedWeight": null,
+          "trainer": "Stephen Lee",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRAVE DEEL",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Peter Rickards",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QUALITY MISS",
+          "jockey": "Andrew Mallyon",
+          "claimedWeight": null,
+          "trainer": "Diane Murphy",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAMPKIN LANE (NZ)",
+          "jockey": "Noriyuki Masuda",
+          "claimedWeight": 0,
+          "trainer": "Shane Everson",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOOGAZ",
+          "jockey": "Ms Amelia Heinrich",
+          "claimedWeight": 3,
+          "trainer": "Olivia Cairns",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "100.9 ZZZFM CLASS 2 HANDICAP",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1415,
+      "runners": [
+        {
+          "horse": "FLYING ARGENTO",
+          "jockey": "Jaden Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Ben Hull",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EXPLOSIVE POWER (NZ)",
+          "jockey": "Grady Spokes",
+          "claimedWeight": 2,
+          "trainer": "Allan Chau",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CALL OUT",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Adam Campton",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INQUISITOR",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Ray Dart",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MISHANI SUSPECT",
+          "jockey": "Ms Olivia Kendal",
+          "claimedWeight": 0,
+          "trainer": "Beau Gorman",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GERRY’S PICK",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Jeff Dunn",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COCO JEWEL",
+          "jockey": "Nozi Tomizawa",
+          "claimedWeight": 0,
+          "trainer": "Shirley Batten",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LINDA’S MAGIC",
+          "jockey": "Karl Zechner",
+          "claimedWeight": 0,
+          "trainer": "Garry Schwenke",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "BALLINA RSL BENCHMARK 58 HANDICAP",
+      "grade": "BenchMark 58, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1605,
+      "runners": [
+        {
+          "horse": "SPICY WINGS (NZ)",
+          "jockey": "Ms Jett Newman",
+          "claimedWeight": 1.5,
+          "trainer": "Matthew Dunn",
+          "barrier": "11",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAGIC IN ME",
+          "jockey": "Jaden Lloyd",
+          "claimedWeight": 0,
+          "trainer": "Garry Schwenke",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GIDDY GAN’S JOY",
+          "jockey": "Luke Rolls",
+          "claimedWeight": 0,
+          "trainer": "Simon Foster",
+          "barrier": "3",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GIAPPONESE",
+          "jockey": "Jai Williams",
+          "claimedWeight": 0,
+          "trainer": "Stephen Lee",
+          "barrier": "6",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BETA BETTER",
+          "jockey": "Nozi Tomizawa",
+          "claimedWeight": 0,
+          "trainer": "Tom Cowan",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "QUICK SHOT",
+          "jockey": "Ben Looker",
+          "claimedWeight": 0,
+          "trainer": "Kim Loy",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HE’S VIRAL (NZ)",
+          "jockey": "Ms Olivia Kendal",
+          "claimedWeight": 0,
+          "trainer": "Greg Wright",
+          "barrier": "5",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    }
+  ]
+}

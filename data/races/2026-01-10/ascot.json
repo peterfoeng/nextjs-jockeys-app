@@ -1,0 +1,1089 @@
+{
+  "venueInfo": {
+    "name": "Ascot",
+    "location": "",
+    "clubName": "Ascot",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CWA%2CAscot&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "TABTOUCH - WESTSPEED PLATINUM HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "BRAVE CONTENDER",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Angela Smith",
+          "barrier": "8",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GIFT OF THE HEART",
+          "jockey": "Austin Galati",
+          "claimedWeight": 0,
+          "trainer": "Roy Rogers",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOVA SESSION",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Adam Durrant",
+          "barrier": "10",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "IMPRESSIVE JEWEL",
+          "jockey": "Joey Azzopardi",
+          "claimedWeight": 0,
+          "trainer": "Ashley Maley",
+          "barrier": "6",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BONDI BAY",
+          "jockey": "Ms Tash Faithfull",
+          "claimedWeight": 0,
+          "trainer": "Sharon Miller",
+          "barrier": "4",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOUSLED CROWN",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Brett Pope",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOREVER DREAMING",
+          "jockey": "Troy Turner",
+          "claimedWeight": 0,
+          "trainer": "Colin Webster",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MYSTICAL MAN",
+          "jockey": "Ms Victoria Corver",
+          "claimedWeight": 0,
+          "trainer": "Ryan Hill",
+          "barrier": "1",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CLASSIC IMPACT",
+          "jockey": "Brandon Louis",
+          "claimedWeight": 0,
+          "trainer": "Mike Santich",
+          "barrier": "9",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GINGERQUEST",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Roy Rogers",
+          "barrier": "3",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "MAGIC MILLIONS PLATE",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "DAWN DANCER",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Ryan Hill",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WESTERN SPLENDOUR",
+          "jockey": "Patrick Carbery",
+          "claimedWeight": 0,
+          "trainer": "David Harrison",
+          "barrier": "4",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOY CRUSH",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "Luke Fernie",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OPTIMUS PRIME",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Michael Grantham",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUZ DEL SOL",
+          "jockey": "Ms Madi Derrick",
+          "claimedWeight": 0,
+          "trainer": "Roy Rogers",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BISCUITS",
+          "jockey": "Shaun O'Donnell",
+          "claimedWeight": 0,
+          "trainer": "Jade Tangaroa",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUNAR SPARK",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Embroja-Lee Altieri",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MANHATTAN SQUEEZE",
+          "jockey": "Laqdar Ramoly",
+          "claimedWeight": 0,
+          "trainer": "Neville Parnham",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NICABOOM",
+          "jockey": "Joey Azzopardi",
+          "claimedWeight": 0,
+          "trainer": "Joshua Krispyn",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THEY’REALLSISTERS",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "David Harrison",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "MRS MAC'S HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "PIN DEEP",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Chris & Michael Gangemi",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SIMPLY THINKIN’",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Adam Durrant",
+          "barrier": "1",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SONOFTHEBOSS",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Jim Taylor",
+          "barrier": "4",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TYCOON HARRY",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Jim Taylor",
+          "barrier": "8",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPRE OMNIA",
+          "jockey": "Austin Galati",
+          "claimedWeight": 0,
+          "trainer": "Dylan Bairstow",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AMAROO STAR",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Simon A Miller",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WICKED VENOM",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "Rhys Radford",
+          "barrier": "3",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIGHLAND FLAIR",
+          "jockey": "Keshaw Dhurun",
+          "claimedWeight": 0,
+          "trainer": "Hec McLaren",
+          "barrier": "6",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "GLENROY CHAFF PLATE",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "MAJOR FLIRT",
+          "jockey": "Austin Galati",
+          "claimedWeight": 0,
+          "trainer": "Roy Rogers",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WESTERN ACE",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Trevor Andrews",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BEAU’S A LAD",
+          "jockey": "Luke Campbell",
+          "claimedWeight": 0,
+          "trainer": "Greg Cave",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BACKCHATTING",
+          "jockey": "Keshaw Dhurun",
+          "claimedWeight": 0,
+          "trainer": "Fenella Martin",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEMBETON",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Neville Parnham",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRADBURY’S MOMENT",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Daniel Morton",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MORF",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Luke Fernie",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REMINISCENCE",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Grant & Alana Williams",
+          "barrier": "11",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SOMETHINK",
+          "jockey": "Jason Whiting",
+          "claimedWeight": 0,
+          "trainer": "Ashley Maley",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TORA BORA",
+          "jockey": "Shaun O'Donnell",
+          "claimedWeight": 0,
+          "trainer": "Jim Taylor",
+          "barrier": "6",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RADIO SILENCE",
+          "jockey": "Patrick Carbery",
+          "claimedWeight": 0,
+          "trainer": "Aaron Pateman",
+          "barrier": "2",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "HAPPY 80TH SEAN TWOMEY HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 2200,
+      "runners": [
+        {
+          "horse": "IOWA (IRE)",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Ryan Hill",
+          "barrier": "1",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KISSES FROM KELLY",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Holly Taylor",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GRAND RESERVE",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Daniel Morton",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANDLELIGHT SUPPER",
+          "jockey": "Troy Turner",
+          "claimedWeight": 0,
+          "trainer": "Alan Mathews",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AMAZING CHEAT",
+          "jockey": "Joey Azzopardi",
+          "claimedWeight": 0,
+          "trainer": "Donna Riordan",
+          "barrier": "7",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ARMINO",
+          "jockey": "Jordan Turner",
+          "claimedWeight": 0,
+          "trainer": "Aaron Mitchell",
+          "barrier": "5",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AUDIO BOY",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Adam Durrant",
+          "barrier": "4",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HARD QUESTIONS (NZ)",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Tony Scally",
+          "barrier": "11",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LONG GENES",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Michael Grantham",
+          "barrier": "10",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROYAL SPLENDOUR",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "Ray Vincent",
+          "barrier": "3",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STARWALKER (NZ)",
+          "jockey": "Shaun O'Donnell",
+          "claimedWeight": 0,
+          "trainer": "Julie Clements",
+          "barrier": "9",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "VALE GERARD PATTERSON HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "LORD GANNICUS",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Grant & Alana Williams",
+          "barrier": "3",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COLD SHIZZLE",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Darren McAuliffe",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SILVER EYE",
+          "jockey": "Shaun O'Donnell",
+          "claimedWeight": 0,
+          "trainer": "Adam Durrant",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FAMOUS DAIN",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TIMELESS GEM",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Stephen Miller",
+          "barrier": "4",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CASHEL PALACE",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Daniel Morton",
+          "barrier": "9",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNAZZLER",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "Jason Pateman",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DUG ANOTHER HOLE",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Neville Parnham",
+          "barrier": "10",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHERRY CAN RUN",
+          "jockey": "Jason Whiting",
+          "claimedWeight": 0,
+          "trainer": "Graeme Ballantyne",
+          "barrier": "7",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNCLE GERARD",
+          "jockey": "Troy Turner",
+          "claimedWeight": 0,
+          "trainer": "Jason Pateman",
+          "barrier": "8",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "MORLEY GROWERS MARKET HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ALL GRUNT",
+          "jockey": "Luke Campbell",
+          "claimedWeight": 0,
+          "trainer": "Tiarnna Noske",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MANHATTAN STRIP",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "7",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DE GRANDHOMME",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Adam Durrant",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HOWDY",
+          "jockey": "Jason Brown",
+          "claimedWeight": 0,
+          "trainer": "Mike Reed",
+          "barrier": "12",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUNBRONZED",
+          "jockey": "Austin Galati",
+          "claimedWeight": 0,
+          "trainer": "David Harrison",
+          "barrier": "11",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHINO LA DIVA",
+          "jockey": "Jason Whiting",
+          "claimedWeight": 0,
+          "trainer": "Daniel O'Connor",
+          "barrier": "8",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUCKY I AM",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Jim Taylor",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHOOTING SPIRIT",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Simon A Miller",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STARRING KNIGHT",
+          "jockey": "Ms Sasha Starley",
+          "claimedWeight": 0,
+          "trainer": "Brad Graham",
+          "barrier": "2",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BIG SHOTS",
+          "jockey": "Ms Jessica Gray",
+          "claimedWeight": 0,
+          "trainer": "Darryn Pateman",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPORETTO",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Neville Parnham",
+          "barrier": "10",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RAPID ROCK",
+          "jockey": "Brandon Louis",
+          "claimedWeight": 0,
+          "trainer": "Bruce Kay",
+          "barrier": "5",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "MISS ANDRETTI STAKES",
+      "grade": "Handicap, Minimum Weight 54kg, Two-Years-Old and Upwards, Apprentices cannot claim.",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1100,
+      "runners": [
+        {
+          "horse": "MOJO RHYTHM",
+          "jockey": "Patrick Carbery",
+          "claimedWeight": 0,
+          "trainer": "Mitchell Pateman",
+          "barrier": "14",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ACROMANTULA",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAN CRUSH",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "Luke Fernie",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CLEMENCEAU",
+          "jockey": "Jordan Turner",
+          "claimedWeight": 0,
+          "trainer": "Chris & Michael Gangemi",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WIND AND THE LION",
+          "jockey": "Ms Jade McNaught",
+          "claimedWeight": 0,
+          "trainer": "Sean & Jake Casey",
+          "barrier": "10",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MADHI GIRL",
+          "jockey": "William Pike",
+          "claimedWeight": 0,
+          "trainer": "Simon A Miller",
+          "barrier": "12",
+          "weight": "54.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CUT THE TALK",
+          "jockey": "Laqdar Ramoly",
+          "claimedWeight": 0,
+          "trainer": "Tim Crosby",
+          "barrier": "5",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ICE PICK NICK",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Stefan Vahala",
+          "barrier": "9",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JAZ SESSION",
+          "jockey": "Shaun O'Donnell",
+          "claimedWeight": 0,
+          "trainer": "Justine Erkelens",
+          "barrier": "6",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KEEP READING",
+          "jockey": "Jason Whiting",
+          "claimedWeight": 0,
+          "trainer": "Daniel O'Connor",
+          "barrier": "2",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RICHANCO",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "1",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SINFUL LIVING",
+          "jockey": "Ms Tash Faithfull",
+          "claimedWeight": 0,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "4",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WUBIN GOLD",
+          "jockey": "Troy Turner",
+          "claimedWeight": 0,
+          "trainer": "Colin Webster",
+          "barrier": "13",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "MCA POLYTRACK HANDICAP",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "WA",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "DEFENDING",
+          "jockey": "Ms Chanel Cooper",
+          "claimedWeight": 2,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "11",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STYLISH LORD",
+          "jockey": "Ms Holly Nottle",
+          "claimedWeight": 3,
+          "trainer": "Russell Stewart",
+          "barrier": "6",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GREAT FORTUNE",
+          "jockey": "Ms Holly Watson",
+          "claimedWeight": 0,
+          "trainer": "David Harrison",
+          "barrier": "3",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOLTA",
+          "jockey": "Austin Galati",
+          "claimedWeight": 0,
+          "trainer": "Tony Scally",
+          "barrier": "12",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RALLY THE TROOPS",
+          "jockey": "Ms Tash Faithfull",
+          "claimedWeight": 0,
+          "trainer": "Daniel & Ben Pearce",
+          "barrier": "10",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AMAMUS",
+          "jockey": "Steven Parnham",
+          "claimedWeight": 0,
+          "trainer": "Stephen Miller",
+          "barrier": "5",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GAMBLER’S GOLD",
+          "jockey": "Ms Jessica Gray",
+          "claimedWeight": 0,
+          "trainer": "Darryn Pateman",
+          "barrier": "4",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TRIPLE THE CHANT",
+          "jockey": "Joey Azzopardi",
+          "claimedWeight": 0,
+          "trainer": "Simon A Miller",
+          "barrier": "9",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DIVINE INANNA",
+          "jockey": "Laqdar Ramoly",
+          "claimedWeight": 0,
+          "trainer": "Matt Nash",
+          "barrier": "2",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANTIQUE QUEEN",
+          "jockey": "Clint Johnston-Porter",
+          "claimedWeight": 0,
+          "trainer": "Michael Grantham",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNIPPY SEAN",
+          "jockey": "Luke Campbell",
+          "claimedWeight": 0,
+          "trainer": "Daniel Morton",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RETURN OF THE MACH",
+          "jockey": "Ms Lucy Fiore",
+          "claimedWeight": 0,
+          "trainer": "Adam Durrant",
+          "barrier": "1",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ben Kennedy",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-11",
+      "raceTitle": "Race 7 - 9:00AM 3YO & Up Trial (Maidens) (1000 METRES)",
+      "raceVenue": "Caulfield Heath",
+      "raceState": "VIC",
+      "raceNumber": 7,
+      "raceGrade": "Maiden, Three-Years-Old and Upwards,",
+      "distance": null,
+      "horse": "PETE THE PROPHET",
+      "trainerName": "Lindsey Smith",
+      "spValue": null,
+      "spString": "",
+      "weight": 0,
+      "claimedWeight": null,
+      "finishingPosition": 2,
+      "barrier": 6,
+      "fieldSize": 7,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 8,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "daysSinceLastWin": null,
+    "recentForm": "2",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

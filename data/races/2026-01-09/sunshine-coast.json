@@ -1,0 +1,655 @@
+{
+  "venueInfo": {
+    "name": "Sunshine Coast",
+    "location": "",
+    "clubName": "Sunshine Coast",
+    "date": "2026-01-09",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan09%2CQLD%2CSunshine%20Coast&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Martin Collins Australia Class 1 Plate",
+      "grade": "Class 1, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 2200,
+      "runners": [
+        {
+          "horse": "OPTIMUS MAXIMUS",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Trevor Thomas",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REVELAIDE",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Vivian Coombes",
+          "barrier": "8",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FRIJOLES",
+          "jockey": "Morgan Butler",
+          "claimedWeight": 0,
+          "trainer": "Garry Schwenke",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAKAMAE (NZ)",
+          "jockey": "Corey Sutherland",
+          "claimedWeight": 1.5,
+          "trainer": "Stephen Sutherland",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "O’EXPLOSIVE",
+          "jockey": "Todd Banks",
+          "claimedWeight": 0,
+          "trainer": "Phillip Burns",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PELLINOR",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": null,
+          "trainer": "Olivia Cairns",
+          "barrier": "2",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIGHLAND KITTY",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 7,
+      "scratched": 0
+    },
+    {
+      "title": "Higgins Coatings Class 1 Handicap",
+      "grade": "Class 1, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "LARADO",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Matthew Hoysted",
+          "barrier": "13",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SUNLIGHT MAJESTY",
+          "jockey": "Vlad Duric",
+          "claimedWeight": 0,
+          "trainer": "David Vandyke",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TARA’S REWARD",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "3",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EAGLES BEWARE",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Trevor Thomas",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HEY DAISY",
+          "jockey": "Michael Rodd",
+          "claimedWeight": 0,
+          "trainer": "Paul Shailer",
+          "barrier": "6",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HANNABANA",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Taylah Mackinnon",
+          "barrier": "12",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MILESTONE",
+          "jockey": "Robbie Dolan",
+          "claimedWeight": 0,
+          "trainer": "James Healy",
+          "barrier": "2",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REVITUP CHARLIE",
+          "jockey": "Ms Leah Martyn",
+          "claimedWeight": 2,
+          "trainer": "Trevor Thomas",
+          "barrier": "8",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Club Mooloolaba BENCHMARK 70 Handicap",
+      "grade": "BenchMark 70, Handicap, Minimum Weight 54.5kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "TONNEOFGRIT",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Mark Currie",
+          "barrier": "4",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING OF THE JUNGLE",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Billy Healey",
+          "barrier": "7",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KING SPIRIT",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "10",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "AIR WE GO",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "1",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "APOLLO TEN",
+          "jockey": "Robbie Dolan",
+          "claimedWeight": 0,
+          "trainer": "Paul Butterworth",
+          "barrier": "8",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 5,
+      "scratched": 0
+    },
+    {
+      "title": "Kawana SLSC Class 2 Handicap",
+      "grade": "Class 2, Handicap, Minimum Weight 54kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1300,
+      "runners": [
+        {
+          "horse": "RUINS OF ROME",
+          "jockey": "Mark Du Plessis",
+          "claimedWeight": 0,
+          "trainer": "Chris & Corey Munce",
+          "barrier": "8",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THE BEAR",
+          "jockey": "Ms Olivia Webb",
+          "claimedWeight": 2,
+          "trainer": "Sharryn Livingstone",
+          "barrier": "15",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCHEDALE HERO",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WILD GYPSY",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Tony Gollan",
+          "barrier": "11",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAIKROW",
+          "jockey": "Vlad Duric",
+          "claimedWeight": 0,
+          "trainer": "Garnett Taylor",
+          "barrier": "14",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HOME ZONE",
+          "jockey": "Ms Leah Martyn",
+          "claimedWeight": 2,
+          "trainer": "Natalie McCall",
+          "barrier": "6",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LOVE TO TORQUE",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "2",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LADY WINDERMERE",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Chris Anderson",
+          "barrier": "7",
+          "weight": "54",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "Moffat Beach Brewing Co BENCHMARK 65 Handicap",
+      "grade": "BenchMark 65, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "FISTSOFFURY",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Liam Birchley",
+          "barrier": "7",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ONE BEAT NO BEAT",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Mark Currie",
+          "barrier": "2",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OKESUTORA",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SACRED BULL (NZ)",
+          "jockey": "Damien Thornton",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOLSHEVIC ROAD",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Robert Heathcote",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TAMBOURINE MAN",
+          "jockey": "Damien Boche",
+          "claimedWeight": 0,
+          "trainer": "Kevin Martin",
+          "barrier": "11",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KAFFIR LILY",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "12",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LA ROSETTA",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Toby Edmonds",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHANCE WITH WOLVES",
+          "jockey": "Morgan Butler",
+          "claimedWeight": 0,
+          "trainer": "Jan Aitkenhead",
+          "barrier": "14",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Ben Liddell Constructions RATINGS BAND 0 - 58 Handicap",
+      "grade": "N/A",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "ARTSPACE (NZ)",
+          "jockey": "Ms Bella Youngberry",
+          "claimedWeight": 3,
+          "trainer": "Lindsay Gough",
+          "barrier": "2",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BOLD HUSSAR",
+          "jockey": "Ms Leah Martyn",
+          "claimedWeight": 2,
+          "trainer": "Garnett Taylor",
+          "barrier": "1",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHAYSE ’N’ LEISA",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Les Kelly",
+          "barrier": "15",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CHEERS",
+          "jockey": "Rob Thorburn",
+          "claimedWeight": 2,
+          "trainer": "Cheyne Morphy",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SLUGWORTH",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "10",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRIDE OF SAVABELLA",
+          "jockey": "Ryan Wiggins",
+          "claimedWeight": 0,
+          "trainer": "Liam Birchley",
+          "barrier": "7",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KNOWITALL FRANK",
+          "jockey": "Jake Bayliss",
+          "claimedWeight": 0,
+          "trainer": "Corey & Kylie Geran",
+          "barrier": "9",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PRINCETON AWARD",
+          "jockey": "Boris Thornton",
+          "claimedWeight": 0,
+          "trainer": "Glenn Thornton",
+          "barrier": "8",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SAVVY BEE (NZ)",
+          "jockey": "Michael Rodd",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "3",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VANCITY",
+          "jockey": "Ms Cejay Graham",
+          "claimedWeight": 0,
+          "trainer": "Mark Currie",
+          "barrier": "14",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "TAB QTIS Three-Year-Old Maiden Plate",
+      "grade": "Maiden, Set Weights, Three-Years-Old, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "QLD",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "STORM IN SEATTLE",
+          "jockey": "Ben Thompson",
+          "claimedWeight": 0,
+          "trainer": "Matthew Hoysted",
+          "barrier": "11",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CRYPTIC BEAUTY",
+          "jockey": "Robbie Dolan",
+          "claimedWeight": 0,
+          "trainer": "Jack Bruce",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ENERGIA",
+          "jockey": "Ms Minonette Kennedy",
+          "claimedWeight": 0,
+          "trainer": "Belinda Mair",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GEITZ",
+          "jockey": "Ms Chelsea Baker",
+          "claimedWeight": 1.5,
+          "trainer": "Tony & Maddysen Sears",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GENUINE ARTICLE",
+          "jockey": "Ms Tiffani Brooker",
+          "claimedWeight": 0,
+          "trainer": "Taylah Mackinnon",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HEAD OF THE RIVER",
+          "jockey": "Daniel Moor",
+          "claimedWeight": 0,
+          "trainer": "Matthew Hoysted",
+          "barrier": "10",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KAMIGAMO (NZ)",
+          "jockey": "Ms Julie Busuttin",
+          "claimedWeight": 3,
+          "trainer": "Patrick Busuttin",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SNITZSTREAM",
+          "jockey": "Cody Collis",
+          "claimedWeight": 0,
+          "trainer": "Stuart Kendrick",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REIGN OF IVANHOE",
+          "jockey": "Corey Sutherland",
+          "claimedWeight": 1.5,
+          "trainer": "Louise White",
+          "barrier": "13",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LtD3C4LFdPyZbmy",
+  "json": "{\"id\":\"LtD3C4LFdPyZbmy\",\"url\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CSA%2CSportsbet%20Port%20Lincoln\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CSA%2CSportsbet%20Port%20Lincoln\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CSA%2CSportsbet+Port+Lincoln\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"ACCEPTANCES\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T23:20:46.786Z\"}",
+  "method": "GET",
+  "orderNo": null,
+  "retryCount": 0,
+  "uniqueKey": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CSA%2CSportsbet+Port+Lincoln",
+  "url": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CSA%2CSportsbet%20Port%20Lincoln"
+}

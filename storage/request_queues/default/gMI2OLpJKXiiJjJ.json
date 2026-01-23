@@ -1,9 +1,0 @@
-{
-	"id": "gMI2OLpJKXiiJjJ",
-	"json": "{\"id\":\"gMI2OLpJKXiiJjJ\",\"url\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec12,WA,Albany,Trial\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec12,WA,Albany,Trial\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec12%2CWA%2CAlbany%2CTrial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-08T12:42:41.536Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec12%2CWA%2CAlbany%2CTrial",
-	"url": "https://racingaustralia.horse/FreeFields/Results.aspx?Key=2025Dec12,WA,Albany,Trial"
-}

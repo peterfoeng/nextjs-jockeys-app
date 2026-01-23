@@ -1,0 +1,763 @@
+{
+  "venueInfo": {
+    "name": "Mansfield",
+    "location": "",
+    "clubName": "Mansfield",
+    "date": "2026-01-10",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan10%2CVIC%2CMansfield%2CPicnic&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "Final Cut Painting Maiden Plate",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "EYESPY THE EAGLE",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "Georgie Boucher",
+          "barrier": "8",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HIGHWAY ONE",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "John Fitzgerald",
+          "barrier": "2",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LIBRARCHY’S DANCER",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Paul Kramer",
+          "barrier": "6",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHINTARO SAMURAI",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Dennis Julius",
+          "barrier": "5",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STORMYFRIENDSHIP",
+          "jockey": "Ms Sophie Clayfield",
+          "claimedWeight": 0,
+          "trainer": "Mark Ashby",
+          "barrier": "7",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VIDACII",
+          "jockey": "Sebastian Galea",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "1",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARISTELA (NZ)",
+          "jockey": "Ms Maddison Morris",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "3",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "REEL QUOOT",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Dennis Julius",
+          "barrier": "4",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STEELOLOGY",
+          "jockey": "Rowan Cox",
+          "claimedWeight": 0,
+          "trainer": "Adam Burns",
+          "barrier": "9",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 9,
+      "scratched": 0
+    },
+    {
+      "title": "Lindsay Park Racing 0-28 Handicap",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "UP TO ME",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Jaymee Cockram",
+          "barrier": "2",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HERE WITH ME",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "Charles Cassar",
+          "barrier": "1",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THE VILLAGE FOX",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "3",
+          "weight": "65.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GONE WALKABOUT",
+          "jockey": "Sebastian Galea",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "5",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INDIAN HILLS",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "David Dean",
+          "barrier": "9",
+          "weight": "64.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MALLEE MAID",
+          "jockey": "Rowan Cox",
+          "claimedWeight": 0,
+          "trainer": "Anthony Dudley",
+          "barrier": "10",
+          "weight": "64.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GEMMA NASCOSTA",
+          "jockey": "Craig Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Stacey Kirkpatrick",
+          "barrier": "4",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SILVER SPRINGS (NZ)",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "8",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "STRIKEOUT",
+          "jockey": "Raymond Douglas",
+          "claimedWeight": 0,
+          "trainer": "Christine Boyd",
+          "barrier": "6",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LEWANDOWSKI",
+          "jockey": "Adam Roustoby",
+          "claimedWeight": null,
+          "trainer": "Keith Hall",
+          "barrier": "7",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "Foodworks Open Trophy Handicap",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "PINE VALLEY",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "7",
+          "weight": "70.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GWENNYBEGG",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Georgie Boucher",
+          "barrier": "8",
+          "weight": "69",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PATRICK",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Shelley Kirkpatrick",
+          "barrier": "12",
+          "weight": "69",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHAHIN",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "David Noonan",
+          "barrier": "5",
+          "weight": "69",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SCANDOVAL",
+          "jockey": "Ms Sophie Clayfield",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "1",
+          "weight": "68.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ZARTAMAY",
+          "jockey": "Ms Sarah McDonough",
+          "claimedWeight": 0,
+          "trainer": "Russell Green",
+          "barrier": "3",
+          "weight": "68.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOGGY BOTTOM",
+          "jockey": "Adam Roustoby",
+          "claimedWeight": 2,
+          "trainer": "Julie Taylor",
+          "barrier": "9",
+          "weight": "68",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SLEEP DEPRIVED (NZ)",
+          "jockey": "Sebastian Galea",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "13",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MIDIVANI",
+          "jockey": "Ms Maddison Morris",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "10",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FAIRNESS IS BEST",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "John Fitzgerald",
+          "barrier": "11",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POPEYE THE SAILOR",
+          "jockey": "Raymond Douglas",
+          "claimedWeight": 0,
+          "trainer": "Christine Boyd",
+          "barrier": "4",
+          "weight": "63.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RED SEQUOIA",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "6",
+          "weight": "63.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "Susan Hill Memorial Trophy Race",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "MARCO SPADA",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "10",
+          "weight": "69.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DESERT BOOTS",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "5",
+          "weight": "69",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PERSUASIVE STAR",
+          "jockey": "Raymond Douglas",
+          "claimedWeight": 0,
+          "trainer": "Geoff Brunsdon",
+          "barrier": "1",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HONEY SLIDER",
+          "jockey": "Sebastian Galea",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "7",
+          "weight": "66",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BANJETTE",
+          "jockey": "Ms Sophie Clayfield",
+          "claimedWeight": 0,
+          "trainer": "Dennis Julius",
+          "barrier": "2",
+          "weight": "64",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CULPABLE",
+          "jockey": "Craig Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Georgie Boucher",
+          "barrier": "8",
+          "weight": "63.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JEWEL BEN",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "John Fitzgerald",
+          "barrier": "3",
+          "weight": "63.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FROSTRATION",
+          "jockey": "Rowan Cox",
+          "claimedWeight": 0,
+          "trainer": "David Dean",
+          "barrier": "11",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BONSAFOX",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "6",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PUBSMIRICLESCRIPT",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "Lee Bowker",
+          "barrier": "4",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SPRINGER TIME",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Shelley Kirkpatrick",
+          "barrier": "9",
+          "weight": "64",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "POPES CAN TALK",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Brenda Bamford",
+          "barrier": "12",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 12,
+      "scratched": 0
+    },
+    {
+      "title": "Mansfield Motor Group Cup",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ANNOY’EN ONE",
+          "jockey": "Sebastian Galea",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "11",
+          "weight": "72.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LIKA MOSH",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "8",
+          "weight": "72.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "FOXWELL",
+          "jockey": "Ms Sarah McDonough",
+          "claimedWeight": 0,
+          "trainer": "Russell Green",
+          "barrier": "3",
+          "weight": "69.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELL BE COMING",
+          "jockey": "Raymond Douglas",
+          "claimedWeight": 0,
+          "trainer": "Christine Boyd",
+          "barrier": "9",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KAHUNGUNU",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "Tyson Barton",
+          "barrier": "10",
+          "weight": "66",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNDERSTATED",
+          "jockey": "Rowan Cox",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "12",
+          "weight": "65.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WILMA WOMBAT",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "4",
+          "weight": "65",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAMINAR",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "13",
+          "weight": "64",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MR ZIGMUND",
+          "jockey": "Adam Roustoby",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "5",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NASRIN",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "Peter Foster",
+          "barrier": "7",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANTHOPHILA",
+          "jockey": "Ms Sophie Clayfield",
+          "claimedWeight": 0,
+          "trainer": "Dennis Julius",
+          "barrier": "6",
+          "weight": "66",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MARINE PARADE (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Tyson Barton",
+          "barrier": "14",
+          "weight": "66.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COME GET ME",
+          "jockey": "Ms Melinda McDonald",
+          "claimedWeight": 0,
+          "trainer": "David Noonan",
+          "barrier": "2",
+          "weight": "64.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOMANADO",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "1",
+          "weight": "69",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 14,
+      "scratched": 0
+    },
+    {
+      "title": "Barastoc Trophy Race",
+      "grade": "N/A",
+      "trackType": "Turf",
+      "state": "VIC",
+      "trackCondition": "Good 4",
+      "distance": null,
+      "runners": [
+        {
+          "horse": "NEPELA",
+          "jockey": "Ms Catherine Masters",
+          "claimedWeight": 2,
+          "trainer": "Dan McCarthy",
+          "barrier": "7",
+          "weight": "73",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLUEBILEE",
+          "jockey": "Ben Moffat",
+          "claimedWeight": 0,
+          "trainer": "Troy Kilgower",
+          "barrier": "10",
+          "weight": "71.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ORIENTAL DANE",
+          "jockey": "Shaun Cooper",
+          "claimedWeight": 0,
+          "trainer": "Don Dwyer",
+          "barrier": "9",
+          "weight": "71.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SON OF ZORRO",
+          "jockey": "Ms Catherine Masters",
+          "claimedWeight": 2,
+          "trainer": "Dan McCarthy",
+          "barrier": "5",
+          "weight": "71.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MEATLOAF",
+          "jockey": "Ms Sarah McDonough",
+          "claimedWeight": 0,
+          "trainer": "Dick Dale",
+          "barrier": "6",
+          "weight": "70",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SULACO",
+          "jockey": "Jack Virgona",
+          "claimedWeight": 0,
+          "trainer": "Michael Harrison",
+          "barrier": "4",
+          "weight": "69.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NOBLE NIGHTCRAWLER",
+          "jockey": "Rob Kirkpatrick",
+          "claimedWeight": 0,
+          "trainer": "Olivia Osborne",
+          "barrier": "2",
+          "weight": "68",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PEINTRE’S PRIDE",
+          "jockey": "Ms Maddison Morris",
+          "claimedWeight": 0,
+          "trainer": "Brooke Verwey-Mitchell",
+          "barrier": "1",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RED STAR RUBI",
+          "jockey": "Leigh Taylor",
+          "claimedWeight": 0,
+          "trainer": "Russell Green",
+          "barrier": "8",
+          "weight": "67",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SO BEAUTIFUL STORY",
+          "jockey": "Ms Sophie Clayfield",
+          "claimedWeight": 0,
+          "trainer": "Adam Burns",
+          "barrier": "11",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "WHITE CARNATION",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Brenda Bamford",
+          "barrier": "3",
+          "weight": "63",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    }
+  ]
+}

@@ -126,7 +126,9 @@ const getDateIso = (dateStr) => {
   let day, month, year;
   try {
     const clean = dateStr.replace(/\s+/g, " ").trim();
-    const parts = clean.includes(",") ? clean.split(", ")[1].split(" ") : clean.split(" ");
+    const parts = clean.includes(",")
+      ? clean.split(", ")[1].split(" ")
+      : clean.split(" ");
     [day, month, year] = parts;
   } catch {
     return null;
@@ -177,20 +179,20 @@ const crawler = new CheerioCrawler({
     const state = request.url.includes("VIC")
       ? "VIC"
       : request.url.includes("NSW")
-      ? "NSW"
-      : request.url.includes("QLD")
-      ? "QLD"
-      : request.url.includes("SA")
-      ? "SA"
-      : request.url.includes("WA")
-      ? "WA"
-      : request.url.includes("TAS")
-      ? "TAS"
-      : request.url.includes("NT")
-      ? "NT"
-      : request.url.includes("ACT")
-      ? "ACT"
-      : "";
+        ? "NSW"
+        : request.url.includes("QLD")
+          ? "QLD"
+          : request.url.includes("SA")
+            ? "SA"
+            : request.url.includes("WA")
+              ? "WA"
+              : request.url.includes("TAS")
+                ? "TAS"
+                : request.url.includes("NT")
+                  ? "NT"
+                  : request.url.includes("ACT")
+                    ? "ACT"
+                    : "";
 
     console.log(`race venue: ${raceVenue}`);
 
@@ -296,9 +298,9 @@ const crawler = new CheerioCrawler({
 });
 
 await crawler.run([
-  "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA",
+  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA",
   // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=VIC",
-  // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=NSW",
+  "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=NSW",
   // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=SA",
   // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=TAS",
   // "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=ACT",

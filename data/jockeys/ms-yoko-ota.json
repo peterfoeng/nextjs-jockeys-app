@@ -1,0 +1,66 @@
+{
+  "name": "Ms Yoko Ota",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2026-01-06",
+      "raceTitle": "Colac Herald Maiden Plate",
+      "raceVenue": "bet365 Colac",
+      "raceState": "VIC",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 2010,
+      "horse": "COMPOSITE ACTION",
+      "trainerName": "Yoko Ota",
+      "spValue": 61,
+      "spString": "$61",
+      "weight": 57.5,
+      "claimedWeight": null,
+      "finishingPosition": 7,
+      "barrier": 2,
+      "fieldSize": 11,
+      "trackType": "Turf",
+      "trackCondition": "Good 3",
+      "originalFieldSize": 11,
+      "scratchedHorses": 0
+    },
+    {
+      "raceDate": "2026-01-01",
+      "raceTitle": "bet365 Same Race Multi BM52 Handicap",
+      "raceVenue": "Hanging Rock",
+      "raceState": "VIC",
+      "raceNumber": 5,
+      "raceGrade": "BenchMark 52, Handicap, Minimum Weight 55kg, Three-Years-Old and Upwards, Apprentices can claim.",
+      "distance": 1800,
+      "horse": "BLAAZAY",
+      "trainerName": "Yoko Ota",
+      "spValue": 18,
+      "spString": "$18",
+      "weight": 60,
+      "claimedWeight": null,
+      "finishingPosition": 5,
+      "barrier": 2,
+      "fieldSize": 10,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 14,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 2,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "5-7",
+    "currentStreak": {
+      "type": "losing",
+      "count": 2
+    }
+  }
+}

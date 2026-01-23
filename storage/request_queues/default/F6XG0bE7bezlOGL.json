@@ -1,9 +1,0 @@
-{
-	"id": "F6XG0bE7bezlOGL",
-	"json": "{\"id\":\"F6XG0bE7bezlOGL\",\"url\":\"https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA\",\"loadedUrl\":\"https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA\",\"uniqueKey\":\"https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-08T12:42:38.386Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA",
-	"url": "https://racingaustralia.horse/FreeFields/Calendar_Results.aspx?State=WA"
-}

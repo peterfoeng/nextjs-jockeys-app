@@ -1,0 +1,44 @@
+{
+  "name": "Ms Julie Busuttin",
+  "isFemale": false,
+  "rank": "Apprentice",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-29",
+      "raceTitle": "TWEED VALLEY WEEKLY CLASS 1 HANDICAP",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 6,
+      "raceGrade": "Class 1, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "distance": 1200,
+      "horse": "COOL RUNNING",
+      "trainerName": "Michael Lakey",
+      "spValue": 26,
+      "spString": "$26",
+      "weight": 57,
+      "claimedWeight": 2,
+      "finishingPosition": 9,
+      "barrier": 2,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 16,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

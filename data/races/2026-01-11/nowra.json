@@ -1,0 +1,783 @@
+{
+  "venueInfo": {
+    "name": "Nowra",
+    "location": "",
+    "clubName": "Nowra",
+    "date": "2026-01-11",
+    "sourceUrl": "https://racingaustralia.horse/FreeFields/Acceptances.aspx?Key=2026Jan11%2CNSW%2CNowra&recentForm=Y"
+  },
+  "races": [
+    {
+      "title": "TIGE'S TILES SOUTH NOWRA COUNTRY BOOSTED MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 56kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "ENTIRELY OAK",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Greg Stephens",
+          "barrier": "4",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ANY NEWS",
+          "jockey": "Andrew Adkins",
+          "claimedWeight": 0,
+          "trainer": "Terry Robinson",
+          "barrier": "8",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BLUE CATTLE DOG",
+          "jockey": "Michael Heagney",
+          "claimedWeight": 0,
+          "trainer": "Maree Hopkins",
+          "barrier": "1",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CAPITAL BABE",
+          "jockey": "Ms Alysha Collett",
+          "claimedWeight": 0,
+          "trainer": "Keith Dryden & Libby Snowden",
+          "barrier": "6",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CORIO WILLOW",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Tash Burleigh",
+          "barrier": "3",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "EYE FOR STYLE",
+          "jockey": "Ms Olivia Chambers",
+          "claimedWeight": 0,
+          "trainer": "Norm Gardner",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INNA ZOU",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Norm Gardner",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RAWANO (NZ)",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Gary Crossley",
+          "barrier": "7",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 8,
+      "scratched": 0
+    },
+    {
+      "title": "HANLON WINDOWS COUNTRY BOOSTED CLASS 2 HANDICAP- RISING STAR",
+      "grade": "Class 2, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "CASHBOOK",
+          "jockey": "Ms Olivia Chambers",
+          "claimedWeight": 0,
+          "trainer": "Todd Smart",
+          "barrier": "9",
+          "weight": "61",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DOLZINO",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Lauren Davies",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KOTAISHI",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Matthew Kelley",
+          "barrier": "5",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROCCO LINI",
+          "jockey": "Ms Rebecca Bronett Prag",
+          "claimedWeight": 0,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THINK I DO",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "1",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SANZENO",
+          "jockey": "Ms Rochelle Wedrat-Kroezen",
+          "claimedWeight": 3,
+          "trainer": "Danielle Seib",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HUMAN SHIELD",
+          "jockey": "Deon Le Roux",
+          "claimedWeight": 4,
+          "trainer": "Warren Ganderton",
+          "barrier": "4",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ROBRAN",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Luke Musson",
+          "barrier": "10",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TRIANON",
+          "jockey": "Zac Wadick",
+          "claimedWeight": 0,
+          "trainer": "Terry Robinson",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BEOGRAD BOY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "6",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 10,
+      "scratched": 0
+    },
+    {
+      "title": "SUPERIOR TURF SERVICES MAIDEN PLATE",
+      "grade": "Maiden, Set Weights, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1000,
+      "runners": [
+        {
+          "horse": "ANDHE’S BRAVE",
+          "jockey": "Ashley Morgan",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "1",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "BRITISH NAVY",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "4",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CARAFE",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "3",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ALL SAINTS",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "10",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SKITING",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "John Sharah",
+          "barrier": "5",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THREE WISHES",
+          "jockey": "Ms Alysha Collett",
+          "claimedWeight": 0,
+          "trainer": "Jarrod Austin",
+          "barrier": "7",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "INFANT WARRIOR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Marc & Mitchell Conners",
+          "barrier": "14",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KWIRKY SMILE",
+          "jockey": "Andrew Adkins",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "9",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NUNS CHORUS",
+          "jockey": "Jay Ford",
+          "claimedWeight": 0,
+          "trainer": "Richard Litt",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VINGT NEUF NOIR",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "8",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CINCERITAS",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jason Attard",
+          "barrier": "12",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OCEANSIDE (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Gary Crossley",
+          "barrier": "2",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OVER THE LIMIT",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Amanda Turner",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "GO STEEL BUILDING PRODUCTS BENCHMARK 66 HANDICAP",
+      "grade": "BenchMark 66, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1600,
+      "runners": [
+        {
+          "horse": "DARK VADOR",
+          "jockey": "Ashley Morgan",
+          "claimedWeight": 0,
+          "trainer": "Matthew Smith",
+          "barrier": "10",
+          "weight": "62.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ETCHED IN TIME",
+          "jockey": "Lee Magorrian",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "1",
+          "weight": "60.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "UNWRITTEN",
+          "jockey": "Andrew Adkins",
+          "claimedWeight": null,
+          "trainer": "Gregory Hickman",
+          "barrier": "4",
+          "weight": "60",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "HELL’S ITCH",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "9",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAH ALI",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Diane Poidevin Laine",
+          "barrier": "5",
+          "weight": "59.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOKYO STAR (NZ)",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Fabio Martino",
+          "barrier": "11",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OHTANI (NZ)",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Bryce Heys",
+          "barrier": "6",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "OKAMI STAR",
+          "jockey": "Ms Deanne Panya",
+          "claimedWeight": 0,
+          "trainer": "Clarry Conners",
+          "barrier": "3",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TWISTED LOVE (NZ)",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "7",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "JAMARNI",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Robert & Luke Price",
+          "barrier": "2",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "THINK I’M IRISH",
+          "jockey": "Ms Robyn Freeman",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "8",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 11,
+      "scratched": 0
+    },
+    {
+      "title": "PELICAN ROCKS CAFE CLASS 3 BENCHMARK 66 HANDICAP",
+      "grade": "Class 3, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1200,
+      "runners": [
+        {
+          "horse": "BAVETTE",
+          "jockey": "Jeff Penza",
+          "claimedWeight": 0,
+          "trainer": "Matthew Kelley",
+          "barrier": "2",
+          "weight": "61.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAJESTUOSO PHOENIX",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "Ciaron Maher",
+          "barrier": "12",
+          "weight": "59",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAZ KANATA",
+          "jockey": "Ms Alysha Collett",
+          "claimedWeight": 0,
+          "trainer": "Jason Coyle",
+          "barrier": "10",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LETHAL LOVE",
+          "jockey": "Dale Cole",
+          "claimedWeight": 3,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "8",
+          "weight": "58",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "NIGHTS INFERNO",
+          "jockey": "Ms Amy McLucas",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CASANOVA",
+          "jockey": "Chad Lever",
+          "claimedWeight": 0,
+          "trainer": "Claire Lever",
+          "barrier": "9",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LYRICAL BEAUTY",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Matthew Dale",
+          "barrier": "1",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOOLOO BUCKY",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Paul Murray",
+          "barrier": "7",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "KEN’KER",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Dale Wagstaff",
+          "barrier": "5",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANDO ATTITUDE",
+          "jockey": "Ms Claire Ramsbotham",
+          "claimedWeight": 1.5,
+          "trainer": "Barbara Joseph, Paul & Matt Jones",
+          "barrier": "13",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MAGIC SPEED",
+          "jockey": "Ms Molly Bourke",
+          "claimedWeight": 0,
+          "trainer": "Paul Facoory",
+          "barrier": "4",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "DEEP EMOTION",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "3",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "RANGATIRA",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "John Rolfe",
+          "barrier": "11",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 13,
+      "scratched": 0
+    },
+    {
+      "title": "MAGIC MILLIONS JANUARY YEARLING SALE SUPER MAIDEN HANDICAP",
+      "grade": "Maiden, Handicap, Minimum Weight 55kg, Apprentices can claim.",
+      "trackType": "Unknown",
+      "state": "NSW",
+      "trackCondition": "Unknown",
+      "distance": 1400,
+      "runners": [
+        {
+          "horse": "DON’T",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jason Coyle",
+          "barrier": "1",
+          "weight": "58.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LAPIS LAZULI",
+          "jockey": "Andrew Adkins",
+          "claimedWeight": 0,
+          "trainer": "Joseph Pride",
+          "barrier": "6",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LEGO MASTER",
+          "jockey": "Ashley Morgan",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "5",
+          "weight": "57.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "TOUSSAINT (NZ)",
+          "jockey": "Keagan Latham",
+          "claimedWeight": 0,
+          "trainer": "John O'Shea & Tom Charlton",
+          "barrier": "8",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "VEGA SICILIA",
+          "jockey": "Teaque Gould",
+          "claimedWeight": 0,
+          "trainer": "Richard & Will Freedman",
+          "barrier": "14",
+          "weight": "56.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ELLE TEE",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Theresa Bateup",
+          "barrier": "12",
+          "weight": "56",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "CANJUSTIFY",
+          "jockey": "Jay Ford",
+          "claimedWeight": 0,
+          "trainer": "Richard Litt",
+          "barrier": "3",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "GOLDEN CASTEL",
+          "jockey": "Adam Farragher",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "11",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "PROISARYA (NZ)",
+          "jockey": "Ms Olivia Chambers",
+          "claimedWeight": 0,
+          "trainer": "Bjorn Baker",
+          "barrier": "7",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LADY NANCY",
+          "jockey": "Ms Amy McLucas",
+          "claimedWeight": 0,
+          "trainer": "Con Karakatsanis",
+          "barrier": "9",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "SHADOW OF LIGHT",
+          "jockey": "Ms Alysha Collett",
+          "claimedWeight": 0,
+          "trainer": "John Thompson",
+          "barrier": "15",
+          "weight": "55",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "MILLY MOLLY MANDY",
+          "jockey": "Brock Ryan",
+          "claimedWeight": 0,
+          "trainer": "Gerald Ryan & Sterling Alexiou",
+          "barrier": "10",
+          "weight": "55.5",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "COLD MIST",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Paul Murray",
+          "barrier": "13",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "LUCKY STAR",
+          "jockey": "Chad Lever",
+          "claimedWeight": 0,
+          "trainer": "Claire Lever",
+          "barrier": "2",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        },
+        {
+          "horse": "ATTESTOR",
+          "jockey": "",
+          "claimedWeight": 0,
+          "trainer": "Jason Attard",
+          "barrier": "17",
+          "weight": "57",
+          "sp": 0,
+          "spValue": "0"
+        }
+      ],
+      "originalFieldSize": 15,
+      "scratched": 0
+    }
+  ]
+}

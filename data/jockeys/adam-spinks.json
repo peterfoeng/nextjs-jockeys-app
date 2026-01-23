@@ -1,0 +1,44 @@
+{
+  "name": "Adam Spinks",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-12",
+      "raceTitle": "SMIRNOFF CRUSH MAIDEN PLATE",
+      "raceVenue": "Murwillumbah",
+      "raceState": "NSW",
+      "raceNumber": 1,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1550,
+      "horse": "WHISKEY GLASSES",
+      "trainerName": "Olivia Cairns",
+      "spValue": 101,
+      "spString": "$101",
+      "weight": 59,
+      "claimedWeight": null,
+      "finishingPosition": 8,
+      "barrier": 5,
+      "fieldSize": 8,
+      "trackType": "Turf",
+      "trackCondition": "Good 4",
+      "originalFieldSize": 9,
+      "scratchedHorses": 1
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "8",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}

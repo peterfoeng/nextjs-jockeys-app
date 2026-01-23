@@ -1,0 +1,44 @@
+{
+  "name": "Donovan Yeo",
+  "isFemale": false,
+  "rank": "",
+  "location": "",
+  "age": "",
+  "stats": [
+    {
+      "raceDate": "2025-12-14",
+      "raceTitle": "ONRAIL INDUSTRIES MIDWAY MAIDEN PLATE",
+      "raceVenue": "Hawkesbury",
+      "raceState": "NSW",
+      "raceNumber": 3,
+      "raceGrade": "Maiden, Set Weights, Apprentices can claim.",
+      "distance": 1000,
+      "horse": "UNJUST",
+      "trainerName": "John Sharah",
+      "spValue": 201,
+      "spString": "$201",
+      "weight": 57,
+      "claimedWeight": null,
+      "finishingPosition": 9,
+      "barrier": 5,
+      "fieldSize": 12,
+      "trackType": "Turf",
+      "trackCondition": "Soft 6",
+      "originalFieldSize": 16,
+      "scratchedHorses": 4
+    }
+  ],
+  "derived": {
+    "totalRides": 1,
+    "totalWins": 0,
+    "totalPlaces": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "daysSinceLastWin": null,
+    "recentForm": "9",
+    "currentStreak": {
+      "type": "losing",
+      "count": 1
+    }
+  }
+}
